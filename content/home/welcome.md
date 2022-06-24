@@ -8,7 +8,6 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
       Sunflowers Wales  
-      Community Group
 hero_media: supportivehands.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -23,6 +22,8 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
+
+# Community Group
 
 <br>
 
