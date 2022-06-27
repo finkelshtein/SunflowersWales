@@ -27,6 +27,6 @@ design:
 
 <br>
 
-Welcome to the website of **Sunflowers Wales**, a nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
+Welcome to the website of **Sunflowers Wales**, a nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion..
 
 You can find here info about us, our activities, coming events, and various ways to support Ukrainians suffering from the barbaric aggression. 
