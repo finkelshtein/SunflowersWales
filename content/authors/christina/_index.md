@@ -1,19 +1,23 @@
 ---
 # Display name
-title: Dmitri Finkelshtein
+title: Christina Evans
+
+# Username (this should match the folder name)
+authors:
+  - christina
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Chair
+role: Secretary
 
 # Organizations/Affiliations
 # organizations:
-#   - name: Associate Professor at Swansea University
-#     url: 'http://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/'
+#   - name: Stanford University
+#     url: ''
 
-# # Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
@@ -40,16 +44,10 @@ role: Chair
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:finkelshtein@gmail.com'
+    link: 'mailto:evanscs@hotmail.co.uk'
   - icon: facebook
     icon_pack: fab
-    link: https://www.facebook.com/dmitri.finkelshtein
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/finkelshtein
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/dfinkelshtein/
+    link: https://www.facebook.com/christina.evans.752
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -65,15 +63,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Officers
 ---
 
-Dmitri Finkelshtein is an Associate Professor in Mathematics at [Swansea University](http://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/). You may visit his personal [research web-page](https://finkelshtein.netlify.app/).
-
-Dmitri is from Kyiv. He moved to the UK in 2013, and he has been working as a Ukrainian volunteer since 2014. 
