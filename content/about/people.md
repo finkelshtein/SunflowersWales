@@ -10,7 +10,6 @@ headless: true
 weight: 68
 
 title: About us
-subtitle:
 
 content:
   # Choose which groups/teams of users to display.
@@ -23,3 +22,6 @@ design:
   show_role: true
   show_social: true
 ---
+
+##  <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Constitution.pdf" "newtab" %}}Read our Constitution{{% /staticref %}}
+
