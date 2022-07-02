@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Community group
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Sunflowers Wales'
+    description: "A nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia's invasion."
+    twitter: 'sunflowerswales'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Dmitri Finkelshtein. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: 'Jun 1, 2022'
+  time_format: '10:00 AM'
   address_format: en-us
 
 # Site features
