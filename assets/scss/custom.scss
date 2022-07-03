@@ -8,3 +8,51 @@ nav#navbar-main li.nav-item {
     font-variant: small-caps;
 }
 
+
+element.style {
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.btn {
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    line-height: 0.9;
+    border-radius: 0.3rem;
+}
+.pl-3, .px-3 {
+    padding-left: 1rem !important;
+}
+.pb-3, .py-3 {
+    padding-bottom: 1rem !important;
+}
+.pr-3, .px-3 {
+    padding-right: 1rem !important;
+}
+.pt-3, .py-3 {
+    padding-top: 1rem !important;
+}
+
+
+
+.wg-hero.light a.btn, .btn-primary {
+  color: #ffd303;
+  background-color: #085bb9;
+  border-color: #085bb9;}
+
+  .double-border {
+    background-color: #ffd303;
+    box-shadow:
+      inset 0 0 0 0.4rem #085bb9;
+    /* And so on and so forth, if you want border-ception */
+    margin-right: +35vh;
+    padding: 0.8rem;
+
+  }
+
+  blockquote {
+    color: #085bb9;
+    font-weight: bold;
+    border-left: 0.25rem solid #ffd303;
+    margin: 0.2rem 0.2rem 0.2rem 2.75rem;
+  }

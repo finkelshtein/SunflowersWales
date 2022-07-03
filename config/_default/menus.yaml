@@ -4,9 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: <span class="double-border" style = "color:#085bb9; font-weight:bold">DONATE!</span>
+    url: donate
+    weight: 1
   - name: Home
     url: .
-    weight: 5
+    weight: 9
   - name: About
     url: about
     weight: 10
