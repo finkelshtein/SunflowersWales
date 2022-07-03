@@ -72,3 +72,6 @@ user_groups:
   - Committee members
 ---
 
+Oksana Shapovalova is a Teacher Assistant working at the Gower College. She is also a Maths teacher with many year of experience in Ukraine.
+
+Oksana is from Kherson. He moved to the UK in 2013, and he has been working as a Ukrainian volunteer since 2014.

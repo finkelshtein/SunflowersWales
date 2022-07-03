@@ -38,7 +38,9 @@ element.style {
 .wg-hero.light a.btn, .btn-primary {
   color: #ffd303;
   background-color: #085bb9;
-  border-color: #085bb9;}
+  border-color: #085bb9;
+  font-weight: bold;
+}
 
   .double-border {
     background-color: #ffd303;
@@ -51,9 +53,7 @@ element.style {
   }
 
   blockquote { 
-    text-shadow: 1px 0 #000;
-    color: #085bb9;
-    font-weight: bold;
-    border-left: 0.25rem solid #ffd303;
+    color: #000;
+    border-left: 0.25rem solid #085bb9;
     margin: 0.2rem 0.2rem 0.2rem 2.75rem;
   }

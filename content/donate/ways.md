@@ -31,12 +31,12 @@ design:
 
 * Buy supplies from our Amazon list (to go straight to us):
 
-    <a href="https://www.amazon.co.uk/hz/wishlist/ls/3IKD8RINIZODU">**https://www.amazon.co.uk/hz/wishlist/ls/3IKD8RINIZODU**</a>
+    <a href="https://www.amazon.co.uk/hz/wishlist/ls/3IKD8RINIZODU">https://www.amazon.co.uk/hz/wishlist/ls/3IKD8RINIZODU</a>
 
-*  If you have other supplies/aid to donate just <a href="/contact/">**contact us**</a>!
+*  If you have other supplies/aid to donate just <a href="/contact/">contact us</a>!
 
 
-# Where your help will go:
+# Why do we need your help
 
 * Since 2014, our team members organise regular shipments of humanitarian aid and medical supplies to Ukraine. After the start of massive Russia's invasion oif Ukraine in February 2022, we are constantly seeking for new sources of donations!
 
