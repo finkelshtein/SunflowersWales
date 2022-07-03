@@ -50,7 +50,8 @@ element.style {
 
   }
 
-  blockquote {
+  blockquote { 
+    text-shadow: 1px 0 #000;
     color: #085bb9;
     font-weight: bold;
     border-left: 0.25rem solid #ffd303;
