@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jun 1, 2022'
-  time_format: '10:00 AM'
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
