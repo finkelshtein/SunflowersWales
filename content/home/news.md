@@ -8,6 +8,7 @@ title: Latest News
 
 content:
   count: 5
+  share: false
   filters:
     author: ''
     category: ''
@@ -17,6 +18,7 @@ content:
   offset: 0
   order: desc
   page_type: post
+   
 design:
   view: 3
   columns: '1'

@@ -36,7 +36,7 @@ design:
 *  If you have other supplies/aid to donate just <a href="/contact/">contact us</a>!
 
 
-# Why do we need your help
+# Why we need your help
 
 * Since 2014, our team members organise regular shipments of humanitarian aid and medical supplies to Ukraine. After the start of massive Russia's invasion oif Ukraine in February 2022, we are constantly seeking for new sources of donations!
 
