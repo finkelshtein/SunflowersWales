@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: contact
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,34 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contacts
 subtitle:
 
-content:
-  # Contact (edit or remove options as required)
-
-  email: sunflowerswales@gmail.com 
-  # appointment_url: 'https://sunflowerswales.org.uk'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
-
-  # Automatically link email and phone or display as text?
-  autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Please contact us by using <a href="mailto:sunflowerswales@gmail.com">the Community Group email</a>.
+
+You may contact each member of our team using their personal emails or through FB Messenger, see <a href="/about/">About</a> page.
+
+You may also find useful to join our <a href="https://www.facebook.com/groups/601579067497655">Facebook group</a>.
