@@ -17,6 +17,7 @@ content:
   user_groups:
     - Officers
     - Committee members
+    - Members
 design:
   show_interests: true
   show_role: true
