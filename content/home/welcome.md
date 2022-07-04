@@ -31,4 +31,4 @@ Welcome to the website of **Sunflowers Wales**, a nonprofit Community Group orga
 
 You can find here info <a href="/about/">about us</a>, our <a href="/news/">activities</a>, coming and recent <a href="/events/">events</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression. 
 
-{{% cta cta_link="./donate/" cta_text="DONATE!" %}}
+<!-- {{% cta cta_link="./donate/" cta_text="DONATE!" %}} -->

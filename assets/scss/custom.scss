@@ -48,8 +48,10 @@ element.style {
       inset 0 0 0 0.4rem #085bb9;
     /* And so on and so forth, if you want border-ception */
     margin-right: +35vh;
-    padding: 0.8rem;
-
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    padding-left: 4.8rem;
+    padding-right: 4.8rem;
   }
 
   blockquote { 
