@@ -17,8 +17,8 @@ design:
   columns: '1'
 ---
 
-Please contact us by using <a href="mailto:sunflowerswales@gmail.com">the Community Group email</a>.
+Please contact us through <a href="mailto:sunflowerswales@gmail.com">our Community Group email</a>.
 
-You may contact each member of our team using their personal emails or through FB Messenger, see <a href="/about/">About</a> page.
+You may also contact each member of our team through their personal emails or through FB Messenger, see <a href="/about/">About</a> page.
 
 You may also find useful to join our <a href="https://www.facebook.com/groups/601579067497655">Facebook group</a>.
