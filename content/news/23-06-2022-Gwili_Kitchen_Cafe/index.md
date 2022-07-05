@@ -4,6 +4,7 @@ date: 2022-06-23
 image:
   focal_point: 'top'
 share: false
+authors: [bohdana]
 ---
 
 A great Ukrainian fundraising evening, organised by deputy mayor <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>. 
@@ -21,3 +22,4 @@ Diolch yn fawr!
 
 <div style="margin-top: 0;"><img src="flags.jpg" alt="Flags" width="70%" style="display: block; margin-top: 0; margin-left: auto;
   margin-right: auto;"/></div>
+

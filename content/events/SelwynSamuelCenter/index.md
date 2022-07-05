@@ -54,6 +54,8 @@ date: '2022-06-02'
 # #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 # #   Otherwise, set `projects = []`.
 # projects:
+
+authors: [bohdana]
 ---
 
 What a day in Llanelli in Selwyn Samuel Center!

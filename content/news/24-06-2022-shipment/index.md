@@ -4,6 +4,7 @@ date: 2022-06-24
 image:
   focal_point: 'top'
 share: false
+authors: [admin]
 ---
 
 Ca. 3.5 m<sup>3</sup> of parcels with humanitarian aid and medical supplies  were sent to volunteers in Ukraine (Chornomorsk, Khmelnytskyi, Lviv, Uzhhorod) who sent them then to hospitals, defence units, displaced people centres etc. 
