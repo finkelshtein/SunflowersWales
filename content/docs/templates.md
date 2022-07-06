@@ -26,3 +26,5 @@ design:
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Donate-QRcode.png" "newtab" %}}QR code that leads to the donation page, in PNG{{% /staticref %}}
 
+## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Amazon-QRcode.png" "newtab" %}}QR code that leads to the Amazon list, in PNG{{% /staticref %}}
+
