@@ -28,5 +28,5 @@ design:
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Amazon-QRcode.png" "newtab" %}}QR code that leads to the Amazon list, in PNG{{% /staticref %}}
 
-## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flayer.png" "newtab" %}}Flayer, in PNG{{% /staticref %}}
+## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer.png" "newtab" %}}Flyer, in PNG{{% /staticref %}}
 
