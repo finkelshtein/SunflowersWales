@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Templates  
+title: Templates and calendar
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -30,3 +30,6 @@ design:
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer.png" "newtab" %}}Flyer, in PNG{{% /staticref %}}
 
+# Calendar of events with our members
+
+<iframe src="https://calendar.google.com/calendar/embed?src=sunflowerswales%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
