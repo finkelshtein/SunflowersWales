@@ -17,9 +17,9 @@ design:
 
 ## <i class="fa-solid fa-file-word" style="color:#085BB9"></i> {{% staticref "uploads/Letterhead.docx" "newtab" %}}Letterhead{{% /staticref %}}
 
-## <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Logo.pdf" "newtab" %}}Logo in PDF{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Logo.png" "newtab" %}}Logo in PNG{{% /staticref %}}
+## <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Logo.pdf" "newtab" %}}Logo in PDF{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Logo.png" "newtab" %}}... and in PNG{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Logo-t.png" "newtab" %}}... and transparent in PNG{{% /staticref %}}
 
-## <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Labels 4x1.pdf" "newtab" %}}Labels for money boxes, parcels, *etc.*, in PDF (4xA4){{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Labels 4x1.png" "newtab" %}}...and in PNG (4xA4){{% /staticref %}}
+## <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Labels 4x1.pdf" "newtab" %}}Labels for money boxes, parcels, *etc.*, in PDF (4x1 A4){{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Labels 4x1.png" "newtab" %}}...and in PNG (4x1 A4){{% /staticref %}}
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/QRcode.png" "newtab" %}}QR code that leads to this site, in PNG{{% /staticref %}}
 
@@ -28,7 +28,7 @@ design:
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Amazon-QRcode.png" "newtab" %}}QR code that leads to the Amazon list, in PNG{{% /staticref %}}
 
-## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer.png" "newtab" %}}Flyer, in PNG{{% /staticref %}}
+## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer.png" "newtab" %}}Flyer to print, in PNG{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer-wide.png" "newtab" %}}... and for widescreen presentation (16x9), in PNG{{% /staticref %}}
 
 # Calendar of events with our members
 
