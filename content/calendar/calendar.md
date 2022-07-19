@@ -15,6 +15,6 @@ design:
   css_class:
 ---
 
-You can import the calendar below by following <a href="https://calendar.google.com/calendar/u/0?cid=c3VuZmxvd2Vyc3dhbGVzQGdtYWlsLmNvbQ" target = "_blank">the link</a>. 
+You can import the calendar below by exploring <a href="https://calendar.google.com/calendar/u/0?cid=c3VuZmxvd2Vyc3dhbGVzQGdtYWlsLmNvbQ" target = "_blank">the following link</a>. 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=sunflowerswales%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
