@@ -16,5 +16,14 @@ Ca. 500 emergency (Israeli haemorrhage control) bandages were bought by our grou
 Ca. 100 fireproof costumes for Ukrainian firemen were kindly donated by Gloceste community. 
 
 Many thanks to everyone involved!
+
+<div style="text-align:center">Before</div>
 <div style="margin-top: 0;"><img src="fireproof.jpg" alt="fireproof" width="50%" style="display: inline; margin-top: 0;"/><img src="glocester.jpg" alt="glocester" width="50%" style="display: inline; margin-top: 0;"/></div>
+
+<div style="text-align:center">After</div>
+<div style="margin-top: 0;"><img src="chornomorsk.jpg" alt="fireproof" width="80%" style="margin-top: 0;"/></div>
+
+
+
+
 
