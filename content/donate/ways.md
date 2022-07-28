@@ -23,6 +23,14 @@ design:
     text_color_light: false
 ---
 
+* Donate online (PayPal or card):
+
+<form action="https://www.paypal.com/donate" method="post" target="_top" align="center">
+<input type="hidden" name="hosted_button_id" value="8CTUQ9ASWTF7U" />
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 * Send a donation to our bank account:
 >   Bank name: Lloyds Bank</br>
     Account name: Sunflowers Wales</br>

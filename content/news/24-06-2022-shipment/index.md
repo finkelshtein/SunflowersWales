@@ -19,3 +19,5 @@ Many thanks to the members of *Sunflowers Wales*, who made so fantastic job in f
 
 In less than a week, the parcels were received, sorted, and forwarded further by Ukrainian volunteers:
 <div style="margin-top: 0;"><img src="report1.jpg" alt="report1" width="50%" style="display: inline; margin-top: 0;"/><img src="report2.jpg" alt="report2" width="50%" style="display: inline; margin-top: 0;"/></div>
+
+<div style="margin-top: 0;"><img src="report3.jpg" alt="report3" width="50%" style="display: inline; margin-top: 0;"/><img src="report4.jpg" alt="report4" width="50%" style="display: inline; margin-top: 0;"/></div>
