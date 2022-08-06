@@ -21,3 +21,5 @@ In less than a week, the parcels were received, sorted, and forwarded further by
 <div style="margin-top: 0;"><img src="report1.jpg" alt="report1" width="50%" style="display: inline; margin-top: 0;"/><img src="report2.jpg" alt="report2" width="50%" style="display: inline; margin-top: 0;"/></div>
 
 <div style="margin-top: 0;"><img src="report3.jpg" alt="report3" width="50%" style="display: inline; margin-top: 0;"/><img src="report4.jpg" alt="report4" width="50%" style="display: inline; margin-top: 0;"/></div>
+
+<div style="margin-top: 0; text-align: center"><img src="report5.jpg" alt="report5" width="50%" style="display: inline; margin-top: 0;"/></div>
