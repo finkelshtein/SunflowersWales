@@ -9,7 +9,7 @@ share: false
 
 date: '2022-07-31' 
 
-authors: [christina]
+authors: [admin]
 ---
 
 Members of <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> Facebook group joined protest in Cardiff against russian treatment of Ukrainian prisoners of war organised by <a href="https://www.facebook.com/groups/cardiffstandwithukraine/" target="_blank">Cardiff Stand With Ukraine</a> Facebook group. 
