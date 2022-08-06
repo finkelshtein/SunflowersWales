@@ -30,3 +30,5 @@ design:
 
 ## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer.png" "newtab" %}}Flyer to print, in PNG{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer-wide.png" "newtab" %}}... and for widescreen presentation (16x9), in PNG{{% /staticref %}}
 
+
+## <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer-English.png" "newtab" %}}Modified flyer in English with Facebook group, in PNG{{% /staticref %}} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa-solid fa-file-image" style="color:#085BB9"></i> {{% staticref "uploads/Flyer-Ukrainian.png" "newtab" %}}... and in Ukrainian (subject to changes), in PNG{{% /staticref %}}

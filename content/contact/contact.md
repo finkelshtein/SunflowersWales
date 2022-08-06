@@ -21,4 +21,4 @@ Please contact us through <a href="mailto:sunflowerswales@gmail.com">our Communi
 
 You may also contact each member of our team through their personal emails or through FB Messenger, see <a href="/about/">About</a> page.
 
-You may also find useful to join our <a href="https://www.facebook.com/groups/601579067497655">Facebook group</a>.
+You may also find useful to join our Facebook group <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a>.

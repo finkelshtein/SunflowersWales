@@ -34,7 +34,7 @@ We are a group of friends who actively worked from 2014; in particular, we organ
 Starting from April 2022, another our big activity is the help to Ukrainian refugees.
 We are aimed to unite Ukrainians arrived in Wales, help them to settle to the Welsh community keeping the contact with their own. 
 
-You can find on this site info <a href="/about/">about us</a>, our <a href="/news/">activities</a>, coming and recent <a href="/events/">events</a>, our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression. 
+You can find on this site info <a href="/about/">about us</a>, our <a href="/news/">shipments and fundraising activities</a>,  <a href="/events/">recent events</a> we organised or participated, about our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression. 
 
 
 
