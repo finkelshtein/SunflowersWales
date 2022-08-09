@@ -24,4 +24,7 @@ main:
     weight: 60
   - name: Calendar
     url: calendar
+    weight: 70
+  - name: Reports
+    url: reports
     weight: 80
