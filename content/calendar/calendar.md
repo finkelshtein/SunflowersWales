@@ -13,6 +13,8 @@ design:
   # Add custom styles
   css_style:
   css_class:
+  background:
+    color: '#fbfbe2'
 ---
 
 You can import the calendar below by exploring <a href="https://calendar.google.com/calendar/u/0?cid=c3VuZmxvd2Vyc3dhbGVzQGdtYWlsLmNvbQ" target = "_blank">the following link</a>. 

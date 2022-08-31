@@ -15,6 +15,8 @@ subtitle:
 
 design:
   columns: '1'
+  background:
+    color: '#fbfbe2'
 ---
 
 ## June–July 2022

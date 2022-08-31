@@ -7,6 +7,9 @@ main:
   - name: <span class="double-border" style = "color:#085bb9; font-weight:bold">DONATE!</span>
     url: donate
     weight: 1
+  - name: <span class="blue_bg" style = "color:#ffd303; font-weight:bold"><span class="text-nowrap">Contacts&nbsp;<i class="fa-brands fa-facebook"></i><i class="fa-solid fa-at"></i></span></span>
+    url: contact
+    weight: 3
   - name: Home
     url: .
     weight: 9
@@ -19,12 +22,12 @@ main:
   - name: Events
     url: events
     weight: 40
-  - name: Contact
-    url: contact
-    weight: 60
+  # - name: Contact
+  #   url: contact
+  #   weight: 60
   - name: Calendar
     url: calendar
     weight: 70
   - name: Reports
     url: reports
-    weight: 80
+    weight: 50

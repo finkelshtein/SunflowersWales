@@ -13,6 +13,8 @@ design:
   # Add custom styles
   css_style:
   css_class:
+  background:
+    color: '#fbfbe2'
 ---
 
 ## <i class="fa-solid fa-file-word" style="color:#085BB9"></i> {{% staticref "uploads/Letterhead.docx" "newtab" %}}Letterhead{{% /staticref %}}
