@@ -16,9 +16,7 @@ design:
   css_style: 
   css_class:
   background:
-    gradient_start: '#FFF94C'
-    gradient_end: '#004FF9'
-    gradient_angle: 45
+    color: '#fbfbe2'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
