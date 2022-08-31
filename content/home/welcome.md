@@ -16,16 +16,25 @@ design:
   css_style:
   css_class:
   background:
-    gradient_start: '#FFF94C'
-    gradient_end: '#004FF9'
-    gradient_angle: 45
+    color: '#fbfbe2'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
+
+cta:
+  url: 'https://www.facebook.com/groups/601579067497655'
+  label: Find us on Facebook
+  icon_pack: fab
+  icon: facebook
+cta_alt:
+  url: 'uploads/Constitution.pdf'
+  label: Read our Constitution
 ---
 
 # Community Group
 
-<br>
+<!-- <i class="fa-brands fa-facebook"></i> <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> -->
+
+<br/>
 
 Welcome to the website of **Sunflowers Wales**, a nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
 
@@ -34,8 +43,8 @@ We are a group of friends who actively worked from 2014; in particular, we organ
 Starting from April 2022, another our big activity is the help to Ukrainian refugees.
 We are aimed to unite Ukrainians arrived in Wales, help them to settle to the Welsh community keeping the contact with their own. 
 
-You can find on this site info <a href="/about/">about us</a> and our <a href="/news/">recent shipments and fundraising activities</a>, about <a href="/events/">recent events</a> we organised or participated, about our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression. 
+<!-- You can find on this site info <a href="/about/">about us</a> and our <a href="/news/">recent shipments and fundraising activities</a>, about <a href="/events/">recent events</a> we organised or participated, about our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression.  -->
 
+Use the top menu to navigate this site (icon <i class="fa-solid fa-bars"></i> on phones). 
 
-
-<!-- {{% cta cta_link="./donate/" cta_text="DONATE!" %}} -->
+<!-- {{% cta cta_link="https://www.facebook.com/groups/601579067497655" cta_text="Find us on Facebook" %}}  -->

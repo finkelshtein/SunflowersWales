@@ -22,6 +22,8 @@ design:
   show_interests: true
   show_role: true
   show_social: true
+  background:
+      color: '#fbfbe2'
 ---
 
 ##  <i class="fa-solid fa-file-pdf" style="color:#085BB9"></i> {{% staticref "uploads/Constitution.pdf" "newtab" %}}Read our Constitution{{% /staticref %}}
