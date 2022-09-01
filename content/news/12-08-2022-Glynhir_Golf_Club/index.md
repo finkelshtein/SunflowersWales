@@ -34,5 +34,5 @@ Together we stronger!
 
 <div style="margin-top: 0;"><img src="golf3.jpg" alt="golf3" width="50%" style="display: inline; margin-top: 0;"/><img src="golf4.jpg" alt="golf4" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center"><img src="Cafe3.jpg" alt="Cafe1" width="50%" style="display: inline; margin-top: 0;"/></div>
+
 
