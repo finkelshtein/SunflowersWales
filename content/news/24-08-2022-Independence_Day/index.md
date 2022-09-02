@@ -39,10 +39,7 @@ Glory to Ukraine!
 
 Glory to the heroes!
 
-
-
-
- 
+P.S. Despite it was not the main aim of the event, we were happy to fundraise £1010 that will be spent for nice activities (tba) for the members of <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> who worked tirelessly making this event happen!
 
 <div style="margin-top: 0;"><img src="Freedom1.jpg" alt="Freedom1" width="50%" style="display: inline; margin-top: 0;"/><img src="Freedom2.jpg" alt="Freedom2" width="50%" style="display: inline; margin-top: 0;"/></div>
 
