@@ -4,30 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: <span class="double-border" style = "color:#085bb9; font-weight:bold">DONATE!</span>
-    url: donate
-    weight: 1
-  - name: <span class="blue_bg" style = "color:#ffd303; font-weight:bold"><span class="text-nowrap">Contacts&nbsp;<i class="fa-brands fa-facebook"></i><i class="fa-solid fa-at"></i></span></span>
-    url: contact
-    weight: 3
   - name: Home
     url: .
-    weight: 9
-  - name: About
-    url: about
+    weight: 1
+  - name: Help us
+    url: donate
     weight: 10
-  - name: News
-    url: news
+  - name: Shipments
+    url: shipments
     weight: 20
-  - name: Events
+  - name: Fundraising
+    url: fundraising
+    weight: 30
+  - name: Social events
     url: events
     weight: 40
-  # - name: Contact
-  #   url: contact
-  #   weight: 60
-  - name: Calendar
-    url: calendar
-    weight: 70
+  - name: Our team
+    url: about
+    weight: 50
   - name: Reports
     url: reports
-    weight: 50
+    weight: 60
+  # - name: Contact
+  #   url: contact
+  #   weight: 70
+  - name: Calendar
+    url: calendar
+    weight: 80

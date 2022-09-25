@@ -16,7 +16,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    color: '#fbfbe2'
+    color: 'var(--bg)'
 ---
 
 Please contact us through <a href="mailto:sunflowerswales@gmail.com">our Community Group email</a>.

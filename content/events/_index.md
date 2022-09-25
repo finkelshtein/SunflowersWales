@@ -1,8 +1,8 @@
 ---
-title: Recent Events
+title: Social Events
 
 # Listing view
-view: compact
+view: community/datedshowcase
 
 # Optional header image (relative to `assets/media/` folder).
 banner:

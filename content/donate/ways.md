@@ -16,7 +16,7 @@ design:
   css_style: 
   css_class:
   background:
-    color: '#fbfbe2'
+    color: 'var(--bg)'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 ---
@@ -46,4 +46,4 @@ design:
 
 * Since 2014, our team members organise regular shipments of humanitarian aid and medical supplies to Ukraine. After the start of massive Russia's invasion oif Ukraine in February 2022, we are constantly seeking for new sources of donations!
 
-* Our effective work is impossible without you, your help, your generosity! We work only with trusted volunteers in Ukraine who promptly forward the shipments to hospitals, defence units on the frontline, displaced people centres etc. You may read about our recent shipments on the <a href="/news/">News</a> page.
+* Our effective work is impossible without you, your help, your generosity! We work only with trusted volunteers in Ukraine who promptly forward the shipments to hospitals, defence units on the frontline, displaced people centres etc. Read more about our <a href="/shipments/">shipments</a>!

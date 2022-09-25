@@ -16,7 +16,7 @@ subtitle:
 design:
   columns: '1'
   background:
-    color: '#fbfbe2'
+    color: 'var(--bg)'
 ---
 
 ## June–July 2022
@@ -37,7 +37,7 @@ design:
     
 * Have bought medical supplies for £3,818.78.
     
-* Have sent to Ukraine about <a href="/news/" target="_blank">5 m<sup>3</sup> of parcels</a> plus a big collection of <a href="/news/16-07-2022-double-shipment/" target="_blank">fireproof costumes</a>; shipment: £1000.00
+* Have sent to Ukraine about <a href="/shipments/" target="_blank">5 m<sup>3</sup> of parcels</a> plus a big collection of <a href="/shipments/16-07-2022-double-shipment/" target="_blank">fireproof costumes</a>; shipment: £1000.00
     
-* We have also organised a number of <a href="/news/" target="_blank">fundraising</a> and <a href="/events/" target="_blank">social</a> events (and more are coming!)
+* We have also organised a number of <a href="/fundraising/" target="_blank">fundraising</a> and <a href="/events/" target="_blank">social</a> events (and more are coming!)
 

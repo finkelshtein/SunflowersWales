@@ -1,8 +1,8 @@
 ---
-title: Latest News
+title: Shipments to Ukraine
 
 # Listing view
-view: compact
+view: community/datedshowcase
 header.on_scroll: fixed
 
 

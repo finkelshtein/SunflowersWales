@@ -5,9 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+cathegory: 'latest'
 ---
 
-In August, we have made a couple of small but important shipments of medicine to Ukraine.
+In August, we have made a couple of small but important shipments of medicine to Ukraine, for ca.£1750.
 
 <!--more-->
 

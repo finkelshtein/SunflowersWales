@@ -1,3 +1,9 @@
+:root {
+  --blue: #085bb9; 
+  --yellow: #ffd303; 
+  --bg: #fbfbe2;
+}
+
 .dropdown-menu, 
 nav#navbar-main li.nav-item {
   font-size: large; 
@@ -6,11 +12,11 @@ nav#navbar-main li.nav-item {
 
 #navbar-main .main-menu-item ul li .nav-link {
   font-weight: bold;
-  color: #085bb9;
+  color: var(--blue);
 }
 
 .navbar, .navbar-collapse{
-  background: #fbfbe2;
+  background: var(--bg);
 }
 
 .page-header, .page-footer {
@@ -24,19 +30,37 @@ div {
     display: block;
 }
 body {
-  background-color: #fbfbe2;
+  background-color: var(--bg);
 }
 
 .home-section.light h1.hero-title{
     font-variant: small-caps;
 }
 
-
-element.style {
+h1 {
+  font-weight: bold;
+  color: var(--blue);
+  text-shadow: 2px 2px var(--yellow);
 }
+
+.home-section.light 
+h1 {
+  font-weight: bold;
+  color: var(--blue);
+  text-shadow: 2px 2px var(--yellow);
+}
+
+// .portrait-title h2 {
+//   font-weight: bold;
+//   color: var(--blue);
+//   text-shadow: 2px 2px var(--yellow);
+// }
+
+
 .btn:not(:disabled):not(.disabled) {
     cursor: pointer;
 }
+
 .btn {
     padding: 0.5rem;
     font-size: 0.8rem;
@@ -56,19 +80,17 @@ element.style {
     padding-top: 1rem !important;
 }
 
-
-
 .wg-hero.light a.btn, .btn-primary {
-  color: #ffd303;
-  background-color: #085bb9;
-  border-color: #085bb9;
+  color: var(--yellow);
+  background-color: var(--blue);
+  border-color: var(--blue);
   font-weight: bold;
 }
 
   .double-border {
-    background-color: #ffd303;
+    background-color: var(--yellow);
     box-shadow:
-      inset 0 0 0 0.4rem #085bb9;
+      inset 0 0 0 0.4rem var(--blue);
     /* And so on and so forth, if you want border-ception */
     margin-left: +5vh;
     margin-right: +5vh;
@@ -79,7 +101,7 @@ element.style {
   }
 
   .blue_bg {
-    background-color: #085bb9;
+    background-color: var(--blue);
     /* And so on and so forth, if you want border-ception */
     margin-left: +5vh;
     margin-right: +5vh;
@@ -91,7 +113,7 @@ element.style {
 
   blockquote { 
     color: #000;
-    border-left: 0.25rem solid #085bb9;
+    border-left: 0.25rem solid var(--blue);
     margin: 0.2rem 0.2rem 0.2rem 2.75rem;
   }
 
@@ -107,3 +129,11 @@ element.style {
   body {
     font-size: 1.35rem;
   } 
+
+  .featurette {
+    font-size: 1.35rem;
+  }
+
+  .article-date{
+    font-size: 0.95rem;
+  }

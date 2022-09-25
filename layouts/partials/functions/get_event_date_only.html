@@ -1,0 +1,5 @@
+{{/* Function to get event start and end dates/times. */}}
+{{ $t1 := time .Date }}{{/* Start datetime. */}}
+{{ $str := slice (time.Format site.Params.locale.date_format (time $t1)) }}{{/* Init return string with start date. */}}
+{{/* Show event end date if provided. */}}
+{{ return (delimit $str " ") }}
