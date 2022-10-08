@@ -24,5 +24,6 @@ Stay with us! Together we can do more!
 
 Glory to Ukraine!  
 
-In less than a week, the parcels were received, sorted, and forwarded further by Ukrainian volunteers:
+In less than a week, the parcels were received, sorted, and forwarded further by Ukrainian volunteers (see also FB-posts: 
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02XjSp7zip4tT6JtKTks4DyjsFWKL5bZyw91ikZ1fsADRsocandQdQAkwbuKBYiE2ql" target="_blank">Link 1</a>):
 <div style="margin-top: 0;"><img src="JulyReport1.jpg" alt="JulyReport1" width="50%" style="display: inline; margin-top: 0;"/><img src="JulyReport2.jpg" alt="JulyReport2" width="50%" style="display: inline; margin-top: 0;"/></div> 
