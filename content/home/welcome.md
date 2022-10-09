@@ -24,14 +24,14 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 
-cta:
-  url: 'https://www.facebook.com/groups/601579067497655'
-  label: Find us on Facebook
-  icon_pack: fab
-  icon: facebook
-cta_alt:
-  url: 'uploads/Constitution.pdf'
-  label: Read our Constitution
+# cta:
+#   url: 'https://www.facebook.com/groups/601579067497655'
+#   label: Find us on Facebook
+#   icon_pack: fab
+#   icon: facebook
+# cta_alt:
+#   url: 'uploads/Constitution.pdf'
+#   label: Read our Constitution
 ---
 
 <!-- # Community Group -->

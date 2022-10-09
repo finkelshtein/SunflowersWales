@@ -20,6 +20,9 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/groups/601579067497655
+  - icon: telegram
+    icon_pack: fab
+    link: https://t.me/SunflowersWales
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SunflowersWales
@@ -54,6 +57,8 @@ user_groups:
 - Contact us by <a href="mailto:sunflowerswales@gmail.com"><i class="fa-solid fa-envelope"></i> email</a>.
 
 - Join our Facebook group <a href="https://www.facebook.com/groups/601579067497655" target="_blank"><i class="fa-brands fa-facebook"></i> Sunflowers Wales (Соняшники)</a>.
+
+- Join our Telegram channel <a href="https://t.me/SunflowersWales" target="_blank"><i class="fa-brands fa-telegram"></i> Sunflowers Wales</a>
 
 
 <!-- You can find on this site info <a href="/about/">about us</a> and our <a href="/news/">recent shipments and fundraising activities</a>, about <a href="/events/">recent events</a> we organised or participated, about our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression.  -->
