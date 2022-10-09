@@ -42,11 +42,11 @@ user_groups:
   - separate
 ---
 
-- **Sunflowers Wales** is a nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
+- **Sunflowers Wales** is a nonprofit Community Group organized in May 2022 by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
 
-- We are a group of friends who actively worked from 2014; in particular, we organised regular shipments of humanitarian aid and medical supplies to Ukraine. 
+- We are a group of friends, and our members actively worked from 2014 organising fundraising and regular shipments of humanitarian aid and medical supplies to Ukraine. 
 
-- After the start of massive Russia's invasion oif Ukraine in February 2022, we are constantly seeking for new sources of donations!
+- After the start of massive Russia's invasion of Ukraine in February 2022, we are constantly seeking for new sources of donations!
 
 - Our effective work is impossible without you, your help, your generosity! We work only with trusted volunteers in Ukraine who promptly forward the shipments to hospitals, defence units on the frontline, displaced people centres etc. 
 
