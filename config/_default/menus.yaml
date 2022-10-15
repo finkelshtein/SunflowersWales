@@ -28,6 +28,6 @@ main:
   # - name: Contact
   #   url: contact
   #   weight: 70
-  - name: Calendar
-    url: calendar
-    weight: 80
+  # - name: Calendar
+  #   url: calendar
+  #   weight: 80

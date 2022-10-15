@@ -17,6 +17,6 @@ design:
     color: 'var(--bg)'
 ---
 
-You can import the calendar below by exploring <a href="https://calendar.google.com/calendar/u/0?cid=c3VuZmxvd2Vyc3dhbGVzQGdtYWlsLmNvbQ" target = "_blank">the following link</a>. 
+You can import the calendar below by exploring <a href="https://calendar.google.com/calendar/embed?src=217ac2638f1ca09ff10e10e2a9daeb0c7c7707000953d3a2a3ff0044c6e749da%40group.calendar.google.com&ctz=Europe%2FLondon" target = "_blank">the following link</a>. 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=sunflowerswales%40gmail.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=217ac2638f1ca09ff10e10e2a9daeb0c7c7707000953d3a2a3ff0044c6e749da%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
