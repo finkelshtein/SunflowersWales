@@ -24,5 +24,4 @@ Together we are strong! Glory to Ukraine! Glory to the heroes!
 
 <div style="margin-top: 0;"><img src="October1.jpg" alt="before" width="70%" style="margin-top: 0;"/></div>
 
-<!-- 
-<div style="margin-top: 0;"><img src="September1.jpg" alt="September1" width="50%" style="display: inline; margin-top: 0;"/><img src="September2.jpg" alt="September2" width="50%" style="display: inline; margin-top: 0;"/></div>  -->
+<div style="margin-top: 0;"><img src="October2.jpg" alt="October2" width="50%" style="display: inline; margin-top: 0;"/><img src="October3.jpg" alt="October3" width="50%" style="display: inline; margin-top: 0;"/></div> 
