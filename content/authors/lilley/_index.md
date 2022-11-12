@@ -6,7 +6,7 @@ title: Svetlana Lilley
 superuser: false
 
 # Role/position
-role: Neath Port Talbot area
+role: Neath area
 
 # Username (this should match the folder name)
 authors:

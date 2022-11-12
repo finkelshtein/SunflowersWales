@@ -24,6 +24,6 @@ We send shipments to Ukraine every 2 weeks, and they quickly reach our trusted v
 Our effective work is impossible without you, your help, your generosity! 
 Together we are strong! Glory to Ukraine! Glory to the heroes!
 
-<div style="margin-top: 0;"><img src="October1.jpg" alt="before" width="70%" style="margin-top: 0;"/></div>
-
 <div style="margin-top: 0;"><img src="October2.jpg" alt="October2" width="50%" style="display: inline; margin-top: 0;"/><img src="October3.jpg" alt="October3" width="50%" style="display: inline; margin-top: 0;"/></div> 
+
+<div style="margin-top: 0;"><img src="October1.jpg" alt="before" width="70%" style="margin-top: 0;"/></div>

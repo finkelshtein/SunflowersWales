@@ -6,7 +6,7 @@ title: Olena Samsonenko
 superuser: false
 
 # Role/position
-role: Swansea area
+role: Port Talbot area
 
 # Username (this should match the folder name)
 authors:
