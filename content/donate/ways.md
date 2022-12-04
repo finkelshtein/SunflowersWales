@@ -46,4 +46,4 @@ design:
 
 * Since 2014, our team members organise regular shipments of humanitarian aid and medical supplies to Ukraine. After the start of massive Russia's invasion oif Ukraine in February 2022, we are constantly seeking for new sources of donations!
 
-* Our effective work is impossible without you, your help, your generosity! We work only with trusted volunteers in Ukraine who promptly forward the shipments to hospitals, defence units on the frontline, displaced people centres etc. Read more about our <a href="/shipments/">shipments</a>!
+* Our effective work is impossible without you, your help, your generosity! We work only with trusted volunteers in Ukraine who promptly forward the shipments to hospitals, medics close to the frontline, displaced people centres etc. Read more about our <a href="/shipments/">shipments</a>!
