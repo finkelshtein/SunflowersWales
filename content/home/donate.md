@@ -24,7 +24,7 @@ feature:
     description: Buy medical supplies 
   - icon: paypal
     icon_pack: fab
-    name: <form action="https://www.paypal.com/donate" method="post" target="_top" align="center"><input type="hidden" name="hosted_button_id" value="8CTUQ9ASWTF7U" /><input type="submit" value="Donate" title="PayPal - The safer, easier way to pay online!" /></form>
+    name: <form action="https://www.paypal.com/donate" method="post" target="_top" align="center"><input type="hidden" name="hosted_button_id" value="8CTUQ9ASWTF7U" /><input type="submit" value="PayPal and cards" title="PayPal - The safer, easier way to pay online!" /></form>
     description: Donate money online
   - icon: building-columns
     icon_pack: fas
