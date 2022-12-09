@@ -143,3 +143,9 @@ h5 {
   .article-date{
     font-size: 0.95rem;
   }
+
+  input[type=submit] {
+    background:var(--bg); 
+    border:none;
+    color:#1565c0;
+}
