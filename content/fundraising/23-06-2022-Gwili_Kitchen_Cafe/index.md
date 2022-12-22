@@ -1,5 +1,5 @@
 ---
-title: Fundraising dinner at the Gwili Kitchen Cafe, Llandeilo
+title: Fundraising dinner at Gwili Kitchen Cafe, Llandeilo
 date: 2022-06-23
 image:
   focal_point: 'top'

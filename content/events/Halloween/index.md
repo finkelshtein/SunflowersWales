@@ -12,6 +12,8 @@ date: '2022-10-30'
 authors: [admin]
 ---
 
+More than 30 Ukrainian kids enjoyed a Halloween party at the Hazel court!
+
 Many thanks to everyone who helped us to run this amazing Halloween Party for Ukrainian kids! 
 
 <a href="https://www.facebook.com/Hazel-Court-Sketty-267551590624334/" target = "_blank">Hazel Court Sketty</a> many thanks for having us, your venue and facilities are great!

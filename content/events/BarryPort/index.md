@@ -12,7 +12,7 @@ date: '2022-10-22'
 authors: [oksanaharries]
 ---
 
-Fantastic International day at Burry Port Memorial Hall! Dozens of stalls with different cultural heritage and tasty food! People really enjoyed it. 
+ Pembrey Burry Port Town Council welcomed the International Festival. Fantastic International day at Burry Port Memorial Hall! Dozens of stalls with different cultural heritage and tasty food! People really enjoyed it. 
 
 Many thanks to <a hraf="https://www.facebook.com/PBPTC" href="_target">Pembrey Burry Port Town Council</a> and <a hraf="https://www.facebook.com/profile.php?id=100075695632917" href="_target">Llanelli Multicultural network</a> for your kindness!
 
