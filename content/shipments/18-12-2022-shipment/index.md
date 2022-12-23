@@ -51,4 +51,4 @@ Glory to the heroes!
 
 <div style="margin-top: 0;"><img src="big3.jpg" alt="BigShipment3" width="50%" style="display: inline; margin-top: 0;"/><img src="big4.jpg" alt="BigShipment4" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
-<div style="margin-top: 0;"><img src="big5.jpg" alt="BigShipment5" width="50%" style="display: inline; margin-top: 0;"/><img src="big5.jpg" alt="BigShipment6" width="50%" style="display: inline; margin-top: 0;"/></div> 
+<div style="margin-top: 0;"><img src="big5.jpg" alt="BigShipment5" width="50%" style="display: inline; margin-top: 0;"/><img src="big6.jpg" alt="BigShipment6" width="50%" style="display: inline; margin-top: 0;"/></div> 
