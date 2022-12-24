@@ -19,6 +19,37 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>October – December 2022</h4>
+
+<h5>Total money income: £13,359.58</h5>
+
+* Fundraising events: £3,402.41
+
+* Donations to our bank and PayPal accounts: £5,214.36
+    
+* Cash donations: £1,242.81
+    
+* Received funding from Welsh institutions: £3,500.00
+
+
+<h5>Total spendings: £12,347.22</h5>
+    
+* Shipments to Ukraine: £9,366.86, namely,
+  
+  + Medical supplies and thermal clothing: £5,006.87
+
+  + Generators: £1,524.99
+
+  + Delivery costs: £2,835.00
+    
+* Funding used: £2,157.32
+
+* Further spendings to organise fundraising events: £823.04
+
+
+ 
+<br/>
+
 <h4>August – September 2022</h4>
 
 <h5>Total money income: £15,495.58</h5>
