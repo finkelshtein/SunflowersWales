@@ -24,3 +24,4 @@ Standing Strong Together!
 
 <div style="margin-top: 0; text-align: center;"><img src="shev-5.jpg" alt="shev" width="50%" style="display: inline; margin-top: 0;"/><img src="shev-6.jpg" alt="shev" width="50%" style="display: inline; margin-top: 0;"/></div>
 
+{{< youtube etLJpxXCTBY >}}
