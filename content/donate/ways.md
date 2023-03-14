@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
       How to help
-hero_media: field.jpg
+hero_media: appeal.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
