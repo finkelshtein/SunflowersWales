@@ -20,6 +20,9 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/groups/601579067497655
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/sunflowerswales/
   - icon: telegram
     icon_pack: fab
     link: https://t.me/SunflowersWales
