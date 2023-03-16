@@ -1,5 +1,5 @@
 ---
-title: Art class of creating Welsh Daffodil
+title: Art class of creating Welsh Daffodils
 
 summary: Svetlana Lilley ran an art class of making Welsh Daffodils
 
