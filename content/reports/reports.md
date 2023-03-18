@@ -19,6 +19,32 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>January – mid March 2023</h4>
+
+<h5>Total money income: £4,773.91</h5>
+
+* Donations to our bank and PayPal accounts: £1,728.50
+
+* Cash donations: £1,545.41
+
+* Received funding from Welsh institutions: £1,500.00
+
+<h5>Total spendings: £11,328.46</h5>
+
+* Shipments to Ukraine: £9,467.69, namely,
+
+  + Medical supplies, hand and foot warmers:  £6,578.36
+
+  + Generators and equipment: £2,099.33
+
+  + Delivery costs: £790.00
+
+* Funding used: £1360.77
+
+* Donation to Turkish earthquake appeal: £500
+
+<br/>
+
 <h4>October – December 2022</h4>
 
 <h5>Total money income: £13,359.58</h5>
