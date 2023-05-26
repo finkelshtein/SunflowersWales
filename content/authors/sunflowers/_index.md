@@ -20,6 +20,15 @@ social:
   - icon: facebook
     icon_pack: fab
     link: https://www.facebook.com/groups/601579067497655
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/company/sunflowers-wales/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/@sunflowerswales
+  - icon: tiktok
+    icon_pack: fab
+    link: https://www.tiktok.com/@sunflowerswales
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/sunflowerswales/
@@ -59,10 +68,13 @@ user_groups:
 
 - Contact us by <a href="mailto:sunflowerswales@gmail.com"><i class="fa-solid fa-envelope"></i> email</a>.
 
-- Join our Facebook group <a href="https://www.facebook.com/groups/601579067497655" target="_blank"><i class="fa-brands fa-facebook"></i> Sunflowers Wales (Соняшники)</a>.
+- Join our <a href="https://www.facebook.com/groups/601579067497655" target="_blank"><i class="fa-brands fa-facebook"></i> Facebook group Sunflowers Wales (Соняшники)</a>.
 
-- Join our Telegram channel <a href="https://t.me/SunflowersWales" target="_blank"><i class="fa-brands fa-telegram"></i> Sunflowers Wales</a>
+- Join our <a href="https://t.me/SunflowersWales" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram channel</a> and the linked  <a href="https://t.me/SunflowersWales_Chat" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram chat</a>
 
+- Join our <a href="https://www.linkedin.com/company/sunflowers-wales/" target="_blank"><i class="fa-brands fa-linkedin"></i> Linkedin page </a>
+
+- Watch us on <a href="https://www.youtube.com/@sunflowerswales" target="_blank"><i class="fa-brands fa-youtube"></i> Youtube</a>, <a href="https://www.tiktok.com/@sunflowerswales" target="_blank"><i class="fa-brands fa-tiktok"></i> TikTok</a>, and <a href="https://www.instagram.com/sunflowerswales/" target="_blank"><i class="fa-brands fa-instagram"></i> Instagram</a>
 
 <!-- You can find on this site info <a href="/about/">about us</a> and our <a href="/news/">recent shipments and fundraising activities</a>, about <a href="/events/">recent events</a> we organised or participated, about our <a href="/contact/">contacts</a>, and various <a href="/donate/">ways to support</a> Ukrainians suffering from the barbaric aggression.  -->
 

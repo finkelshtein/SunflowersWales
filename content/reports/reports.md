@@ -18,6 +18,25 @@ design:
   background:
     color: 'var(--bg)'
 ---
+<h4>Mid March – May 2023</h4>
+
+<h5>Total money income: £5,200.85</h5>
+
+* Donations to our bank and PayPal accounts: £1,147.62
+
+* Cash donations: £4,053.23
+
+<h5>Total spendings: £7,088.38</h5>
+
+* Shipments to Ukraine: £6,844.73, namely,
+
+  + Medical supplies:  £5,625.73
+
+  + Delivery costs (ca. 10 m<sup>3</sup>): £1,219.00
+
+* Funding used: £243.65
+
+<br/>
 
 <h4>January – mid March 2023</h4>
 
@@ -39,7 +58,7 @@ design:
 
   + Delivery costs: £790.00
 
-* Funding used: £1360.77
+* Funding used: £1,360.77
 
 * Donation to Turkish earthquake appeal: £500
 
