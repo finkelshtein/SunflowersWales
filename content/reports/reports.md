@@ -85,7 +85,7 @@ design:
 
   + Generators: £1,524.99
 
-  + Delivery costs: £2,835.00
+  + Delivery costs: £1,335.00
     
 * Funding used: £2,157.32
 
@@ -147,5 +147,5 @@ design:
     
 * Have sent to Ukraine about <a href="/shipments/" target="_blank">5 m<sup>3</sup> of parcels</a> plus a big collection of <a href="/shipments/16-07-2022-double-shipment/" target="_blank">fireproof costumes</a>; shipment: £1000.00
     
-* We have also organised a number of <a href="/fundraising/" target="_blank">fundraising</a> and <a href="/events/" target="_blank">social</a> events (and more are coming!)
+* Further spendings to organise fundraising events: £123.
 
