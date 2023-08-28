@@ -25,6 +25,9 @@ main:
   - name: Reports
     url: reports
     weight: 60
+  - name: Funding
+    url: funding
+    weight: 70
   # - name: Contact
   #   url: contact
   #   weight: 70
