@@ -33,8 +33,7 @@ design:
 <br/>
 
 <div style="margin-top: 0; text-align:center;">
-<a href="https://www.nisalocally.co.uk/corporate/corporate-social-responsibility/making-a-difference-locally/" target="_blank"><img src="MADL.jpg" alt="MADL-logo" width="20%"  style="display:inline; text-align:center;"/></a>
-
+<a href="https://www.nisalocally.co.uk/corporate/corporate-social-responsibility/making-a-difference-locally/" target="_blank"><img src="MADL.jpg" alt="MADL-logo" width="17.5%"  style="display:inline; text-align:center;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://neu.org.uk/about/nations/neu-cymru" target="_blank"><img src="NEU-Cymru-logo.jpg" alt="NEU-Cymru-logo" width="20%"  style="display:inline; text-align:center;"/></a>
 </div>
 
 
