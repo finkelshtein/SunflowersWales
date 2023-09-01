@@ -18,6 +18,31 @@ design:
   background:
     color: 'var(--bg)'
 ---
+
+<h4>June – August 2023</h4>
+
+<h5>Total money income: £8,846.90</h5>
+
+* Donations to our accounts: £5,298.98
+
+* Fundraising events: £2,047.92
+
+* Received funding from Welsh institutions: £1,500.00
+
+<h5>Total spendings: £8,359.76</h5>
+
+* Shipments to Ukraine: £6,827.00, namely,
+
+  + Medical supplies:  £5,652.00
+
+  + Delivery costs: £1,175.00
+
+* Funding used: £1,349.64
+
+* Further spendings: £183.12
+
+<br/>
+
 <h4>Mid March – May 2023</h4>
 
 <h5>Total money income: £5,200.85</h5>
@@ -79,7 +104,7 @@ design:
 
 <h5>Total spendings: £12,347.22</h5>
     
-* Shipments to Ukraine: £9,366.86, namely,
+* Shipments to Ukraine: £7,866.86, namely,
   
   + Medical supplies and thermal clothing: £5,006.87
 
@@ -87,7 +112,7 @@ design:
 
   + Delivery costs: £1,335.00
     
-* Funding used: £2,157.32
+* Funding used: £3,657.32
 
 * Further spendings to organise fundraising events: £823.04
 
