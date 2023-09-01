@@ -21,9 +21,9 @@ design:
 
 <h4>June – August 2023</h4>
 
-<h5>Total money income: £8,846.90</h5>
+<h5>Total money income: £9,196.9</h5>
 
-* Donations to our accounts: £5,298.98
+* Donations to our accounts: £5,648.98
 
 * Fundraising events: £2,047.92
 
