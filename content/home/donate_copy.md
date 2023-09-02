@@ -20,6 +20,14 @@ design:
 
 </br>
 
+Donate with Gift Aid through our Localgiving page:
+<div style="text-align: center">
+<script type="text/javascript" src="https://localgiving.org/js/embed.js"> </script>
+<script type="text/javascript"> EMB.init(["35734","170","60"]); EMB.render(); </script>
+</div>
+
+</br>
+
 If you have supplies/aid to donate, just <a href="mailto:sunflowerswales@gmail.com"><i class="fa-solid fa-envelope"></i> email us</a>!
 
 </br>
