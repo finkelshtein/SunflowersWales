@@ -28,6 +28,9 @@ main:
   - name: Funding
     url: funding
     weight: 70
+  - name: Gallery
+    url: gallery
+    weight: 80
   # - name: Contact
   #   url: contact
   #   weight: 70
