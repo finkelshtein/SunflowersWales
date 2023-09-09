@@ -31,3 +31,9 @@ Donate with Gift Aid through our Localgiving page:
 If you have supplies/aid to donate, just <a href="mailto:sunflowerswales@gmail.com"><i class="fa-solid fa-envelope"></i> email us</a>!
 
 </br>
+
+
+We are <a href="https://www.scvs.org.uk/membership" target="_blank"><img src="uploads/SCVS.jpg" width="20%" style="display: inline;"></a>
+
+</br>
+

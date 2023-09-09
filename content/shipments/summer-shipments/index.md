@@ -45,7 +45,7 @@ Glory to the heroes!
 
 Sunflowers Wales - Standing Strong Together!
 
-<div style="margin-top: 0;"><img src="summer-1.jpg" alt="summer-Shipment1" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-2.jpg" alt="summer-Shipment2" width="50%" style="display: inline; margin-top: 0;"/></div> 
+<div style="margin-top: 0;"><img src="summer-1.jpg" alt="summer-Shipment1" width="50%" style="display: ; margin-top: 0;"/><img src="summer-2.jpg" alt="summer-Shipment2" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
 <div style="margin-top: 0;"><img src="summer-3.jpg" alt="summer-Shipment3" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-4.jpg" alt="summer-Shipment4" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
