@@ -1,5 +1,5 @@
 ---
-title: Three september shipments
+title: Three September shipments
 date: 2023-10-01
 image:
   focal_point: 'top'
