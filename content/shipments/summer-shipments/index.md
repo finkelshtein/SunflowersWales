@@ -27,8 +27,14 @@ Many thanks to the volunteers in UKraine who promptly delivered this to the dest
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02Dh4bhz4CxrZC17a8r7dhmyrWGTjyMxxPoFRz2DyLUy1jtpfsYmuFcL2VqN5oHCf7l" target="_blank">Link 3</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid02X4JoKBybKLHippqAZdyo9pMTYaRyPebpzW5Umy7vKrx56GTfxszLzG2sDBK65wg6l" target="_blank">Link 4</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/groups/601579067497655/posts/847211376267755/" target="_blank">Link 5</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0JcDDgNZvNKzpD8gCz2cKJHCyXwUmTdefFJW4o5s9pzPGFMFbwghUfDT46cEC9mAPl" target="_blank">Link 6</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0JcDDgNZvNKzpD8gCz2cKJHCyXwUmTdefFJW4o5s9pzPGFMFbwghUfDT46cEC9mAPl" target="_blank">Link 6</a>
+
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02TboEV6HNq3hTT3TPvG4A56Cqaae5qjBvRUFPvqSauwk7xjv7fH3uHexLVmjXh7UCl" target="_blank">Link 7</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0A7hNjN7YxbCsRXA45WaMKE8QfBi2uwzoSRp3HRShAecrpEtMwUgHYFDX2D6osoeKl" target="_blank">Link 8</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02rdMMjmybEsiNPYpUW1ysesm63KwZkoxfpjMk99QBWYsroPe4phRDprwyfhEfds92l" target="_blank">Link 9</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0qa5v24q61uhbbLAdjsxBtA8uJFPLE3MjiwLLuWXryA6QuBqwxrejHmhfNMwuSJyfl" target="_blank">Link 10</a></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/nataliia.maksymovych/posts/pfbid0cHpvXtKk4o7C44Az5YNp8XgPcz3DVZoHXoFeqxfzhJa7uBAXaKzsKWH2syAHqJZPl" target="_blank">Link 11</a>
+
 
  
 We will not stop, we continue to help Ukrainians! Our effective work is impossible without you, your help, and your generosity! 
@@ -45,9 +51,11 @@ Glory to the heroes!
 
 Sunflowers Wales - Standing Strong Together!
 
-<div style="margin-top: 0;"><img src="summer-1.jpg" alt="summer-Shipment1" width="50%" style="display: ; margin-top: 0;"/><img src="summer-2.jpg" alt="summer-Shipment2" width="50%" style="display: inline; margin-top: 0;"/></div> 
+<div style="margin-top: 0;"><img src="summer-1.jpg" alt="summer-Shipment1" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-2.jpg" alt="summer-Shipment2" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
 <div style="margin-top: 0;"><img src="summer-3.jpg" alt="summer-Shipment3" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-4.jpg" alt="summer-Shipment4" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
 <div style="margin-top: 0;"><img src="summer-5.jpg" alt="summer-Shipment5" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-6.jpg" alt="summer-Shipment6" width="50%" style="display: inline; margin-top: 0;"/></div> 
+
+<div style="margin-top: 0;"><img src="summer-7.jpg" alt="summer-Shipment7" width="50%" style="display: inline; margin-top: 0;"/><img src="summer-8.jpg" alt="summer-Shipment8" width="50%" style="display: inline; margin-top: 0;"/></div> 
 
