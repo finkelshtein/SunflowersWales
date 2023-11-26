@@ -19,6 +19,28 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>September – November 2023</h4>
+
+<h5>Total money income: £10,178.48</h5>
+
+* Donations to our accounts: £3,150.49
+
+* Fundraising events: £7,027.99
+
+<h5>Total spendings: £10,369.40</h5>
+
+* Shipments to Ukraine: £9,835.32, namely,
+
+  + Medical supplies:  £8,760.32
+
+  + Delivery costs: £1,075.00
+
+* Funding used: £401.51
+
+* Further spendings: £132.57
+
+<br/>
+
 <h4>June – August 2023</h4>
 
 <h5>Total money income: £9,196.9</h5>
