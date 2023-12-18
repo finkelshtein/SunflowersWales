@@ -26,7 +26,7 @@ design:
   flip_alt_rows: true
   columns: '1'  
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
+    # Customize the section spacing. Order is top, right, bottom, left. 
     padding: ["20px", "0", "20px", "0"]
   background:
     color: 'var(--bg)'
