@@ -23,21 +23,25 @@ Here are some reports from our Ukrainian friends:
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02XF5S9JE5Jz9J5MutKPj3CVG6grFeuVVht4KFKr8mPY1fpTf75jmZyshFxTHVbTwUl" target="_blank">Link 3</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02XNPoMe9sfyptuP9iuNfoZ8LyJKdjDcDAojpSXtaua5nEbE9jPSqmQnwx72zohEKyl" target="_blank">Link 4</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid0H453MyoYi5e3V9nibZ35eXU5sag9ycuBV99aHAsVuu5PccVLxsDncSC5NnMg3gEzl" target="_blank">Link 5</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0CGZsf12DimYjB6uTGQGDtjHFp23hnzTM8NLZ21vqXWmm73ew7DFsattKDeYXbKeJl" target="_blank">Link 6</a>
+<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0CGZsf12DimYjB6uTGQGDtjHFp23hnzTM8NLZ21vqXWmm73ew7DFsattKDeYXbKeJl" target="_blank">Link 6</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/groups/601579067497655/posts/888061728849386/" target="_blank">Link 7</a>
 
-<a href="https://www.facebook.com/groups/601579067497655/posts/888061728849386/" target="_blank">Link 7</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/groups/601579067497655/posts/892921518363407/" target="_blank">Link 8</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02PYNeNHejCu2sAAaKVdcsFQ9mK4Ypg9i41aLEcAKNSqZnxPJLRU2hrUyLjZyC2myl" target="_blank">Link 9</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid07ic9R9pwrPZKYCnRLCE7y8a1qQt8TLTbLKTroVm72uvQBWnHvcy9hsdsJUYq5voKl" target="_blank">Link 10</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02djqqx3TFmLE3swP2asxRY6fvW25YDLJsi7pqjGVhLHw3xthaLC6urnEti5R9Dxnl&id=100083321320035" target="_blank">Link 11</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02aaVEDkajmpPBDMuk49Dn5mtYh8zYeBJXiLps1wLEuDptBRLaVEtLRwzbCzZBp8Azl" target="_blank">Link 12</a>
-
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02aaVEDkajmpPBDMuk49Dn5mtYh8zYeBJXiLps1wLEuDptBRLaVEtLRwzbCzZBp8Azl" target="_blank">Link 12</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid022DiEiuTmk7XG85aChCcuLRJQTrwuHZWsX9vQabDz6Ld9VqFNx3g9J8aJZvATs6ghl" target="_blank">Link 13</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/zknfz/posts/pfbid0jGGv17iMcdJKubSkNdfCrhUjGvX3okhYrSxzPYE3vaxhRRwG1SxNR9wCmNGCqCG6l" target="_blank">Link 14</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/zknfz/posts/pfbid0jGGv17iMcdJKubSkNdfCrhUjGvX3okhYrSxzPYE3vaxhRRwG1SxNR9wCmNGCqCG6l" target="_blank">Link 14</a>
+
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02xp3Kp68doRS4Mcg6zUPHJhnHAQQy3YtwhAToUeQjnyZBAMWCibwfFZsXqzcavPxxl" target="_blank">Link 15</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/luda.barsyk/posts/pfbid02gR3JexpV5PDTQmaZpDdbB1L3muDrdYbVeJgHwMwKC4H5mzA23tESUEjcS7mdHfmGl" target="_blank">Link 16</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid02KfsaJAuREK9rrFeZN4xh9suWNNs8uuRs3J2rQ82hjti7ugwzQb4okYfPYhMkkEv4l" target="_blank">Link 17</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0dYc3J5s1qMMRxQei8k5pMtsfoho6jnW47SgLpR8uBbhnqMqRqCBV7zpzXRtA5C5Nl&id=100023907165236" target="_blank">Link 18</a>
+<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0dYc3J5s1qMMRxQei8k5pMtsfoho6jnW47SgLpR8uBbhnqMqRqCBV7zpzXRtA5C5Nl&id=100023907165236" target="_blank">Link 18</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0d13diADrQuGmjca14EBcZJvDLYCUS5aE9Psjfz97qeDEx1dhK8mr9Gk7jxHaPympl" target="_blank">Link 19</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02h3jjtUFN3jyboBLekRrPf7Aqtwo74zePCjU6a7cCLH13c259Po1rDNPmLXUScfMGl&id=100023907165236" target="_blank">Link 20</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/oleksandr.korkoil/posts/pfbid02u8YDLzP9PvRFUMpzXRU5b5uVUa3qMYTTxq5ryBX6unHmBmEyWpHYz9eLttB9QpBhl" target="_blank">Link 21</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0GFsuMNJnZnc6Pgys3G3tckgvuoAP5WBZnGoJviyQE5JLehfRTRxDuxrENaWkXutul" target="_blank">Link 22</a>
 
 The war is a marathon and your constant support is vital!
 
