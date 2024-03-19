@@ -18,13 +18,13 @@ design:
 
 ---
 
-</br>
+<!-- </br>
 
 Donate with Gift Aid through our Localgiving page:
 <div style="text-align: center">
 <script type="text/javascript" src="https://localgiving.org/js/embed.js"> </script>
 <script type="text/javascript"> EMB.init(["35734","170","60"]); EMB.render(); </script>
-</div>
+</div> -->
 
 </br>
 
