@@ -32,10 +32,8 @@ And, of course, many thanks to everyone who made this long and lovely day possib
 
 The first day of the Festival was well covered in <a href="https://www.bbc.co.uk/news/uk-england-gloucestershire-68808219" target="_blank">media</a>.
 
-<div style="margin-top: 0; text-align: center;"><img src="Croeso-1.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/><img src="Croeso-2.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="Glou-1.jpg" alt="Gloucester 2024" width="50%" style="display: inline; margin-top: 0;"/><img src="Glou-2.jpg" alt="Gloucester 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center;"><img src="Croeso-3.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/><img src="Croeso-4.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="Glou-3.jpg" alt="Gloucester 2024" width="50%" style="display: inline; margin-top: 0;"/><img src="Glou-4.jpg" alt="Gloucester 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center;"><img src="Croeso-5.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/><img src="Croeso-6.jpg" alt="Croeso festival 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
-
-{{< youtube BDBBZtMfOQo >}}
+<div style="margin-top: 0; text-align: center;"><img src="Glou-5.jpg" alt="Gloucester 2024" width="50%" style="display: inline; margin-top: 0;"/></div>
