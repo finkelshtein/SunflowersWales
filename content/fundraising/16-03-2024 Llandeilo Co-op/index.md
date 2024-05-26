@@ -7,7 +7,7 @@ share: false
 authors: [oksana]
 ---
 
-Sunflowers Wales is proudly supported by the Co-op Local Community Fund in Llandeilo: <a href="https://membership.coop.co.uk/causes/84806" target="_blank">https://membership.coop.co.uk/causes/84806</a>
+Sunflowers Wales is proudly supported by <a href="https://membership.coop.co.uk/causes/84806" target="_blank">Co-op Local Community Fund in Llandeilo</a>
 
 <!--more-->
 
