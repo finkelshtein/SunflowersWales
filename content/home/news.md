@@ -8,7 +8,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 10
+  count: 20
   filters:
     author: ''
     category: ''
