@@ -6,7 +6,7 @@ title: Bohdana Bahlay
 superuser: false
 
 # Role/position
-role: Llandeilo area
+role: Llandeilo & Ammanford area
 
 # Username (this should match the folder name)
 authors:

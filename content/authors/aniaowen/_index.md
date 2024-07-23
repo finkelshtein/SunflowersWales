@@ -6,7 +6,7 @@ title: Ania Owen
 superuser: false
 
 # Role/position
-role: Llanelli area
+role: Ammanford area
 
 # Username (this should match the folder name)
 authors:

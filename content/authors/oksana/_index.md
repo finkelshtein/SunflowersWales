@@ -6,7 +6,7 @@ title: Oksana Shapovalova
 superuser: false
 
 # Role/position
-role: Swansea area
+role: Swansea & NPT area
 
 # Username (this should match the folder name)
 authors:

@@ -22,7 +22,13 @@ design:
 <br/>
 
 <div style="margin-top: 0; text-align:center;">
-<a href="https://www.austinbaileyfoundation.charity/" target="_blank"><img src="ABF-LOGO.png" alt="ABF-logo" width="20%" style="display:inline;"/>&nbsp;&nbsp;&nbsp;<a href="https://localgiving.org/magic-little-grants/" target="_blank"><img src="LocalgivingLogo.png" alt="Localgiving-logo" width="34%" style="display:inline;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.poblgroup.co.uk/pobl-trust/" target="_blank"><img src="Pobl.png" alt="Pobl-logo" width="34%" style="display:inline;"/></a>
+<a href="https://www.poblgroup.co.uk/pobl-trust/" target="_blank"><img src="Pobl.png" alt="Pobl-logo" width="34%" style="display:inline;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales" target="_blank"><img src="Coast.png" alt="Coast" width="40%" style="display:inline;"/></a>
+</div>
+
+<br/>
+
+<div style="margin-top: 0; text-align:center;">
+<a href="https://www.austinbaileyfoundation.charity/" target="_blank"><img src="ABF-LOGO.png" alt="ABF-logo" width="20%" style="display:inline;"/>&nbsp;&nbsp;&nbsp;<a href="https://localgiving.org/magic-little-grants/" target="_blank"><img src="LocalgivingLogo.png" alt="Localgiving-logo" width="39.5%" style="display:inline;"/></a>
 </div>
 
 <br/>

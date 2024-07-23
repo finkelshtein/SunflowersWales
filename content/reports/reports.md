@@ -19,6 +19,20 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>May – July 2024</h4>
+
+<h5>Donations to our accounts: £4,273.29</h5>
+
+<h5>Total spendings: £6,125.73</h5>
+
+* Shipments to Ukraine: £5,911.59, namely,
+
+  + Medical supplies: £4,864.59
+
+  + Delivery costs: £1,047.00
+
+* Funding used: £214.14
+
 <h4>February – April 2024</h4>
 
 <h5>Donations to our accounts: £5,753.74</h5>
@@ -37,7 +51,7 @@ design:
 
 <h4>December 2023 – January 2024</h4>
 
-<h5>Total money income: £3518.87</h5>
+<h5>Total money income: £3,518.87</h5>
 
 * Donations to our accounts: £2,918.87
 
