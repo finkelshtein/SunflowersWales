@@ -22,13 +22,13 @@ A massive thank you to everyone who participated today!
 
 The event was supported by the UK Government and Swansea City Council through the COAST programme.
 
-<div style="margin-top: 0; text-align: center;"><img src="pizza-7.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-8.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="pizza-7.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-8.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center;"><img src="pizza-1.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-2.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="pizza-1.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-2.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center;"><img src="pizza-3.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-4.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="pizza-3.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-4.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0; text-align: center;"><img src="pizza-5.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-6.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0; text-align: center;"><img src="pizza-5.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/><img src="pizza-6.jpg" alt="pizza cooking class" width="50%" style="display: inline; margin-top: 0;"/></div>
 
 
 
