@@ -5,6 +5,7 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+category: sport
 ---
 
 An incredible achievement and breathtaking action! 
