@@ -13,7 +13,7 @@ main:
   - name: Shipments
     url: shipments
     weight: 20
-  - name: Fundraising
+  - name: Fundraising events
     url: fundraising
     weight: 30
   - name: Social events
