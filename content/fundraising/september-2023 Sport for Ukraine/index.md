@@ -5,6 +5,8 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+tags: 
+  - sport
 ---
 
 Our members and friends were fundraising money in two great sport events

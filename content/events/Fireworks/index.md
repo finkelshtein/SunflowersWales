@@ -10,6 +10,10 @@ share: false
 date: '2023-11-03' 
 
 authors: [bohdana]
+
+tags:
+    - dance
+    
 ---
 
 Fireworks night in Llandeilo 

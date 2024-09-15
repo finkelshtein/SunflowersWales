@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 This weekend Sunflowers Wales took part at a Festival at the National Botanic Garden of Wales.

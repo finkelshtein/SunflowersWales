@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 An incredible celebration of the Independence Day of Ukraine was on Wednesday, 24 August, at the Arts Wing of the Swansea Grand Theatre!

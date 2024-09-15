@@ -10,6 +10,10 @@ share: false
 date: '2023-05-20' 
 
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 On Saturday 20 May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> together with a href="https://www.facebook.com/standwithukraine.cardiff" target="_blank"> Stand With Ukraine Cardiff</a> celebrated Vyshyvanka Day 2023 in Cardiff near the stature of John Batchelor who was called *Friend of Freedom*.

@@ -8,6 +8,10 @@ share: false
 date: '2024-06-11' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 We were invited again to visit a military base where our Ukrainian soldiers take their training in the UK! Our dancing group was warmly welcomed, and we tried to give as much warmth, joy, and positive emotions as possible to those who would soon be fighting for us on the battlefield. Also, the singing of our beautiful <a href="https://www.facebook.com/VikaDzhons" target="_blank">Victoria</a> was very touching and impressive! 

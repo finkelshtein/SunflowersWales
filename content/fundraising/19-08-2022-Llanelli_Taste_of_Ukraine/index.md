@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [christina]
+
+tags:
+    - dance
+    
 ---
 
 Sunflowers Wales hosted a sold-out Taste of Ukraine evening at Ty Gwyn Community Church. 

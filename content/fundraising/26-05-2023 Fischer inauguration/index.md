@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [bohdana]
+
+tags:
+    - dance
+    
 ---
 
 On the 26th of May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> were honoured to take a part in Mayor making ceremony.

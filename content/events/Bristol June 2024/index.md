@@ -8,6 +8,9 @@ share: false
 date: '2024-06-15' 
 
 authors: [oksana]
+
+tags:
+    - dance
 ---
 
 It was an amazing day at Bristol Refugee Festival! 

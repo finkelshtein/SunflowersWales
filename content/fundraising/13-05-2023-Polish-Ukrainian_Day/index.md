@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 Sunflowers Wales proudly participated in the Polish-Ukrainian Day Llanelli.

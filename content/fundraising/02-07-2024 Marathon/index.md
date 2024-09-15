@@ -5,7 +5,8 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
-tags: ['sport']
+tags: 
+  - sport
 ---
 
 Incredible fundraising for Ukraine

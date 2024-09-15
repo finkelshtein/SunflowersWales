@@ -10,6 +10,9 @@ share: false
 date: '2023-12-03' 
 
 authors: [oksana]
+
+tags:
+    - dance
 ---
 
 It was a very warm and moving atmosphere in Brynfield Manor, Langland. By our performance, we opened the Christmas season. 

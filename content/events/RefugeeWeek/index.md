@@ -8,6 +8,10 @@ share: false
 date: '2023-06-22' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 For <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a>, it was a great opportunity to participate in the <a href="https://www.shermantheatre.co.uk/festival-of-sanctuary/" target="_blank">Festival of Sanctuary</a> at <a href="https://www.shermantheatre.co.uk/" target="_blank">Sherman Theatre</a> and in the <a href="https://cardiffhubs.co.uk/event/compassion-a-refugee-week-celebration/" target="_blank">Compassion event</a> by <a href="https://wrc.wales/" target="_blank">Welsh Refugee Council</a> at <a href="https://cardiffhubs.co.uk" target="_blank">Cardiff Central Library Hub</a>.

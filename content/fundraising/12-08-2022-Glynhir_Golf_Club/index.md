@@ -5,6 +5,8 @@ image:
   focal_point: 'top'
 share: false
 authors: [bohdana]
+tags:
+  - sport
 ---
 
 <a href="https://www.glynhirgolfclub.co.uk/" target="_blank">Glynhir Golf Club Ammanford</a> was dressed in  Ukrainian blue and yellow colours!!! 

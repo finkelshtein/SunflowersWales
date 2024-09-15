@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 A great day at St David's Pl in Swansea City Centre!

@@ -10,6 +10,10 @@ share: false
 date: '2023-10-22' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 This weekend, Sunflowers Wales enjoyed lovely atmosphere and nice people at <a href="https://www.facebook.com/events/210578691978460/" target="_blank"> Gower Cider Festival 💯 % Juicy 🍎</a>   in <a href="http://www.gowerheritagecentre.co.uk/" target="_blank"> Gower Heritage Centre</a> ! 

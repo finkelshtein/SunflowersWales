@@ -8,6 +8,10 @@ share: false
 date: '2024-03-02' 
 
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 Today was a wonderful day: Sunflowers Wales took part in the Croeso Festival in Swansea to celebrate St David's Day.

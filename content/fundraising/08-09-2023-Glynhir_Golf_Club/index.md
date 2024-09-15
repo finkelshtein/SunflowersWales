@@ -5,6 +5,8 @@ image:
   focal_point: 'top'
 share: false
 authors: [bohdana]
+tags:
+  - sport
 ---
 
 Today in <a href="https://www.glynhirgolfclub.co.uk/" target="_blank">Glynhir Golf Club</a>  was a great day – Ukrainian Charity Golf Day – all proceeds from which will go to Sunflowers Wales!!! 

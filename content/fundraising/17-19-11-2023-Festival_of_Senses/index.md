@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [bohdana]
+
+tags:
+    - dance
+    
 ---
 
 It was a very rainy good weekend in Llandeilo! 😊

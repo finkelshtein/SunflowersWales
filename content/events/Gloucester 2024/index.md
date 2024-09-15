@@ -8,6 +8,10 @@ share: false
 date: '2024-04-14' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 It was an absolutely amazing day in Gloucester! 

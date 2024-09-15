@@ -8,6 +8,10 @@ share: false
 date: '2023-02-25' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> took part in the celebration of St. David's day in the course of Croeso Festival in Swansea. We joined the parade and made performance at the concert!

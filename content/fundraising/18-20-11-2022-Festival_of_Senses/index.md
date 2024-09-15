@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [bohdana]
+
+tags:
+    - dance
+    
 ---
 
 This year Llandeilo <a href="https://fos.wales/" target="_blank">Festival of Senses</a> was even more colourful --- Ukrainians came into town! 😃 

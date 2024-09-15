@@ -8,6 +8,10 @@ share: false
 date: '2024-08-24' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 Ukrainians start celebrating Ukraine's Independence Day a couple of days in advance. Our dance group "Sunflowers" has already been on tour for two consecutive days. 

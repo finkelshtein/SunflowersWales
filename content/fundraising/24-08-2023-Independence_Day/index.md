@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 Our celebration of the Independence Day of Ukraine in Swanseа was just amazing! 

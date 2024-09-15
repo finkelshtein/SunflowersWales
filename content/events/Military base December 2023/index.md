@@ -8,6 +8,10 @@ share: false
 date: '2024-03-04' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 Is it difficult to be a volunteer? No!

@@ -10,6 +10,9 @@ share: false
 date: '2023-05-08' 
 
 authors: [admin]
+
+tags:
+    - dance
 ---
 
 **On the first day of the Coronation** (6/05/23), <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> joined <a href="https://www.facebook.com/standwithukraine.cardiff" target="_blank"> Stand With Ukraine Cardiff</a> for the traditional Saturday meeting which was partially devoted to the Coronation event.

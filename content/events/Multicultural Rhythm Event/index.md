@@ -8,6 +8,10 @@ share: false
 date: '2024-02-11' 
 
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 It was a pleasure to be part of the Multicultural Rhythm Event at the WUEZZA Center. 

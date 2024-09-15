@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+
+tags:
+    - dance
+    
 ---
 
 Charity concert at Tycroes Rugby club with Cor Meibion Dyffryn Aman.

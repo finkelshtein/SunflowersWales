@@ -10,6 +10,10 @@ share: false
 date: '2023-08-26' 
 
 authors: [admin]
+
+tags:
+    - dance
+    
 ---
 
 On Saturday, 26 August, members of Sunflowers Wales participated in three events across UK.
