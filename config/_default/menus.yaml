@@ -18,7 +18,10 @@ main:
     weight: 30
   - name: Social events
     url: events
-    weight: 40
+    weight: 40  
+  - name: Dancing group
+    url: dancing
+    weight: 45
   - name: Our team
     url: about
     weight: 50
