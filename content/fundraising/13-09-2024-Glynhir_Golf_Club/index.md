@@ -9,7 +9,7 @@ tags:
   - sport
 ---
 
-It was not an ordinary day for Sunflowers Wales – we’ve  raised over **4000 pounds**!!!
+It was not an ordinary day for Sunflowers Wales – we’ve  raised over **4800 pounds**!!!
 
 <!--more-->
 
