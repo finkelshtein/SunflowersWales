@@ -19,9 +19,35 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>August – October 2024</h4>
+
+<h5>Total money income: £14,787.63</h5>
+
+* Donations to our accounts: £2,458.06
+
+* Fundraising events: £9,329.57
+
+* Funding received: £3,000
+
+<h5>Total spendings: £12,581.69 </h5>
+
+* Deliveries to Ukraine: £11,561.90, namely,
+
+  + Medical supplies: £10,851.90 
+
+  + Delivery costs: £710.00
+
+* Funding used: £1019.79
+
+<br/>
+
 <h4>May – July 2024</h4>
 
-<h5>Donations to our accounts: £4,273.29</h5>
+<h5>Total money income: £4,273.29</h5>
+
+* Donations to our accounts: £2,646.29
+
+* Fundraising: £1,627.00
 
 <h5>Total spendings: £6,125.73</h5>
 
@@ -32,6 +58,8 @@ design:
   + Delivery costs: £1,047.00
 
 * Funding used: £214.14
+
+<br/>
 
 <h4>February – April 2024</h4>
 
@@ -85,9 +113,11 @@ design:
 
   + Delivery costs: £1,075.00
 
-* Funding used: £401.51
+* Funding used: £534.08
 
-* Further spendings: £132.57
+  + Restricted: £401.51
+
+  + Designated: £132.57
 
 <br/>
 
@@ -109,9 +139,11 @@ design:
 
   + Delivery costs: £1,175.00
 
-* Funding used: £1,349.64
+* Funding used: £1,532.76
+  
+  + Restricted: £1,349.64
 
-* Further spendings: £183.12
+  + Designated: £183.12
 
 <br/>
 
@@ -137,11 +169,11 @@ design:
 
 <h4>January – mid March 2023</h4>
 
-<h5>Total money income: £4,773.91</h5>
+<h5>Total money income: £5,773.91</h5>
 
 * Donations to our bank and PayPal accounts: £1,728.50
 
-* Cash donations: £1,545.41
+* Cash donations: £2,545.41
 
 * Received funding from Welsh institutions: £1,500.00
 
@@ -184,9 +216,11 @@ design:
 
   + Delivery costs: £1,335.00
     
-* Funding used: £3,657.32
+* Funding used: £2,980.36
+  
+  + Restricted: £2,157.32
 
-* Further spendings to organise fundraising events: £823.04
+  + Designated: £823.04
 
 
  
@@ -216,9 +250,11 @@ design:
 
   + Delivery costs: £533.00 
     
-* Funding used: £1,170.80
+* Funding used: 1,945.02
+  
+  + Restricted: £1,170.80
 
-* Further spendings to organise fundraising events: £774.22
+  + Designated: £774.22
 
 
  
