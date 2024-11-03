@@ -54,7 +54,7 @@ user_groups:
   - separate
 ---
 
-<div style="margin-top: 0; text-align: center;"><img src="uploads/TwoYears.jpg"  style="width: 100%; max-width: 500px;"></div>
+<div style="margin-top: 0; text-align: center;"><img src="uploads/overview.png"  style="width: 100%; max-width: 700px;"></div>
 
 - **Sunflowers Wales** is a nonprofit Community Group organized in May 2022 by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
 
