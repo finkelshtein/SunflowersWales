@@ -19,6 +19,26 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>November – December 2024</h4>
+
+<h5>Total money income: £6,426.51</h5>
+
+* Donations to our accounts: £3,926.51 
+
+* Funding received: £2,500
+
+<h5>Total spendings: £5,621.24 </h5>
+
+* Deliveries to Ukraine: £3,641.03, namely,
+
+  + Medical supplies: £2,606.03
+
+  + Delivery costs (ca. 6 m<sup>3</sup>): £1,035.00
+
+* Funding used: £1,980.21
+
+<br/>
+
 <h4>August – October 2024</h4>
 
 <h5>Total money income: £14,787.63</h5>
