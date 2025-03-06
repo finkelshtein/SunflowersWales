@@ -19,6 +19,28 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>January – February 2024</h4>
+
+<h5>Total money income: £5,948.33</h5>
+
+* Donations to our accounts: £2,227.78
+
+* Fundraising events: £1,720.55
+
+* Funding received: £2,000
+
+<h5>Total spendings: £5,965.62 </h5>
+
+* Deliveries to Ukraine: £3,912.46, namely,
+
+  + Medical supplies: £2,962.46
+
+  + Delivery costs (ca. 5 m<sup>3</sup>): £950.00
+
+* Funding used: £2,053.16
+
+<br/>
+
 <h4>November – December 2024</h4>
 
 <h5>Total money income: £6,426.51</h5>
@@ -57,7 +79,7 @@ design:
 
   + Delivery costs: £710.00
 
-* Funding used: £1019.79
+* Funding used: £1,019.79
 
 <br/>
 
