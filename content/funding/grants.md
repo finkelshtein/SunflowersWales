@@ -28,7 +28,7 @@ design:
 <br/>
 
 <div style="margin-top: 0; text-align:center;">
-<a href="https://www.austinbaileyfoundation.charity/" target="_blank"><img src="ABF-LOGO.png" alt="ABF-logo" width="20%" style="display:inline;"/>&nbsp;&nbsp;&nbsp;<a href="https://localgiving.org/magic-little-grants/" target="_blank"><img src="LocalgivingLogo.png" alt="Localgiving-logo" width="39.5%" style="display:inline;"/></a>
+<a href="https://communityfoundationwales.org.uk/" target="_blank"><img src="CFW.jpg" alt="CFW-logo" width="32%" style="display:inline;"/>&nbsp;&nbsp;&nbsp;<a href="https://www.austinbaileyfoundation.charity/" target="_blank"><img src="ABF-LOGO.png" alt="ABF-logo" width="20%" style="display:inline;"/>&nbsp;&nbsp;&nbsp;<a href="https://localgiving.org/magic-little-grants/" target="_blank"><img src="LocalgivingLogo.png" alt="Localgiving-logo" width="39.5%" style="display:inline;"/></a>
 </div>
 
 <br/>
