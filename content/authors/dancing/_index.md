@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sunflowers
+title: Sunflowers Wales
 
 # Is this the primary user of the site?
 superuser: true
