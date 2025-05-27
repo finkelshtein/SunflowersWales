@@ -21,7 +21,7 @@ design:
 
 <h4>March – May 2025</h4>
 
-<h5>Total money income: £5,354.69</h5>
+<h5>Total money income: £5,444.69</h5>
 
 * Donations to our accounts: £4,644.69
 
