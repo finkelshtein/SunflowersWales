@@ -19,6 +19,26 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>March – May 2025</h4>
+
+<h5>Total money income: £5,944.69</h5>
+
+* Donations to our accounts: £4,644.69
+
+* Funding received: £800
+
+<h5>Total spending: £5,225.99 </h5>
+
+* Deliveries to Ukraine: £4,113.98, namely,
+
+  + Medical supplies: £3,079.98
+
+  + Delivery costs (ca. 5 m<sup>3</sup>): £1,034.00
+
+* Funding used: £1,112.01
+
+<br/>
+
 <h4>January – February 2024</h4>
 
 <h5>Total money income: £5,948.33</h5>
@@ -29,7 +49,7 @@ design:
 
 * Funding received: £2,000
 
-<h5>Total spendings: £5,965.62 </h5>
+<h5>Total spending: £5,965.62 </h5>
 
 * Deliveries to Ukraine: £3,912.46, namely,
 
@@ -49,7 +69,7 @@ design:
 
 * Funding received: £2,500
 
-<h5>Total spendings: £5,621.24 </h5>
+<h5>Total spending: £5,621.24 </h5>
 
 * Deliveries to Ukraine: £3,641.03, namely,
 
@@ -71,7 +91,7 @@ design:
 
 * Funding received: £3,000
 
-<h5>Total spendings: £12,581.69 </h5>
+<h5>Total spending: £12,581.69 </h5>
 
 * Deliveries to Ukraine: £11,561.90, namely,
 
@@ -91,7 +111,7 @@ design:
 
 * Fundraising: £1,627.00
 
-<h5>Total spendings: £6,125.73</h5>
+<h5>Total spending: £6,125.73</h5>
 
 * Shipments to Ukraine: £5,911.59, namely,
 
@@ -107,7 +127,7 @@ design:
 
 <h5>Donations to our accounts: £5,753.74</h5>
 
-<h5>Total spendings: £4,341.28</h5>
+<h5>Total spending: £4,341.28</h5>
 
 * Shipments to Ukraine: £4,205.14, namely,
 
@@ -127,7 +147,7 @@ design:
 
 * Funding received: £600
 
-<h5>Total spendings: £5,614.20</h5>
+<h5>Total spending: £5,614.20</h5>
 
 * Shipments to Ukraine: £4,920.62, namely,
 
@@ -147,7 +167,7 @@ design:
 
 * Fundraising events: £7,027.99
 
-<h5>Total spendings: £10,369.40</h5>
+<h5>Total spending: £10,369.40</h5>
 
 * Shipments to Ukraine: £9,835.32, namely,
 
@@ -173,7 +193,7 @@ design:
 
 * Received funding from Welsh institutions: £1,500.00
 
-<h5>Total spendings: £8,359.76</h5>
+<h5>Total spending: £8,359.76</h5>
 
 * Shipments to Ukraine: £6,827.00, namely,
 
@@ -197,7 +217,7 @@ design:
 
 * Cash donations: £4,053.23
 
-<h5>Total spendings: £7,088.38</h5>
+<h5>Total spending: £7,088.38</h5>
 
 * Shipments to Ukraine: £6,844.73, namely,
 
@@ -219,7 +239,7 @@ design:
 
 * Received funding from Welsh institutions: £1,500.00
 
-<h5>Total spendings: £11,328.46</h5>
+<h5>Total spending: £11,328.46</h5>
 
 * Shipments to Ukraine: £9,467.69, namely,
 
@@ -248,7 +268,7 @@ design:
 * Received funding from Welsh institutions: £3,500.00
 
 
-<h5>Total spendings: £12,347.22</h5>
+<h5>Total spending: £12,347.22</h5>
     
 * Shipments to Ukraine: £7,866.86, namely,
   
@@ -280,7 +300,7 @@ design:
     
 * Received funding from Welsh institutions: £3,350.00
 
-<h5>Total spendings: £11,041.63</h5>
+<h5>Total spending: £11,041.63</h5>
     
 * Shipments to Ukraine: £9,096.61, namely,
   
@@ -316,11 +336,11 @@ design:
 
 * Worth ca.£3500
 
-<h5>Total spendings: £4,941.78</h5>
+<h5>Total spending: £4,941.78</h5>
     
 * Have bought medical supplies for £3,818.78.
     
 * Have sent to Ukraine about <a href="/shipments/" target="_blank">5 m<sup>3</sup> of parcels</a> plus a big collection of <a href="/shipments/16-07-2022-double-shipment/" target="_blank">fireproof costumes</a>; shipment: £1000.00
     
-* Further spendings to organise fundraising events: £123.
+* Further spending to organise fundraising events: £123.
 
