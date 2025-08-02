@@ -22,7 +22,7 @@ design:
 <br/>
 
 <div style="margin-top: 0; text-align:center;">
-<a href="https://www.poblgroup.co.uk/pobl-trust/" target="_blank"><img src="Pobl.png" alt="Pobl-logo" width="34%" style="display:inline;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales" target="_blank"><img src="Coast.png" alt="Coast" width="40%" style="display:inline;"/></a>
+<a href="https://www.poblgroup.co.uk/pobl-trust/" target="_blank"><img src="Pobl.png" alt="Pobl-logo" width="34%" style="display:inline;"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.swansea.gov.uk/article/23502/COAST-Creating-Opportunities-Across-Swansea-Together-events" target="_blank"><img src="Coast.png" alt="Coast" width="40%" style="display:inline;"/></a></a>&nbsp;&nbsp;&nbsp;<a href="https://www.swansea.gov.uk/article/23502/COAST-Creating-Opportunities-Across-Swansea-Together-events" target="_blank"><img src="HFYTW.jpg" alt="Coast2025" width="9.15%" style="display:inline;"/></a>
 </div>
 
 <br/>
