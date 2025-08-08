@@ -8,6 +8,10 @@ share: false
 date: '2024-08-07' 
 
 authors: [oksana]
+
+tags:
+    - class
+    
 ---
 
 <a href="https://www.facebook.com/groups/601579067497655/" target="_blank">Sunflowers Wales (Соняшники)</a> are very grateful to the wonderful <a href="https://www.facebook.com/svetlana.lanovenko/" target="_blank">Svitlana Kravchenko</a> for the unique bubble art therapy for our children! 

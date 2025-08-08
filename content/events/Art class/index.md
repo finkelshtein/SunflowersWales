@@ -8,6 +8,10 @@ share: false
 date: '2023-02-21' 
 
 authors: [lilley]
+
+tags:
+    - class
+    
 ---
 
 We have a fantastic class today in Swansea for Ukrainian ladies and children.

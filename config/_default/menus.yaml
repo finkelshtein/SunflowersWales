@@ -22,6 +22,9 @@ main:
   - name: Dancing group
     url: dancing
     weight: 45
+  - name: Children classes 
+    url: classes
+    weight: 47
   - name: Our team
     url: about
     weight: 50

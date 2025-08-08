@@ -8,6 +8,11 @@ share: false
 date: '2024-04-06' 
 
 authors: [oksana]
+
+
+tags:
+    - class
+    
 ---
 
 It was very nice to meet again at our Cooking Class!

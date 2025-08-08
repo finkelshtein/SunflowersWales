@@ -5,7 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
-    
+
+tags:
+    - class
+        
 ---
 
 The second art class on a traditional Ukrainian decorative painting style was again run by multi-talented Lisa Kalianova.

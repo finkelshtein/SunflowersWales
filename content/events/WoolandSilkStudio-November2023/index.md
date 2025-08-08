@@ -17,6 +17,11 @@ share: false
 date: '2023-11-05' 
 
 authors: [bohdana]
+
+
+tags:
+    - class
+    
 ---
 
 <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> continued preparation to take part in <a href="https://fos.wales/" target="_blank">Llandeilo Festival of Senses</a>.

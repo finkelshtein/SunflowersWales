@@ -8,6 +8,11 @@ share: false
 date: '2024-08-21' 
 
 authors: [oksana]
+
+
+tags:
+    - class
+    
 ---
 
 Today was an unforgettable day filled with laughter, learning, and lots of pizza-making magic as we hosted an incredible cooking class for Ukrainian children! 

@@ -6,6 +6,9 @@ image:
 share: false
 authors: [admin]
     
+tags:
+    - class
+    
 ---
 
 Ukrainian varenyky, or pierogi, is a Ukrainian national food loved by millions!

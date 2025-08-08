@@ -8,6 +8,10 @@ share: false
 date: '2024-07-24' 
 
 authors: [admin]
+
+tags:
+    - class
+    
 ---
 
 We have a fantastic felting class today in Swansea for Ukrainian ladies and children ran by the incredible <a href="https://www.facebook.com/svetlana.lilley" target="_blank">Svetlana Lilley</a>.

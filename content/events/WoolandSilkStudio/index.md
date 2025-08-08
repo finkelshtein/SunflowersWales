@@ -17,6 +17,11 @@ share: false
 date: '2022-07-30' 
 
 authors: [bohdana]
+
+
+tags:
+    - class
+    
 ---
 
 Members of <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> Facebook group had a nice day in <a href="https://www.woolsilk.co.uk/" target="_blank">Wool and Silk Art Studio</a> with <a href="https://www.facebook.com/svetlana.lilley" target="_blank">Svetlana Lilley</a>. 

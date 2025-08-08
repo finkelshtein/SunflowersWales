@@ -5,7 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
-    
+
+tags:
+    - class
+        
 ---
 
 Cooking classes from Sunflowers Wales have become our tradition!

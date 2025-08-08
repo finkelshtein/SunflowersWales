@@ -9,6 +9,8 @@ date: '2025-03-15'
 
 authors: [oksana]
 
+tags:
+    - class
     
 ---
 

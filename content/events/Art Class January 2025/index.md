@@ -5,7 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
-    
+
+tags:
+    - class
+        
 ---
 
 Children started to learn the technique of the famous Ukrainian decorative painting style.

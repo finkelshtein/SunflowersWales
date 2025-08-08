@@ -8,6 +8,10 @@ share: false
 date: '2023-09-01' 
 
 authors: [oksana]
+
+tags:
+    - class
+    
 ---
 
 "Making cookies for school together" by Sunflowers Wales.
