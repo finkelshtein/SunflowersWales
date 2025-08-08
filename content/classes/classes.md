@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Art and cooking classes for children
-subtitle:  We regulalry organise exciting classes for children of different ages
+subtitle:  We regularly organise fun and engaging classes for children of all ages
 
 content:
   count: 0
