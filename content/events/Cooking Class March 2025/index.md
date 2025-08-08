@@ -23,7 +23,5 @@ We're very grateful to the <a href="https://www.facebook.com/groups/SwanseaUkule
 
 
 <div style="margin-top: 0; text-align: center">
-<video width="480" height="640" controls="controls" >
-      <source src="varenyky.mp4" type="video/mp4" />
-</video>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sunflowerswales/video/7536186364568554774" data-video-id="7536186364568554774" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sunflowerswales" href="https://www.tiktok.com/@sunflowerswales?refer=embed">@sunflowerswales</a>  </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div>

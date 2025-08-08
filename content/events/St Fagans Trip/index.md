@@ -5,10 +5,6 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
-   
-tags:
-    - class
-     
 ---
 
 On the last day of spring, Sunflowers Wales organised a wonderful trip to St Fagans National Museum of History for Ukrainian children and their parents.
@@ -28,7 +24,5 @@ We are extremely grateful to Neath Port Talbot Council  for their financial supp
 
 
 <div style="margin-top: 0; text-align: center">
-<video width="480" height="640" controls="controls" >
-      <source src="StFagans.mp4" type="video/mp4" />
-</video>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sunflowerswales/video/7536189923842411798" data-video-id="7536189923842411798" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sunflowerswales" href="https://www.tiktok.com/@sunflowerswales?refer=embed">@sunflowerswales</a>  <a target="_blank" title="♬ original sound  - Sunflowers Wales" href="https://www.tiktok.com/music/original-sound-Sunflowers-Wales-7536189957007346454?refer=embed">♬ original sound  - Sunflowers Wales</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div>
