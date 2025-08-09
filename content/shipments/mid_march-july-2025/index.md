@@ -14,7 +14,7 @@ We had nine shipments in mid March – July.
 
 It was almost **2 tons** overall, full of medicine and medical supplies kindly donated by our great Welsh friends! 
 
-We are extremely grateful for your continuous support! We have also bought and delivered to our trusted Ukrainian volunteers a lot of medical supplies and essential equipment, worth altogether over **£4800**.
+We are extremely grateful for your continuous support! We have also bought and delivered to our trusted Ukrainian volunteers a lot of medical supplies and essential equipment, worth altogether over **£5150**.
 
 Here are some reports from our Ukrainian friends:
 
