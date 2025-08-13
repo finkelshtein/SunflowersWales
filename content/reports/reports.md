@@ -19,6 +19,26 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>June – July 2025</h4>
+
+<h5>Total money income: £5,492.93</h5>
+
+* Donations to our accounts: £3,492.93
+
+* Funding received: £2000
+
+<h5>Total spending: £5,848.24 </h5>
+
+* Deliveries to Ukraine: £4,515.94, namely,
+
+  + Medical supplies: £2,835.94
+
+  + Delivery costs (ca. 9 m<sup>3</sup>): £1,680.00
+
+* Funding used: £1,332.30
+
+<br/>
+
 <h4>March – May 2025</h4>
 
 <h5>Total money income: £5,444.69</h5>
