@@ -59,7 +59,7 @@ design:
 
 <br/>
 
-<h4>January – February 2024</h4>
+<h4>January – February 2025</h4>
 
 <h5>Total money income: £5,948.33</h5>
 
