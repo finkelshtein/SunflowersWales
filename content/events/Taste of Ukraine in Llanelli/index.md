@@ -8,6 +8,9 @@ share: false
 date: '2023-02-26' 
 
 authors: [oksanaharries]
+
+tags:
+    - dance
 ---
 Taste of Ukraine event was held at Ty Gwyn church in Llanelli.
 

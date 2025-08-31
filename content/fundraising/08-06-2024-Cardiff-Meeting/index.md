@@ -5,6 +5,9 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+
+tags:
+    - dance
 ---
 
 Sunflowers Wales proudly participated in a regular meeting-protest in Cardiff together with 

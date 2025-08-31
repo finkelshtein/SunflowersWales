@@ -5,6 +5,9 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+
+tags:
+    - dance
 ---
 
 An amazing fundraising concert <a href="https://www.facebook.com/groups/509119647453752?multi_permalinks=1193963312302712&hoisted_section_header_type=recently_seen" target="_blank">Singing Circle and friends</a> was organised in Cardiff by <a href="https://www.facebook.com/groups/601579067497655/user/100019200306495/" target="_blank">Nichola Bojczuk</a> and <a href="https://www.facebook.com/groups/509119647453752/" target="_blank">Cardiff For Ukraine</a>. 
