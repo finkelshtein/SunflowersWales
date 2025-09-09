@@ -21,6 +21,35 @@ design:
     text_color_light: false
 ---
 
+* Donate online (Google Pay or card):
+<script type="text/javascript" defer="" src="https://donorbox.org/install-popup-button.js" id="donorbox-popup-button-installer"> </script>
+
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; flex-wrap: wrap; ">
+
+  <!-- Donate button -->
+  <a class="dbox-donation-button" id="preview_inline_popup_button"
+     href="https://donorbox.org/medical-supplies-for-ukraine-813129?"
+     style="background: #085bb9; color: #ffd303; text-decoration: underline; 
+            box-shadow: 4px 5px #ffd303; font-family: Verdana, sans-serif; 
+            font-weight: bold; display: inline-flex; align-items: center; gap: 8px; 
+            font-size: 16px; border-radius: 5px; line-height: 24px; 
+            padding: 8px 24px;">
+     <img src="https://donorbox.org/images/white_logo.svg">Donate
+  </a>
+
+  <!-- Donation meter iframe -->
+  <iframe height="93px" width="100%" 
+          src="https://donorbox.org/embed/medical-supplies-for-ukraine-813129?donation_meter_color=%23085bb9&only_donation_meter=true&preview=true" 
+          style="max-width: 332px; min-width: 250px; min-height: 90px; border: none;" 
+          seamless="seamless" name="donorbox" scrolling="no">
+  </iframe>
+
+</div>
+
 * Donate online (PayPal or card):
 
 <form action="https://www.paypal.com/donate" method="post" target="_top" align="center">

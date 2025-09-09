@@ -56,6 +56,37 @@ user_groups:
 
 <div style="margin-top: 0; text-align: center;"><img src="uploads/overview.png"  style="width: 100%; max-width: 700px;"></div>
 
+<script type="text/javascript" defer="" src="https://donorbox.org/install-popup-button.js" id="donorbox-popup-button-installer"> </script>
+
+<script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
+
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; flex-wrap: wrap; ">
+
+  <!-- Donate button -->
+  <a class="dbox-donation-button" id="preview_inline_popup_button"
+     href="https://donorbox.org/medical-supplies-for-ukraine-813129?"
+     style="background: #085bb9; color: #ffd303; text-decoration: underline; 
+            box-shadow: 4px 5px #ffd303; font-family: Verdana, sans-serif; 
+            font-weight: bold; display: inline-flex; align-items: center; gap: 8px; 
+            font-size: 16px; border-radius: 5px; line-height: 24px; 
+            padding: 8px 24px;">
+     <img src="https://donorbox.org/images/white_logo.svg">Donate
+  </a>
+
+  <!-- Donation meter iframe -->
+  <iframe height="93px" width="100%" 
+          src="https://donorbox.org/embed/medical-supplies-for-ukraine-813129?donation_meter_color=%23085bb9&only_donation_meter=true&preview=true" 
+          style="max-width: 332px; min-width: 250px; min-height: 90px; border: none;" 
+          seamless="seamless" name="donorbox" scrolling="no">
+  </iframe>
+
+</div>
+
+
+
+
 - **Sunflowers Wales** is a nonprofit Community Group organized in May 2022 by Ukrainian volunteers in Wales to support Ukrainians affected by Russia’s invasion.
 
 - We are a group of friends, and our members actively worked from 2014 organising fundraising events and regular shipments of humanitarian aid and medical supplies to Ukraine. 
