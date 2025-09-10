@@ -21,7 +21,7 @@ design:
     text_color_light: false
 ---
 
-* Donate online (Google Pay or card):
+* Donate online (card/Google Pay/direct debit/etc):
 <script type="text/javascript" defer="" src="https://donorbox.org/install-popup-button.js" id="donorbox-popup-button-installer"> </script>
 
 <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
