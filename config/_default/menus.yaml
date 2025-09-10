@@ -7,7 +7,7 @@ main:
   - name: Home
     url: .
     weight: 1
-  - name: Help us
+  - name: Donate
     url: donate
     weight: 10
   - name: Shipments

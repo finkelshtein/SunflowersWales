@@ -75,6 +75,8 @@ user_groups:
      <img src="https://donorbox.org/images/white_logo.svg">Donate
   </a>
 
+
+
   <!-- Donation meter iframe -->
   <iframe height="93px" width="100%" 
           src="https://donorbox.org/embed/medical-supplies-for-ukraine-813129?donation_meter_color=%23085bb9&only_donation_meter=true&preview=true" 
