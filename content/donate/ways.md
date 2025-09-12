@@ -32,7 +32,7 @@ design:
 
   <!-- Donate button -->
   <a class="dbox-donation-button" id="preview_inline_popup_button"
-     href="https://donorbox.org/medical-supplies-for-ukraine-813129?"
+     href="https://donorbox.org/embed/sunflowers-wales-medical-supplies-for-ukraine?"
      style="background: #085bb9; color: #ffd303; text-decoration: underline; 
             box-shadow: 4px 5px #ffd303; font-family: Verdana, sans-serif; 
             font-weight: bold; display: inline-flex; align-items: center; gap: 8px; 
