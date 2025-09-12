@@ -31,15 +31,9 @@ design:
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; flex-wrap: wrap; ">
 
   <!-- Donate button -->
-  <a class="dbox-donation-button" id="preview_inline_popup_button"
-     href="https://donorbox.org/embed/sunflowers-wales-medical-supplies-for-ukraine?"
-     style="background: #085bb9; color: #ffd303; text-decoration: underline; 
-            box-shadow: 4px 5px #ffd303; font-family: Verdana, sans-serif; 
-            font-weight: bold; display: inline-flex; align-items: center; gap: 8px; 
-            font-size: 16px; border-radius: 5px; line-height: 24px; 
-            padding: 8px 24px;">
-     <img src="https://donorbox.org/images/white_logo.svg">Donate
-  </a>
+<a class="dbox-donation-button" id="preview_inline_popup_button" 
+href="https://donorbox.org/sunflowers-wales-medical-supplies-for-ukraine?" 
+style="background: #085bb9; color: #ffd303; text-decoration: underline; box-shadow: 4px 5px #ffd303; display: flex; gap: 8px; width: fit-content; font-size: 16px; font-weight: bold; border-radius: 5px; line-height: 24px; padding: 8px 24px;align-items: center;"><img src="https://donorbox.org/images/white_logo.svg">Donate</a>
 
   <!-- Donation meter iframe -->
   <iframe height="93px" width="100%" 
