@@ -74,6 +74,6 @@ user_groups:
   - Officers
 ---
 
-Dmitri Finkelshtein is an Associate Professor in Mathematics at [Swansea University](http://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/). You may visit his personal [research web-page](https://finkelshtein.netlify.app/).
+Dmitri Finkelshtein is a Professor of Mathematics at [Swansea University](http://www.swansea.ac.uk/staff/science/maths/d.l.finkelshtein/). You may visit his personal [research web-page](https://finkelshtein.netlify.app/).
 
 Dmitri is from Kyiv. He moved to the UK in 2013, and he has been working as a Ukrainian volunteer since 2014. 
