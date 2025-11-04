@@ -33,7 +33,7 @@ design:
 
   + Medical supplies: £11,627.02
 
-  + Delivery costs (ca. 1200 kg): £1,350
+  + Delivery costs (ca. 7 m<sup>3</sup>): £1,350
 
 * Funding used: £2,651.80
 

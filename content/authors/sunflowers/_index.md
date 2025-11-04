@@ -64,13 +64,15 @@ user_groups:
 
   <!-- Donate button -->
 
+
+
 <a class="dbox-donation-button" id="preview_inline_popup_button" 
 href="https://donorbox.org/sunflowers-wales-medical-supplies-for-ukraine?" 
 style="background: #085bb9; color: #ffd303; text-decoration: underline; box-shadow: 4px 5px #ffd303; display: flex; gap: 8px; width: fit-content; font-size: 16px; font-weight: bold; border-radius: 5px; line-height: 24px; padding: 8px 24px;align-items: center;"><img src="https://donorbox.org/images/white_logo.svg">Donate</a>
 
 
   <!-- Donation meter iframe -->
-  <iframe height="93px" width="100%" 
+  <iframe height="93px" width="100%" title="Current fundraiser"
           src="https://donorbox.org/embed/sunflowers-wales-medical-supplies-for-ukraine?donation_meter_color=%23085bb9&only_donation_meter=true&preview=true" 
           style="max-width: 332px; min-width: 250px; min-height: 90px; border: none;" 
           seamless="seamless" name="donorbox" scrolling="no">
