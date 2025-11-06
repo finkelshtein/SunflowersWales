@@ -38,14 +38,10 @@ To all of you just  for being a part of this day!
 Amazing day spent with amazing people!
 
 
-<div style="margin-top: 0;"><img src="golf-1.jpg" alt="golf-1" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-2.jpg" alt="golf-2" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0;"><img src="golf-2025-1.jpg" alt="golf-2025-1" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-2025-2.jpg" alt="golf-2025-2" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0;"><img src="golf-3.jpg" alt="golf-3" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-4.jpg" alt="golf-4" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0;"><img src="golf-2025-3.jpg" alt="golf-2025-3" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-2025-4.jpg" alt="golf-2025-4" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0;"><img src="golf-5.jpg" alt="golf-5" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-6.jpg" alt="golf-6" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0;"><img src="golf-2025-5.jpg" alt="golf-2025-5" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-2025-6.jpg" alt="golf-2025-6" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-<div style="margin-top: 0;"><img src="golf-7.jpg" alt="golf-7" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-8.jpg" alt="golf-8" width="50%" style="display: inline; margin-top: 0;"/></div>
-
-<div style="margin-top: 0;"><img src="golf-9.jpg" alt="golf-9" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-10.jpg" alt="golf-10" width="50%" style="display: inline; margin-top: 0;"/></div>
-
-<div style="margin-top: 0; text-align: center;"><img src="golf-11.jpg" alt="golf-11" width="50%" style="display: inline; margin-top: 0;"/></div>
+<div style="margin-top: 0;"><img src="golf-2025-7.jpg" alt="golf-2025-7" width="50%" style="display: inline; margin-top: 0;"/><img src="golf-2025-8.jpg" alt="golf-2025-8" width="50%" style="display: inline; margin-top: 0;"/></div>
