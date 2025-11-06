@@ -20,9 +20,6 @@ marketing:
     org_name: 'Sunflowers Wales'
     description: "A nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia's invasion."
     twitter: 'sunflowerswales'
-  analytics:
-    google_analytics: 'G-BVV320Z3ZK'
-    baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
