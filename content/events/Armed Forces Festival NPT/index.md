@@ -14,6 +14,8 @@ tags:
 
 An amazing day in the warm atmosphere of the Armed Forces Festival in Port Talbot. 
 
+<!--more-->
+
 We were honoured to be invited to perform there surrounded by friends and presenting Ukrainian culture to the Welsh community. 
 
 Many thanks to everyone involved! 
