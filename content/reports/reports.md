@@ -19,6 +19,22 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>November 2025 – 24 February 2026 (<em>tbc</em>)</h4>
+
+<h5>Donations to our accounts: £4,065.00</h5>
+
+<h5>Total spending: £7,624.97</h5>
+
+* Deliveries to Ukraine: £6,137.68, namely,
+
+  + Medical supplies: £5,507.68
+
+  + Delivery costs (ca. 4 m<sup>3</sup>): £630
+
+* Funding used: £1,487.29
+
+<br/>
+
 <h4>August – October 2025</h4>
 
 <h5>Total money income: £15,624.81</h5>
