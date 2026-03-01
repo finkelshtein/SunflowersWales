@@ -21,9 +21,9 @@ design:
 
 <h4>November 2025 – February 2026 </h4>
 
-<h5>Total money income: £4,746.8</h5>
+<h5>Total money income: £4,746.80</h5>
 
-* Donations to our accounts: £4,746.8
+* Donations to our accounts: £4,746.80
 
 <h5>Total spending: £6,531.57</h5>
 
