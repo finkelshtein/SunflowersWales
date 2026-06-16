@@ -72,6 +72,6 @@ user_groups:
   - Committee members
 ---
 
-Oksana Shapovalova is a Teacher Assistant working at the Gower College. She is also a Maths teacher with many years of experience in Ukraine.
+Oksana Shapovalova is a Teacher Assistant working at the Vulnerable Learners Service of NPT Council. She is also a Maths teacher with many years of experience in Ukraine.
 
 Oksana is from Kherson. She moved to the UK in 2013, and she has been working as a Ukrainian volunteer since 2014.
