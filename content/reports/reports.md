@@ -19,6 +19,24 @@ design:
     color: 'var(--bg)'
 ---
 
+<h4>March – June 2026 </h4>
+
+<h5>Total money income: £3,100.87</h5>
+
+* Donations to our accounts: £3,100.87
+
+<h5>Total spending: £3,984.27</h5>
+
+* Deliveries to Ukraine: £3,565.29, namely,
+
+  + Medical supplies: £2,199.29
+
+  + Delivery costs (ca. 6 m<sup>3</sup>): £1,366
+
+* Funding used: £418.98
+
+<br/>
+
 <h4>November 2025 – February 2026 </h4>
 
 <h5>Total money income: £4,746.80</h5>
