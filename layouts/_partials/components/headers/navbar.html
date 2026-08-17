@@ -2,7 +2,7 @@
 {{/* Sunflowers Wales: enlarged from the upstream default of 36px — our logo is
      a full wordmark lockup (icon + text + dragon), which read too small at
      that size in the navbar. */}}
-{{ $logo := partialCached "functions/get_logo" (dict "constraint" "max_height" "size" 64) "navbar_logo" }}
+{{ $logo := partialCached "functions/get_logo" (dict "constraint" "max_height" "size" 128) "navbar_logo_2x" }}
 {{- $show_logo := site.Params.hugoblox.header.show_logo | default true -}}
 {{- $show_title := site.Params.hugoblox.header.show_title | default true -}}
 {{- $navbar_title := site.Params.hugoblox.header.title | default $branding.name -}}
