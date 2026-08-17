@@ -5,13 +5,15 @@ summary: A good start to the school year!
 
 share: false
 
-date: '2023-09-01' 
+date: '2023-09-01'
 
 authors: [oksana]
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
 "Making cookies for school together" by Sunflowers Wales.

@@ -3,16 +3,18 @@ title: Felting class at the Collaboration Station in Swansea
 
 share: false
 
-date: '2025-10-27' 
+date: '2025-10-27'
 
 authors: [oksana]
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
-Our traditional but always new felting class from the incredible <a href="https://www.facebook.com/groups/601579067497655/user/100001687011241/" target="_blank">Svetlana Lilley</a>.
+Our traditional but always new felting class from the incredible <a href="https://www.facebook.com/groups/601579067497655/user/100001687011241/" target="_blank" rel="noopener noreferrer">Svetlana Lilley</a>.
 
 <!--more-->
 

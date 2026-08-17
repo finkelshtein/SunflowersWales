@@ -1,8 +1,8 @@
 ---
 title: Ukrainian Charity Golf Day at Glynhir Golf Club Ammanford
 date: 2025-09-26
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 tags:
@@ -14,11 +14,11 @@ Well, well, well. We did it again!!! :-)
 <!--more-->
 
 
-Fourth time since 2022 we held Sunflowers Wales (Соняшники) charity day in <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank">Glynhir Golf Club</a>!
+Fourth time since 2022 we held Sunflowers Wales (Соняшники) charity day in <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club</a>!
 
 And we have raised whooping **5740 pounds**!!!!
 
-We would not be able to do it without continuous support of club manager <a href="https://www.facebook.com/rhodri.treharne" target="_blank">Rhodri Treharne</a> and <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank">Glynhir Golf Club</a> members!
+We would not be able to do it without continuous support of club manager <a href="https://www.facebook.com/rhodri.treharne" target="_blank" rel="noopener noreferrer">Rhodri Treharne</a> and <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club</a> members!
 
 Thank you so much!
 

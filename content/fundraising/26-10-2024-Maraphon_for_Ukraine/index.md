@@ -1,11 +1,11 @@
 ---
 title: Marathon Eryri 2024 - Run for Ukraine
 date: 2024-10-26
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [christina]
-tags: 
+tags:
   - sport
 ---
 
@@ -16,7 +16,7 @@ We are so proud of our amazing member Sofiya Abramchuk-Hussey for completing the
 
 Not only did she conquer the marathon, but she also raised over £1000 for Sunflowers Wales supporting the Ukrainian people! 🇺🇦🌻
 
-There’s still time to show your support and help make a difference—every donation counts! Let’s keep the momentum going! 💪 <a href="https://www.gofundme.com/f/first-marathon-to-support-ukraine-via-sunflowers-walesth" target="_blank">Fundraising link</a>
+There’s still time to show your support and help make a difference—every donation counts! Let’s keep the momentum going! 💪 <a href="https://www.gofundme.com/f/first-marathon-to-support-ukraine-via-sunflowers-walesth" target="_blank" rel="noopener noreferrer">Fundraising link</a>
 
 Sunflowers Wales – Standing Strong Together!
 

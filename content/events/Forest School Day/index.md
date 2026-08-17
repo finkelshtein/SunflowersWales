@@ -5,13 +5,17 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 We had a long day today, full of positive emotions and children’s joy!
 
 <!--more-->
 
-In the morning, we were kindly hosted by the amazing and dedicated team of the <a href="https://www.facebook.com/ForestSchoolSNPT/" target="_blank">Forest School Swansea Neath & Port Talbot</a> at Singleton Park. When true enthusiasts are at work, even bad weather steps aside! We enjoyed our time in the forest — two hours flew by in a blink! The children learned many practical skills and had a lot of fun. We’re already looking forward to the next meeting!
+In the morning, we were kindly hosted by the amazing and dedicated team of the <a href="https://www.facebook.com/ForestSchoolSNPT/" target="_blank" rel="noopener noreferrer">Forest School Swansea Neath & Port Talbot</a> at Singleton Park. When true enthusiasts are at work, even bad weather steps aside! We enjoyed our time in the forest — two hours flew by in a blink! The children learned many practical skills and had a lot of fun. We’re already looking forward to the next meeting!
 
 Many thanks to the whole team, and especially to Cath and Fay, for such an incredible event!
 

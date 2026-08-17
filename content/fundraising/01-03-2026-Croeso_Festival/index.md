@@ -1,14 +1,13 @@
 ---
 title: St David's Day at Croeso Festival
 date: 2026-03-01
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 
 tags:
     - dance
-    
 ---
 
 St David’s Day is a celebration of spring, of returning light, of hope and strength. 

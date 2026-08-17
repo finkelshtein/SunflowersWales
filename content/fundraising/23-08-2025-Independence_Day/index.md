@@ -1,14 +1,13 @@
 ---
 title: Celebration of the Independence Day of Ukraine
 date: 2025-08-23
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
 
 tags:
     - dance
-    
 ---
 
 Happy Independence Day of Ukraine!
@@ -17,25 +16,25 @@ Happy Independence Day of Ukraine!
 
 Our celebration was bright, heartfelt and truly full of friendship! Wonderful concert performances, fun and engaging children’s activities, delicious food — and, of course, the feeling of one united community!
 
-We are sincerely grateful to the Leader of <a href="https://www.facebook.com/swanseacitycouncil" target="_blank">Swansea Council</a>, <a href="https://www.facebook.com/profile.php?id=100070379936760" target="_blank">Rob Stewart</a>, for his kind words and support for Ukrainians, as well as to Father <a href="https://www.facebook.com/taras.boychuk.58" target="_blank">Taras Boichuk</a> for his heartfelt and moving address to our community.
+We are sincerely grateful to the Leader of <a href="https://www.facebook.com/swanseacitycouncil" target="_blank" rel="noopener noreferrer">Swansea Council</a>, <a href="https://www.facebook.com/profile.php?id=100070379936760" target="_blank" rel="noopener noreferrer">Rob Stewart</a>, for his kind words and support for Ukrainians, as well as to Father <a href="https://www.facebook.com/taras.boychuk.58" target="_blank" rel="noopener noreferrer">Taras Boichuk</a> for his heartfelt and moving address to our community.
 
-Two centres of attraction in opposite corners of the hall — <a href="https://www.facebook.com/neathscc" target="_blank">Neath & District Sea Cadets & Royal Marines Cadets</a>, led by <a href="https://www.facebook.com/debbie.boyce.165" target="_blank">Debbie Boyce</a>, and Mathew Belcher and Silvia from <a href="https://www.facebook.com/CircusEruption" target="_blank">Circus Eruption</a> — gave children countless unforgettable moments and vibrant photos. Thank you for your tremendous work!
+Two centres of attraction in opposite corners of the hall — <a href="https://www.facebook.com/neathscc" target="_blank" rel="noopener noreferrer">Neath & District Sea Cadets & Royal Marines Cadets</a>, led by <a href="https://www.facebook.com/debbie.boyce.165" target="_blank" rel="noopener noreferrer">Debbie Boyce</a>, and Mathew Belcher and Silvia from <a href="https://www.facebook.com/CircusEruption" target="_blank" rel="noopener noreferrer">Circus Eruption</a> — gave children countless unforgettable moments and vibrant photos. Thank you for your tremendous work!
 
-Our <a href="../../dancing" target="_blank">dancers</a> literally fluttered across the stage — light, graceful, and so diverse both in costumes and in the dances themselves!
+Our <a href="../../dancing" target="_blank" rel="noopener noreferrer">dancers</a> literally fluttered across the stage — light, graceful, and so diverse both in costumes and in the dances themselves!
 
-Heartfelt thanks to our singers: the young and talented Yeva, who beautifully performed three very different songs in one breath, and, as always, the professional, brilliant, yet so dear <a href="https://www.facebook.com/VikaDzhons" target="_blank">Victoria Riaj</a> — for her enchanting singing and a bright show that swept dozens of spectators across the whole hall.
+Heartfelt thanks to our singers: the young and talented Yeva, who beautifully performed three very different songs in one breath, and, as always, the professional, brilliant, yet so dear <a href="https://www.facebook.com/VikaDzhons" target="_blank" rel="noopener noreferrer">Victoria Riaj</a> — for her enchanting singing and a bright show that swept dozens of spectators across the whole hall.
 
 We are also very grateful to our young musicians — sisters Yeva and Mariyka, as well as the tender and touching Dasha and Ameliia, who bravely took the stage at the end of the concert.
 
-Huge thanks to <a href="https://www.facebook.com/roger.l.henderson" target="_blank">Roger Henderson</a> — both for a wonderful performance and for kindly providing the audio equipment and tirelessly working with the sound throughout the entire concert!
+Huge thanks to <a href="https://www.facebook.com/roger.l.henderson" target="_blank" rel="noopener noreferrer">Roger Henderson</a> — both for a wonderful performance and for kindly providing the audio equipment and tirelessly working with the sound throughout the entire concert!
 
-We watched a very touching video about life in Ukraine today: <a href="https://youtu.be/xKCP21BNakc" target="_blank">https://youtu.be/xKCP21BNakc</a>. Many thanks to everyone who sent in photos and videos for it and helped with the voice-over.
+We watched a very touching video about life in Ukraine today: <a href="https://youtu.be/xKCP21BNakc" target="_blank" rel="noopener noreferrer">https://youtu.be/xKCP21BNakc</a>. Many thanks to everyone who sent in photos and videos for it and helped with the voice-over.
 
 Special thanks to Olena and Danylo for the interesting presentation about Wales and Ukraine.
 
 And, of course, enormous gratitude to all our tireless volunteers — those who cooked delicious food, worked at the stands, and spent two days decorating and cleaning the venue. It is thanks to you that this celebration became possible!
 
-We are also very grateful to the Collaboration Station team from <a href="https://www.facebook.com/swanseacitycouncil" target="_blank">Swansea Council</a>, led by Rhys Thomas, for their constant and tireless help in organising the celebration! We are happy that in the centre of Swansea we have the opportunity to hold community events in such a well-organised space — it means so much to all of us!
+We are also very grateful to the Collaboration Station team from <a href="https://www.facebook.com/swanseacitycouncil" target="_blank" rel="noopener noreferrer">Swansea Council</a>, led by Rhys Thomas, for their constant and tireless help in organising the celebration! We are happy that in the centre of Swansea we have the opportunity to hold community events in such a well-organised space — it means so much to all of us!
 
 As always at our events, all the money collected yesterday will be used to purchase medical supplies for Ukrainian defenders.
 

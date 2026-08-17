@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: ulyana
+name:
+  display: Ulyana Abramchuk
+role: Llanelli area
+links:
+- icon: envelope
+  url: mailto:ulyana.abram63@gmail.com
+- icon: brands/facebook
+  url: https://www.facebook.com/ulyana.abramchuk
+user_groups:
+- Members

@@ -1,15 +1,17 @@
 ---
 title: Three years of invasion, eleven years of war
 
-summary: 
+summary:
 
 share: false
 
-date: '2025-02-23' 
+date: '2025-02-23'
 
 authors: [admin]
 
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Today, Ukrainians and our Welsh friends gathered to commemorate the victims of the war and stand in solidarity with Ukraine! These days, unity among Ukrainians has become especially important and valuable. Only together can we support our country and help the Ukrainian defenders who protect our nation and freedom while shielding Europe from russia’s barbaric aggression.

@@ -5,16 +5,18 @@ summary: Sunflowers Wales team was honoured to be invited
 
 share: false
 
-date: '2023-09-10' 
+date: '2023-09-10'
 
 authors: [admin]
+cover:
+  image: featured.jpg
 ---
 
-Sunflowers Wales team was honoured to be invited to the <a href="https://www.facebook.com/christophffischer/posts/pfbid02tkeevb59NN6cxvcC5g9sUZa2rLMcvy33ZAVK1Z52QY4NwG5bRN4heR9uKj1R5q9Ul" target="_blank">Civic Thanksgiving Service</a> in St Teilo's Church, Llandeilo. 
+Sunflowers Wales team was honoured to be invited to the <a href="https://www.facebook.com/christophffischer/posts/pfbid02tkeevb59NN6cxvcC5g9sUZa2rLMcvy33ZAVK1Z52QY4NwG5bRN4heR9uKj1R5q9Ul" target="_blank" rel="noopener noreferrer">Civic Thanksgiving Service</a> in St Teilo's Church, Llandeilo. 
 
 It was a beautiful event connecting the proud past of the site that goes back to the 6th century with the present of the great people who help the community and with the future presented by amazing and talented kids who performed touching music and singing.
 
-Many thanks to <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a> for the invitation! We are so proud to be named a mayor's charity! We have received over £300 of donations!
+Many thanks to <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a> for the invitation! We are so proud to be named a mayor's charity! We have received over £300 of donations!
 
 Thank you to all who made this event happen!
 

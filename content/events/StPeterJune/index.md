@@ -1,7 +1,6 @@
 ---
 title: Meeting at St Peter's church, Llanelli
 
-event: Meeting at St Peter's church, Llanelli
 # event_url: https://www.altlc.co.uk/news-1/over-600-people-attend-international-family-celebration-of-food-to-mark-the-platinum-jubilee
 
 location: St Peter's Church
@@ -15,9 +14,11 @@ summary: Meeting at St Peter's church, Llanelli
 
 share: false
 
-date: '2022-06-18' 
+date: '2022-06-18'
 
 authors: [oksanaharries]
+cover:
+  image: featured.jpg
 ---
 
 Meeting at St Peter's church, Llanelli.

@@ -1,13 +1,13 @@
 ---
 title: Donation from the Swansea Ukulele Club
 date: 2025-03-12
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 ---
 
-Our old friends from the <a href="https://www.facebook.com/groups/SwanseaUkuleleClub" target="_blank">Swansea Ukulele Club</a>  have once again supported us with a generous donation of £800 to fund activities for Ukrainian children! 
+Our old friends from the <a href="https://www.facebook.com/groups/SwanseaUkuleleClub" target="_blank" rel="noopener noreferrer">Swansea Ukulele Club</a>  have once again supported us with a generous donation of £800 to fund activities for Ukrainian children! 
 
 <!--more-->
 

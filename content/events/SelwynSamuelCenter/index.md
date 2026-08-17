@@ -1,13 +1,12 @@
 ---
 title: Platinum Jubilee Celebration
 
-event: Jubilee celebration
 event_url: https://www.altlc.co.uk/news-1/over-600-people-attend-international-family-celebration-of-food-to-mark-the-platinum-jubilee
 
 location: Selwyn Samuel Center
 
 address:
-  street: 8 Park Cres,  
+  street: 8 Park Cres,
   city: Llanelli
   postcode: 'SA15 3AE'
 
@@ -56,6 +55,8 @@ date: '2022-06-02'
 # projects:
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
 What a day in Llanelli in Selwyn Samuel Center!

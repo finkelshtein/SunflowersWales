@@ -1,15 +1,17 @@
 ---
 title: Four years of invasion, twelve years of war
 
-summary: 
+summary:
 
 share: false
 
-date: '2026-02-24' 
+date: '2026-02-24'
 
 authors: [admin]
 
-    
+
+cover:
+  image: featured.jpg
 ---
 
 For the fourth year in a row, we gathered in Swansea city centre to mark the anniversary of the full-scale invasion and to honour the victims of a war that has now lasted 12 long, painful years.
@@ -18,9 +20,9 @@ Today, together with our Welsh friends, we watched the deeply moving documentary
 
 It meant so much to come together — to see familiar faces, to share the weight of these years, to speak about loss and resilience, and to remind one another that we are not alone. In unity, we find strength.
 
-We are sincerely grateful to <a href="https://www.facebook.com/swanseacitycouncil/" target="_blank">Swansea Council</a> for hosting us at the Collaboration Station.
+We are sincerely grateful to <a href="https://www.facebook.com/swanseacitycouncil/" target="_blank" rel="noopener noreferrer">Swansea Council</a> for hosting us at the Collaboration Station.
 
-Heartfelt thanks to <a href="https://www.facebook.com/groups/601579067497655/user/61579718392008/" target="_blank">KRYLA Culture - Community & Art Organisation</a>  and their partners for giving us the opportunity to watch this important film.
+Heartfelt thanks to <a href="https://www.facebook.com/groups/601579067497655/user/61579718392008/" target="_blank" rel="noopener noreferrer">KRYLA Culture - Community & Art Organisation</a>  and their partners for giving us the opportunity to watch this important film.
 
 The screening of the documentary film “Palyanytsia” took place as part of the International Film Marathon Culture vs War, dedicated to the fourth anniversary of Russia’s full-scale invasion of Ukraine.
 

@@ -5,13 +5,15 @@ summary: Our dancing group participated in an event in Bristol
 
 share: false
 
-date: '2025-02-22' 
+date: '2025-02-22'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 The eve of a bitter date for every Ukrainian—the third anniversary of the brutal war of aggression.

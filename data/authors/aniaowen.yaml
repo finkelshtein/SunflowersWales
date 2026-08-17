@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: aniaowen
+name:
+  display: Ania Owen
+role: Ammanford area
+links:
+- icon: brands/facebook
+  url: https://www.facebook.com/ania.karpenko
+user_groups:
+- Members

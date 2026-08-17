@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: lilley
+name:
+  display: Svetlana Lilley
+role: Briton Ferry area
+links:
+- icon: envelope
+  url: mailto:Svetalilley@hotmail.com
+- icon: brands/facebook
+  url: https://www.facebook.com/svetlana.lilley
+user_groups:
+- Committee members

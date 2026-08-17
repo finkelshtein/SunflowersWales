@@ -1,0 +1,46 @@
+{{/* Sunflowers Wales: local-only block, not part of upstream HugoBlox.
+     "Our partners" logo strip. Each item's whole card links out to the
+     partner's own site — never to the logo image itself. Logos are
+     plain static files (static/uploads/...), not run through Hugo's
+     image pipeline: they're small, fixed assets, not page-bundle photos. */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $content := $block.content }}
+{{ if not (reflect.IsMap $content) }}{{ $content = dict }}{{ end }}
+
+{{ $title := "" }}
+{{ with index $content "title" }}{{ $title = printf "%v" . | emojify | $page.RenderString }}{{ end }}
+
+{{ $items_raw := index $content "items" }}
+{{ $items := slice }}
+{{ if reflect.IsSlice $items_raw }}{{ $items = $items_raw }}{{ end }}
+
+<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+  {{ with $title }}
+  <h2 class="text-3xl font-bold text-gray-900 dark:text-white text-center mb-6">{{ . }}</h2>
+  {{ end }}
+
+  <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+    {{ range $items }}
+      {{ if reflect.IsMap . }}
+        {{ $name := index . "name" }}
+        {{ $image := index . "image" }}
+        {{ $url := index . "url" }}
+        {{ $target := "" }}
+        {{ $scheme := (urls.Parse $url).Scheme }}
+        {{ if in (slice "http" "https") $scheme }}
+          {{ $target = "target=\"_blank\" rel=\"noopener noreferrer\"" }}
+        {{ end }}
+        {{/* Always a white card, regardless of site theme: these are
+             third-party logos (two are opaque JPGs), and a plain white
+             background is the universal safe choice for a logo strip. */}}
+        <a href="{{ $url | safeURL }}" {{ $target | safeHTMLAttr }}
+           class="flex items-center justify-center p-6 h-28 rounded-2xl bg-white border border-gray-100 shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5">
+          <img src="{{ $image }}" alt="{{ $name }}" title="{{ $name }}" loading="lazy"
+               class="max-h-16 max-w-full w-auto object-contain" />
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

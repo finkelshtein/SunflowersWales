@@ -1,21 +1,23 @@
 ---
 title: Sunflowers Wales at Rhosilli Sunflowers
 
-event: Sunflowers Wales members visited Rhosilli Sunflowers field
-
 
 summary: Wonderful day of Sunflowers Wales (Соняшники) members in Rhossili Sunflowers field.
 
 share: false
 
-date: '2022-08-07' 
+date: '2022-08-07'
 
 authors: [bohdana]
+tags:
+    - trip
+cover:
+  image: featured.jpg
 ---
 
-The old dream to have <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> at <a href="https://www.facebook.com/Rhossili-Sunflowers-101782364713763" target="_blank">Rhossili Sunflowers</a> was realised! 
+The old dream to have <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> at <a href="https://www.facebook.com/Rhossili-Sunflowers-101782364713763" target="_blank" rel="noopener noreferrer">Rhossili Sunflowers</a> was realised! 
 
-Thank you <a href="https://www.facebook.com/robert.morgan.33671748" target="_blank">Robert Morgan</a> for your generosity: not only entry tickets  but tea and coffee was offered to us free!!!
+Thank you <a href="https://www.facebook.com/robert.morgan.33671748" target="_blank" rel="noopener noreferrer">Robert Morgan</a> for your generosity: not only entry tickets  but tea and coffee was offered to us free!!!
 
 Everybody had a great time enjoying beautiful Rhossilli, Worms Head and the beach. And the weather was what we asked for! :-)
  

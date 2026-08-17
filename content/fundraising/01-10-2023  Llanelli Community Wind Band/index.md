@@ -1,8 +1,8 @@
 ---
-title: Afternoon Tea Concert in Llanelli 
+title: Afternoon Tea Concert in Llanelli
 date: 2023-10-01
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksanaharries]
 ---
@@ -11,7 +11,7 @@ What a lovely afternoon we had today with Llanelli Community Wind Band!
 
 <!--more-->
 
-Relaxing and informal atmosphere, beautiful music by the band and delicious afternoon tea provided by Phil Shingler and Beverley Shingler from <a href="https://www.facebook.com/groups/llanellicommunitywindband/" target="_blank"> Llanelli Community Wind Band</a>. 
+Relaxing and informal atmosphere, beautiful music by the band and delicious afternoon tea provided by Phil Shingler and Beverley Shingler from <a href="https://www.facebook.com/groups/llanellicommunitywindband/" target="_blank" rel="noopener noreferrer"> Llanelli Community Wind Band</a>. 
 
 We have been moved by the kindness and generosity of people from Llanelli! 
 

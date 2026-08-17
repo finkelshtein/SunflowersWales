@@ -1,24 +1,24 @@
 ---
-title: Fireworks night in Llandeilo 
-
-event:  Fireworks night in Llandeilo 
+title: Fireworks night in Llandeilo
 
 summary:  Our girls made night nearly as bright as fireworks did! :-)
 
 share: false
 
-date: '2023-11-03' 
+date: '2023-11-03'
 
 authors: [bohdana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Fireworks night in Llandeilo 
 
-Thank you  <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a> and <a href="https://llandeilo.gov.uk/" target="_blank">Cyngor Tref Llandeilo Fawr Town Council</a> for inviting us.
+Thank you  <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a> and <a href="https://llandeilo.gov.uk/" target="_blank" rel="noopener noreferrer">Cyngor Tref Llandeilo Fawr Town Council</a> for inviting us.
 
 Our girls made night nearly as bright as fireworks did! :-)
 

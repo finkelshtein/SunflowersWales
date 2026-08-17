@@ -1,13 +1,13 @@
 ---
 title: Support by Co-op Local Community Fund in Llandeilo
 date: 2024-03-16
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 ---
 
-Sunflowers Wales is proudly supported by <a href="https://membership.coop.co.uk/causes/84806" target="_blank">Co-op Local Community Fund in Llandeilo</a>
+Sunflowers Wales is proudly supported by <a href="https://membership.coop.co.uk/causes/84806" target="_blank" rel="noopener noreferrer">Co-op Local Community Fund in Llandeilo</a>
 
 <!--more-->
 
@@ -17,5 +17,5 @@ Today, we were welcomed at the Llandeilo Co-op shop. It was nice to speak with p
 
 Co-op customers also had the opportunity to take photos with Ukrainian wreaths and purchase Welsh daffodils with Ukrainian ribbons.
 
-Many thanks to the Member Pioneer for Co-op Llandeilo, <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fisher</a>! We are very grateful for your constant support!
+Many thanks to the Member Pioneer for Co-op Llandeilo, <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fisher</a>! We are very grateful for your constant support!
 

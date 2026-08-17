@@ -5,12 +5,14 @@ summary: It was a great day filled with laughter, fun, chat, swimming in a pool,
 
 share: false
 
-date: '2023-06-10' 
+date: '2023-06-10'
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> are lucky and privileged to be looked after by <a href="https://www.facebook.com/groups/601579067497655/user/100064940790482/" target="_blank">Llandeilo Rotary Club!</a>
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> are lucky and privileged to be looked after by <a href="https://www.facebook.com/groups/601579067497655/user/100064940790482/" target="_blank" rel="noopener noreferrer">Llandeilo Rotary Club!</a>
 
 We were invited yet again (5<sup>th</sup> time now!) to spend a day in Pantglas.
 

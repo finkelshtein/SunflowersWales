@@ -1,13 +1,13 @@
 ---
 title: Fundraising dinner at Gwili Kitchen Cafe, Llandeilo
 date: 2022-06-23
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 ---
 
-A great Ukrainian fundraising evening, organised by deputy mayor <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>. 
+A great Ukrainian fundraising evening, organised by deputy mayor <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>. 
 
 <!--more-->
 

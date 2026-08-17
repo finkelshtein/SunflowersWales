@@ -1,17 +1,19 @@
 ---
-title: A beautiful day in London 
+title: A beautiful day in London
 
 summary: Sunflowers Wales dancing group visited London
 
 share: false
 
-date: '2024-07-21' 
+date: '2024-07-21'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 It was an amazing day in London, full of joy, dances, smiles, and sun. We participated in a charitable event at the Ukrainian Club and enjoyed the day!

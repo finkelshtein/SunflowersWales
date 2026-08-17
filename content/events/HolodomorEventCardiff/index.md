@@ -1,16 +1,18 @@
 ---
 title: Cardiff commemoration of the 90th Anniversary of the Holodomor
 
-summary: Many thanks to the people from <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> who came along to Cardiff to join the march and ceremony despite the weather!
+summary: Many thanks to the people from <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> who came along to Cardiff to join the march and ceremony despite the weather!
 
 share: false
 
-date: '2022-11-26' 
+date: '2022-11-26'
 
 authors: [admin]
+cover:
+  image: featured.jpg
 ---
 
-Many thanks to the people from <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> who came along to Cardiff to join the march and ceremony despite the weather!
+Many thanks to the people from <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> who came along to Cardiff to join the march and ceremony despite the weather!
 
 Great respect for the Welsh Government for their constant support of Ukrainians, our country, and our history!
 

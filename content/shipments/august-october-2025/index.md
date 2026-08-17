@@ -1,11 +1,10 @@
 ---
 title: Support to Ukraine in August — October 2025
 date: 2025-10-31
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-cathegory: 'latest'
 ---
 
 We have organised six shipments in three months. 
@@ -25,7 +24,7 @@ Here are some reports from our Ukrainian friends:
 
 We will not stop, we continue to help Ukrainians! Our effective work is impossible without you, your help, and your generosity! 
 
-Every haemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank">Amazon list</a> we sent may save a life. 
+Every haemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank" rel="noopener noreferrer">Amazon list</a> we sent may save a life. 
 
 It's worth all the effort!
 

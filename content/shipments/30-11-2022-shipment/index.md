@@ -1,11 +1,10 @@
 ---
 title: Another 3.5 cubic meter of parcels went to Ukraine
 date: 2022-11-30
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-cathegory: 'latest'
 ---
 
 Another massive shipment with medical supplies, a generator, and humanitarian aid was sent to and received in Ukraine!
@@ -15,12 +14,12 @@ Another massive shipment with medical supplies, a generator, and humanitarian ai
 
 More than 50 parcels, overall  3.5 m<sup>3</sup>, of medical supplies and humanitarian aid are now in Ukraine:
 
-<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid02Gx5VVRht3ByL2PemrdZhC7L3Q1Kf3UGBNG7dP7cBCipEdSHmMqRoFZs6fNah4V1ul" target="_blank">Link 1</a>
-<a href="https://www.facebook.com/zknfz/posts/pfbid0hjPkcj2ouK6fE7TdMMq9P16YjK62AUAT4zGbEEXRzCXWN76HY2YmuVVJ8KnmX1Scl" target="_blank">Link 2</a>
-<a href="https://www.facebook.com/Blagovist2013/posts/pfbid0JAdSFaATCHRSdVVfzN3PsXApVzrnBNWcGJuEuzVqziuNY2GkJxK3jZxvEkZk1EBSl" target="_blank">Link 3</a>
-<a href="https://www.facebook.com/Blagovist2013/posts/pfbid02Dn4N2hLXtxRBs4apRzT7XSaFLmAbuw13PZRj4dfDwcdfDrH4naqX4fxBFurbjeBgl" target="_blank">Link 4</a>
-<a href="https://www.facebook.com/nataliia.maksymovych/posts/pfbid028PPb4TXmyNz9Es6YUC2B8mipiee35wxraT9PJrKnaMykDosCQ5hTu81oAkhXxaUUl" target="_blank">Link 5</a>
-<a href="https://www.facebook.com/oleksandr.korkoil/posts/pfbid0ZCnGmK7izjhpJDtgcg421s6Bk3x2iTG6dWEpRGMAqBmxieD5d72Ka6bzmPk36xMql" target="_blank">Link 6</a>
+<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid02Gx5VVRht3ByL2PemrdZhC7L3Q1Kf3UGBNG7dP7cBCipEdSHmMqRoFZs6fNah4V1ul" target="_blank" rel="noopener noreferrer">Link 1</a>
+<a href="https://www.facebook.com/zknfz/posts/pfbid0hjPkcj2ouK6fE7TdMMq9P16YjK62AUAT4zGbEEXRzCXWN76HY2YmuVVJ8KnmX1Scl" target="_blank" rel="noopener noreferrer">Link 2</a>
+<a href="https://www.facebook.com/Blagovist2013/posts/pfbid0JAdSFaATCHRSdVVfzN3PsXApVzrnBNWcGJuEuzVqziuNY2GkJxK3jZxvEkZk1EBSl" target="_blank" rel="noopener noreferrer">Link 3</a>
+<a href="https://www.facebook.com/Blagovist2013/posts/pfbid02Dn4N2hLXtxRBs4apRzT7XSaFLmAbuw13PZRj4dfDwcdfDrH4naqX4fxBFurbjeBgl" target="_blank" rel="noopener noreferrer">Link 4</a>
+<a href="https://www.facebook.com/nataliia.maksymovych/posts/pfbid028PPb4TXmyNz9Es6YUC2B8mipiee35wxraT9PJrKnaMykDosCQ5hTu81oAkhXxaUUl" target="_blank" rel="noopener noreferrer">Link 5</a>
+<a href="https://www.facebook.com/oleksandr.korkoil/posts/pfbid0ZCnGmK7izjhpJDtgcg421s6Bk3x2iTG6dWEpRGMAqBmxieD5d72Ka6bzmPk36xMql" target="_blank" rel="noopener noreferrer">Link 6</a>
 
 Many thanks to everyone who donated supplies and money to make this possible!
 

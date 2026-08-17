@@ -1,21 +1,20 @@
 ---
 title: A Taste of West Wales Spring Festival
 date: 2023-04-02
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 
 tags:
     - dance
-    
 ---
 
 This weekend Sunflowers Wales took part at a Festival at the National Botanic Garden of Wales.
 
 <!--more-->
 
-<a href="https://www.facebook.com/events/599330982024397/" target="_blank">A Taste of West Wales Spring Festival</a> was organized on 1-2 April 2023 by <a href="https://www.facebook.com/ShowcasingWalesandtheBorders" target="_blank">Showcasing Wales and the Borders</a> at <a href="https://www.facebook.com/pages/National%20Botanic%20Garden%20of%20Wales/136641249690054/" target="_blank">the National Botanic Garden of Wales</a>
+<a href="https://www.facebook.com/events/599330982024397/" target="_blank" rel="noopener noreferrer">A Taste of West Wales Spring Festival</a> was organized on 1-2 April 2023 by <a href="https://www.facebook.com/ShowcasingWalesandtheBorders" target="_blank" rel="noopener noreferrer">Showcasing Wales and the Borders</a> at <a href="https://www.facebook.com/pages/National%20Botanic%20Garden%20of%20Wales/136641249690054/" target="_blank" rel="noopener noreferrer">the National Botanic Garden of Wales</a>
 
 Our Taste of Ukraine stall with Ukrainian food and souvenirs was a highly popular place for the festival guests. 
 

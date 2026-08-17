@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: anaabramchuk
+name:
+  display: Ana Abramchuk
+role: Swansea area
+links:
+- icon: brands/facebook
+  url: https://www.facebook.com/ana.abramchuk
+user_groups:
+- Members

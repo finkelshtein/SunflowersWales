@@ -1,13 +1,13 @@
 ---
-title: Ghostbuskers' performance 
+title: Ghostbuskers' performance
 date: 2025-04-12
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 ---
 
-Two hours of joy, music, and singing: our dear friends, <a href="https://www.facebook.com/ghostbuskers.2024" target="_blank">Ghostbuskers</a>, were performing on a Port Talbot bridge, fundraising money for Sunflowers Wales to support Ukraine! 
+Two hours of joy, music, and singing: our dear friends, <a href="https://www.facebook.com/ghostbuskers.2024" target="_blank" rel="noopener noreferrer">Ghostbuskers</a>, were performing on a Port Talbot bridge, fundraising money for Sunflowers Wales to support Ukraine! 
 
 <!--more-->
 

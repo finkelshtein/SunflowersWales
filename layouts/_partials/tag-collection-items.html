@@ -1,0 +1,38 @@
+{{/* Sunflowers Wales: the paginated-listing half of tag-collection-list.html,
+     split out so layouts/dancing/list.html can pair it with its own
+     bespoke hero-style intro instead of the generic title+intro block
+     every other tag page uses. See tag-collection-list.html for the
+     full explanation of what this does and why. */}}
+
+{{ $page := . }}
+{{ $tag := $page.Params.tag }}
+{{ $view := $page.Params.view | default "alternating" }}
+
+{{ $allPages := slice }}
+{{ with $tag }}
+  {{ with $page.Site.GetPage (printf "/tags/%s" .) }}
+    {{ $allPages = .Pages.ByDate.Reverse }}
+  {{ end }}
+{{ end }}
+
+{{ $paginator := $page.Paginate $allPages }}
+{{ $config := dict
+  "columns" ($page.Params.columns | default 2)
+  "len" (len $paginator.Pages)
+  "fill_image" ($page.Params.fill_image | default true)
+  "show_date" ($page.Params.show_date | default true)
+  "show_read_time" ($page.Params.show_read_time | default true)
+  "show_read_more" ($page.Params.show_read_more | default true)
+}}
+
+<div class="flex flex-col items-center">
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $page "item" $page "view" $view "config" $config) }}
+
+  {{ range $index, $item := $paginator.Pages }}
+    {{ partial "functions/render_view" (dict "page" $item "item" $item "view" $view "index" $index "config" $config) }}
+  {{ end }}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $page "item" $page "view" $view) }}
+
+  {{ partial "components/paginator" $page }}
+</div>

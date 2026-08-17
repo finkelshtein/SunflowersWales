@@ -8,14 +8,16 @@ authors: [admin]
 
 tags:
     - class
-        
+
+cover:
+  image: featured.jpg
 ---
 
 The second art class on a traditional Ukrainian decorative painting style was again run by multi-talented Lisa Kalianova.
 
 <!--more-->
 
- We met again at <a href="https://www.swanseagrand.co.uk/article/5523/The-Grand-Multicultural-Hub" target="_blank">Swansea Multicultural Hub</a> proud;y supported by the Winter Wellbeing Grant from <a href="https://www.swansea.gov.uk/" target="_blank">Swansea Council</a>!
+ We met again at <a href="https://www.swanseagrand.co.uk/article/5523/The-Grand-Multicultural-Hub" target="_blank" rel="noopener noreferrer">Swansea Multicultural Hub</a> proud;y supported by the Winter Wellbeing Grant from <a href="https://www.swansea.gov.uk/" target="_blank" rel="noopener noreferrer">Swansea Council</a>!
 
 <div style="margin-top: 0; text-align: center;"><img src="paint-1.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/><img src="paint-2.jpg" alt="art class" width="50%" style="display: inline; margin-top: 0;"/></div>
 

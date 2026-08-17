@@ -5,9 +5,11 @@ summary: It was a great day filled with laughter, fun, chat, swimming in a pool,
 
 share: false
 
-date: '2022-12-03' 
+date: '2022-12-03'
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
 It was a great day filled with laughter, fun, chat, swimming in a pool, sitting in jacuzzi and sweating in sauna! 😀
@@ -15,7 +17,7 @@ It was a great day filled with laughter, fun, chat, swimming in a pool, sitting 
 Followed by delicious  traditional Xmas dinner that was tasted for the first time!
 And Santa visit of course!
 
-All this was a gift to Ukrainian families, members of Sunflowers Wales, who live in an area, from <a href="https://www.facebook.com/groups/601579067497655/user/100064940790482/" target="_blank">Llandeilo Rotary Club!</a>
+All this was a gift to Ukrainian families, members of Sunflowers Wales, who live in an area, from <a href="https://www.facebook.com/groups/601579067497655/user/100064940790482/" target="_blank" rel="noopener noreferrer">Llandeilo Rotary Club!</a>
 
 Day that all of us will remember with smile and gratitude!
 

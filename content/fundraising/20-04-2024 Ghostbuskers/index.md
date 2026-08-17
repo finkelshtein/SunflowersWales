@@ -1,13 +1,13 @@
 ---
 title: Fundraising with Ghostbuskers musical group
 date: 2024-04-20
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 ---
 
-<a href="https://www.facebook.com/ghostbuskers.2024/" target="_blank">Ghostbuskers</a>, thanks a lot for your support!
+<a href="https://www.facebook.com/ghostbuskers.2024/" target="_blank" rel="noopener noreferrer">Ghostbuskers</a>, thanks a lot for your support!
 
 <!--more-->
 

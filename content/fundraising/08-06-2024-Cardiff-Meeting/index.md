@@ -1,8 +1,8 @@
 ---
 title: Meeting in Cardiff
 date: 2024-06-08
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 
@@ -11,7 +11,7 @@ tags:
 ---
 
 Sunflowers Wales proudly participated in a regular meeting-protest in Cardiff together with 
-<a href="https://www.facebook.com/standwithukraine.cardiff/" target="_blank">Stand With Ukraine Cardiff</a> group.
+<a href="https://www.facebook.com/standwithukraine.cardiff/" target="_blank" rel="noopener noreferrer">Stand With Ukraine Cardiff</a> group.
 
 <!--more-->
 

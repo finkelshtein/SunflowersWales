@@ -1,17 +1,16 @@
 ---
-title: Llandeilo Festival of Senses 
+title: Llandeilo Festival of Senses
 date: 2022-11-18
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 
 tags:
     - dance
-    
 ---
 
-This year Llandeilo <a href="https://fos.wales/" target="_blank">Festival of Senses</a> was even more colourful --- Ukrainians came into town! 😃 
+This year Llandeilo <a href="https://fos.wales/" target="_blank" rel="noopener noreferrer">Festival of Senses</a> was even more colourful --- Ukrainians came into town! 😃 
 
 <!--more-->
 
@@ -23,7 +22,7 @@ Thank you to everybody who was knitting, crocheting, baking, drawing, making toy
 
 Thank you to Welsh people for great support, kindness and help.
 
-Special Thank you from all of us as a group to <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>!!! 
+Special Thank you from all of us as a group to <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>!!! 
 He is our truly great friend! ❤️
 
 Diolch yn fawr!

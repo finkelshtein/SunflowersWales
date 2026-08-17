@@ -5,13 +5,15 @@ summary: For the third year in a row, Sunflowers Wales has taken part in the cel
 
 share: false
 
-date: '2025-05-17' 
+date: '2025-05-17'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 For the third year in a row, Sunflowers Wales has taken part in the celebration of Vyshyvanka Day in Cardiff.

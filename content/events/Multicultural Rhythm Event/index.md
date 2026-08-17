@@ -5,13 +5,15 @@ summary: Sunflowers Wales took part in a Multicultural Rhythm Event!
 
 share: false
 
-date: '2024-02-11' 
+date: '2024-02-11'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 It was a pleasure to be part of the Multicultural Rhythm Event at the WUEZZA Center. 

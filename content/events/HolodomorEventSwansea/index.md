@@ -5,9 +5,11 @@ summary: Many thanks to everyone who came along to the memorial evening at Swans
 
 share: false
 
-date: '2022-11-24' 
+date: '2022-11-24'
 
 authors: [admin]
+cover:
+  image: featured.jpg
 ---
 
 Many thanks to everyone who came along to the memorial evening at Swansea Multicultural Hub for the 90th anniversary of the Holodomor.

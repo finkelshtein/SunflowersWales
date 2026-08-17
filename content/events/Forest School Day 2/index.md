@@ -5,13 +5,17 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 Another wonderful family forest session for Ukrainians at Singleton Park.
 
 <!--more-->
 
-A huge thank you to <a href="https://www.facebook.com/ForestSchoolSNPT/" target="_blank">Forest School Swansea Neath & Port Talbot</a> for providing such a wonderful and memorable session for our children. We are truly grateful for the warmth, care, and creativity that went into every activity.
+A huge thank you to <a href="https://www.facebook.com/ForestSchoolSNPT/" target="_blank" rel="noopener noreferrer">Forest School Swansea Neath & Port Talbot</a> for providing such a wonderful and memorable session for our children. We are truly grateful for the warmth, care, and creativity that went into every activity.
 
 The children had the best time — from preparing pizzas completely from scratch, to building their own shelter, chopping wood. Every moment was filled with excitement, teamwork, and joy.
 

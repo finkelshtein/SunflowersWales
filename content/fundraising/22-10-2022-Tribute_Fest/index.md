@@ -7,9 +7,11 @@ summary: A charitable tribute event (ABBA, Cher, Tina Turner, raffle, and disco)
 
 share: false
 
-date: '2022-10-22' 
+date: '2022-10-22'
 
 authors: [oksanaharries]
+cover:
+  image: featured.jpg
 ---
 
 The Diplomat Hotel in Llanelli welcomed an overwhelming tribute fest with ABBA, Tina Turner and Cher's greatest hits. Two 45 minutes blocks full of the most loved music.

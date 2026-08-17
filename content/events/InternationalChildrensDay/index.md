@@ -1,8 +1,6 @@
 ---
 title: International Children’s day
 
-event: International Children’s day
-
 location: Swansea, Castle Square
 
 summary: Today is International Children’s day. We held Vigil in Swansea today to commemorate 243 killed and 446 injured Ukrainian children.
@@ -12,6 +10,10 @@ share: false
 date: '2022-06-01'
 
 authors: [bohdana]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 Today is International Children’s day. We held Vigil in Swansea today to commemorate 243 killed and 446 injured Ukrainian children. 

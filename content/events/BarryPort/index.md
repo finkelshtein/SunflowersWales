@@ -1,15 +1,17 @@
 ---
 title: International festival at Barry Port
 
-event: International festival 
-
 summary: Pembrey Burry Port Town Council welcomed the International Festival at Burry Port Memorial Hall
 
 share: false
 
-date: '2022-10-22' 
+date: '2022-10-22'
 
 authors: [oksanaharries]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
  Pembrey Burry Port Town Council welcomed the International Festival. Fantastic International day at Burry Port Memorial Hall! Dozens of stalls with different cultural heritage and tasty food! People really enjoyed it. 

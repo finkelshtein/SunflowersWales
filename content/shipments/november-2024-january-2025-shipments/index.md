@@ -1,11 +1,10 @@
 ---
 title: Support to Ukraine in November 2024 - January 2025
 date: 2025-01-31
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-cathegory: 'latest'
 ---
 
 The last three months were full of various support from us to the people in Ukraine!
@@ -18,13 +17,13 @@ We have also bought and delivered to our trusted Ukrainian volunteers a lot of m
 
 Here are some reports from our Ukrainian friends:
 
-<a href="" target="_blank">Link 1</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0C5DqUPo6vVoeiphnu1VAGyXPA2t3vCLQzHQgGPPE22fC8DpPdktYoCcZ39FhhSPQl" target="_blank">Link 2</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/601579067497655/posts/1128512184804338" target="_blank">Link 3</a>&nbsp;&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02wrMdeS87vXTfEAo482LqKEdaT8qfwWy3fa1iGFtyvrFikHN31NaBsva5yoZ8MqrWl&id=100063649504855" target="_blank">Link 4</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid023Az5VAGH6E3Ah14BzKLae9VkCj4EAvEPhWP8TSvxKBgqi7yMiiojdrsCms1qZ9FXl" target="_blank">Link 5</a>
+<a href="" target="_blank" rel="noopener noreferrer">Link 1</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0C5DqUPo6vVoeiphnu1VAGyXPA2t3vCLQzHQgGPPE22fC8DpPdktYoCcZ39FhhSPQl" target="_blank" rel="noopener noreferrer">Link 2</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/601579067497655/posts/1128512184804338" target="_blank" rel="noopener noreferrer">Link 3</a>&nbsp;&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02wrMdeS87vXTfEAo482LqKEdaT8qfwWy3fa1iGFtyvrFikHN31NaBsva5yoZ8MqrWl&id=100063649504855" target="_blank" rel="noopener noreferrer">Link 4</a>&nbsp;&nbsp;<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid023Az5VAGH6E3Ah14BzKLae9VkCj4EAvEPhWP8TSvxKBgqi7yMiiojdrsCms1qZ9FXl" target="_blank" rel="noopener noreferrer">Link 5</a>
 
-<a href="https://www.facebook.com/groups/601579067497655/posts/1133379124317644" target="_blank">Link 6</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0p5RqWqir7rWsUC681wkWBsMCJMXcHAt53setmnLDDFKzuksaDmSPbuq3Hc7UdmvBl" target="_blank">Link 7</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/601579067497655/posts/1147800486208841" target="_blank">Link 8</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0UwdqTL762TAQAotgqerS7VFUeBFuWqdyF15XWnCS6x4zvHNxejGHJXAJGFPg8R6Wl" target="_blank">Link 9</a>&nbsp;&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02g21TeCZHGSJEo98RAJncR9nHfDXFUtjEUrf1jBH2WBvHwxoy43VzE2hvr7e5Efiul&id=100012514024631" target="_blank">Link 10</a>
+<a href="https://www.facebook.com/groups/601579067497655/posts/1133379124317644" target="_blank" rel="noopener noreferrer">Link 6</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0p5RqWqir7rWsUC681wkWBsMCJMXcHAt53setmnLDDFKzuksaDmSPbuq3Hc7UdmvBl" target="_blank" rel="noopener noreferrer">Link 7</a>&nbsp;&nbsp;<a href="https://www.facebook.com/groups/601579067497655/posts/1147800486208841" target="_blank" rel="noopener noreferrer">Link 8</a>&nbsp;&nbsp;<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0UwdqTL762TAQAotgqerS7VFUeBFuWqdyF15XWnCS6x4zvHNxejGHJXAJGFPg8R6Wl" target="_blank" rel="noopener noreferrer">Link 9</a>&nbsp;&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02g21TeCZHGSJEo98RAJncR9nHfDXFUtjEUrf1jBH2WBvHwxoy43VzE2hvr7e5Efiul&id=100012514024631" target="_blank" rel="noopener noreferrer">Link 10</a>
 
 And let us say this again: we will not stop, we continue to help Ukrainians! Our effective work is impossible without you, your help, and your generosity! 
 
-Every haemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank">Amazon list</a> we sent may save a life. 
+Every haemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank" rel="noopener noreferrer">Amazon list</a> we sent may save a life. 
 
 It's worth all the effort!
 

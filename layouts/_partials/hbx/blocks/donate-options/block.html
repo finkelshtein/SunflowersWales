@@ -1,0 +1,111 @@
+{{/* Sunflowers Wales: local-only block, not part of upstream HugoBlox.
+     "Ways to donate" card list for the home page's donate panel. Visual
+     style matches the "Our Impact" stats icon badges (gradient primary
+     -> secondary square, white icon) so the two sit together as one
+     consistent, vibrant look rather than the flat grey rows the generic
+     cta-button-list block gave. Each item is either a link (has `url`)
+     or the one `bank` item, which shows account details inline instead
+     of linking out. */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $content := $block.content }}
+{{ if not (reflect.IsMap $content) }}{{ $content = dict }}{{ end }}
+
+{{ $title := "" }}
+{{ with index $content "title" }}{{ $title = printf "%v" . | emojify | $page.RenderString }}{{ end }}
+
+{{ $items_raw := index $content "items" }}
+{{ $items := slice }}
+{{ if reflect.IsSlice $items_raw }}{{ $items = $items_raw }}{{ end }}
+
+{{ $footer := index $content "footer" }}
+{{ if not (reflect.IsMap $footer) }}{{ $footer = dict }}{{ end }}
+
+<div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+  {{ with $title }}
+  <h2 class="text-3xl font-bold text-gray-900 dark:text-white text-center mb-6">{{ . }}</h2>
+  {{ end }}
+
+  <div class="flex flex-col gap-3">
+    {{ range $items }}
+      {{ if reflect.IsMap . }}
+        {{ $name := index . "name" }}
+        {{ $description := index . "description" }}
+        {{ $icon := index . "icon" }}
+        {{ $url := index . "url" }}
+        {{ $bank := index . "bank" }}
+
+        {{ $icon_html := "" }}
+        {{ with $icon }}
+          {{ $icon_html = partial "functions/get_icon" (dict "name" . "attributes" "class=\"inline-block\"") }}
+        {{ end }}
+
+        {{ if and $url (reflect.IsMap $bank | not) }}
+          {{/* Link item (Donorbox / PayPal / Amazon / email) */}}
+          {{ $link := $url }}
+          {{ $target := "" }}
+          {{ $scheme := (urls.Parse $link).Scheme }}
+          {{ if not $scheme }}
+            {{ $link = $link | relLangURL }}
+          {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener noreferrer\"" }}
+          {{ end }}
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}
+             class="donate-option-card group flex items-center gap-4 p-4 sm:p-5 rounded-2xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-0.5">
+            <div class="donate-option-icon shrink-0 inline-flex items-center justify-center w-14 h-14 rounded-xl text-white">
+              {{ $icon_html | safeHTML }}
+            </div>
+            <div class="flex-1 min-w-0">
+              <div class="font-bold text-gray-900 dark:text-white">{{ $name }}</div>
+              {{ with $description }}<p class="text-sm text-gray-600 dark:text-gray-400">{{ . }}</p>{{ end }}
+            </div>
+            <svg class="w-5 h-5 text-primary-600 dark:text-primary-400 shrink-0 group-hover:translate-x-1 transition-transform" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.29 5.155a.75.75 0 111.02-1.1l5.5 5a.75.75 0 010 1.1l-5.5 5a.75.75 0 11-1.02-1.1l4.098-4.095H3.75A.75.75 0 013 10z" clip-rule="evenodd" />
+            </svg>
+          </a>
+        {{ else if reflect.IsMap $bank }}
+          {{/* Bank transfer: same visual treatment, details shown inline instead of a link */}}
+          <div class="donate-option-card flex items-start sm:items-center gap-4 p-4 sm:p-5 rounded-2xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 shadow-md flex-col sm:flex-row">
+            <div class="flex items-center gap-4 w-full sm:w-auto">
+              <div class="donate-option-icon shrink-0 inline-flex items-center justify-center w-14 h-14 rounded-xl text-white">
+                {{ $icon_html | safeHTML }}
+              </div>
+              <div class="flex-1 min-w-0 sm:hidden">
+                <div class="font-bold text-gray-900 dark:text-white">{{ $name }}</div>
+                {{ with $description }}<p class="text-sm text-gray-600 dark:text-gray-400">{{ . }}</p>{{ end }}
+              </div>
+            </div>
+            <div class="flex-1 min-w-0 hidden sm:block">
+              <div class="font-bold text-gray-900 dark:text-white">{{ $name }}</div>
+              {{ with $description }}<p class="text-sm text-gray-600 dark:text-gray-400 mb-2">{{ . }}</p>{{ end }}
+            </div>
+            <dl class="grid grid-cols-2 gap-x-4 gap-y-1 text-sm w-full sm:w-auto sm:min-w-[15rem]">
+              {{ with index $bank "bank_name" }}
+                <dt class="text-gray-500 dark:text-gray-400">Bank</dt><dd class="font-semibold text-gray-900 dark:text-white">{{ . }}</dd>
+              {{ end }}
+              {{ with index $bank "account_name" }}
+                <dt class="text-gray-500 dark:text-gray-400">Account name</dt><dd class="font-semibold text-gray-900 dark:text-white">{{ . }}</dd>
+              {{ end }}
+              {{ with index $bank "sort_code" }}
+                <dt class="text-gray-500 dark:text-gray-400">Sort code</dt><dd class="font-semibold text-gray-900 dark:text-white">{{ . }}</dd>
+              {{ end }}
+              {{ with index $bank "account_number" }}
+                <dt class="text-gray-500 dark:text-gray-400">Account number</dt><dd class="font-semibold text-gray-900 dark:text-white">{{ . }}</dd>
+              {{ end }}
+            </dl>
+          </div>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{ with $footer.text }}
+  <p class="text-center text-sm text-gray-600 dark:text-gray-400 mt-6">
+    {{ . }}
+    {{ with $footer.link_url }}
+      <a href="{{ . | relLangURL }}" class="font-semibold text-primary-600 dark:text-primary-400 hover:underline">{{ $footer.link_text | default . }}</a>
+    {{ end }}
+  </p>
+  {{ end }}
+</div>

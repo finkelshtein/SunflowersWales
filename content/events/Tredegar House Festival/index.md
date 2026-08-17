@@ -5,13 +5,15 @@ summary: Sunflowers Wales took part in the Tredegar House Folk Festival in Newpo
 
 share: false
 
-date: '2025-05-10' 
+date: '2025-05-10'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Every trip our dance group takes to perform becomes special. This happens thanks to the efforts of our girls, the organisers, and the warm welcome from the audience. But Saturday’s trip to the Tredegar House Folk Festival in Newport, which has been held for 34 consecutive years, took a very special place in our hearts!

@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: nataliya
+name:
+  display: Nataliya McDyer
+role: Neath area
+links:
+- icon: envelope
+  url: mailto:mcdyernataliya@gmail.com
+- icon: brands/facebook
+  url: https://www.facebook.com/NataliyaMcDyer
+user_groups:
+- Committee members

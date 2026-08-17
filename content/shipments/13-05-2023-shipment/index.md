@@ -1,11 +1,10 @@
 ---
 title: A valuable shipment in May
 date: 2023-05-26
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-cathegory: 'latest'
 ---
 
 In May, we have sent just one but valuable shipment to Ukraine.
@@ -20,15 +19,15 @@ Many thanks to our members for their tireless work!
 
 Many thanks to the volunteers in UKraine who promptly delivered this to the destination points:
 
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid021TobcHXQG2daoALP8XsqH7qS1gpkAncEXp4mC6UxycyE2BQW4ttexnfSNHdNsLFvl" target="_blank">Link 1</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0zNnmjM3SbDweD4zKoZwGPQpDaaunuojAd5R7cYqDkwB3JRekp1cJbhSThNSc2Ut6l" target="_blank">Link 2</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0fEn6uRv8eAgU5TBownAfrHw9ZGK4Z33mdjmbFrJg3XzHNgGqoQghH2HUC5DDYNMPl" target="_blank">Link 3</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/zknfz/posts/pfbid028Kshw1XvAcs4zUEWTALQrmK1o3gc27EnzjeUPerTirGugVm9Re6xEGHoNCpmNBecl" target="_blank">Link 4</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid021TobcHXQG2daoALP8XsqH7qS1gpkAncEXp4mC6UxycyE2BQW4ttexnfSNHdNsLFvl" target="_blank" rel="noopener noreferrer">Link 1</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0zNnmjM3SbDweD4zKoZwGPQpDaaunuojAd5R7cYqDkwB3JRekp1cJbhSThNSc2Ut6l" target="_blank" rel="noopener noreferrer">Link 2</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pavlo.fedaka/posts/pfbid0fEn6uRv8eAgU5TBownAfrHw9ZGK4Z33mdjmbFrJg3XzHNgGqoQghH2HUC5DDYNMPl" target="_blank" rel="noopener noreferrer">Link 3</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/zknfz/posts/pfbid028Kshw1XvAcs4zUEWTALQrmK1o3gc27EnzjeUPerTirGugVm9Re6xEGHoNCpmNBecl" target="_blank" rel="noopener noreferrer">Link 4</a>&nbsp;&nbsp;
 
  
 We will not stop, we continue to help Ukrainians! Our effective work is impossible without you, your help, and your generosity! 
 
-Every hemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank">Amazon list</a> we sent may save a life. 
+Every hemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank" rel="noopener noreferrer">Amazon list</a> we sent may save a life. 
 
 It's worth all the effort!
 

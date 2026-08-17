@@ -1,11 +1,11 @@
 ---
 title: Full marathon for Ukraine
 date: 2024-07-02
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-tags: 
+tags:
   - sport
 ---
 
@@ -13,7 +13,7 @@ Incredible fundraising for Ukraine
 
 <!--more-->
 
-We are deeply grateful to <a href="https://www.facebook.com/anastasia.opalatenko/" target="_blank">Anastasiia Opalatenko</a> for her incredible fundraising efforts.
+We are deeply grateful to <a href="https://www.facebook.com/anastasia.opalatenko/" target="_blank" rel="noopener noreferrer">Anastasiia Opalatenko</a> for her incredible fundraising efforts.
 
 She ran a full marathon and raised an amazing **£840** for Sunflowers Wales, all to help buy medical supplies for Ukrainian paramedics! 
 

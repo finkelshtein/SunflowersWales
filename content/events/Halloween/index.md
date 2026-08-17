@@ -1,15 +1,17 @@
 ---
 title: Halloween party for Ukrainian kids
 
-event: Halloween party
-
 summary: More than 30 Ukrainian kids enjoyed a Halloween party at the Hazel court
 
 share: false
 
-date: '2022-10-30' 
+date: '2022-10-30'
 
 authors: [admin]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 More than 30 Ukrainian kids enjoyed a Halloween party at the Hazel court!

@@ -5,16 +5,18 @@ summary: Sunflowers Wales took part in the parade and concert
 
 share: false
 
-date: '2023-02-25' 
+date: '2023-02-25'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> took part in the celebration of St. David's day in the course of Croeso Festival in Swansea. We joined the parade and made performance at the concert!
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> took part in the celebration of St. David's day in the course of Croeso Festival in Swansea. We joined the parade and made performance at the concert!
 
 It was our gratitude to the Welsh people for their hospitallity and support! 
 Hir oes Cymru! 

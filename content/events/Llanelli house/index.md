@@ -5,12 +5,16 @@ summary: Sunflowers Wales (Соняшники) were kindly invited by Llanelli R
 
 share: false
 
-date: '2023-01-14' 
+date: '2023-01-14'
 
 authors: [admin]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> were kindly invited by <a href="https://www.facebook.com/LlanelliRotaryClub" target="_blank">Llanelli Rotary Club</a> to New Year’s lunch for Ukrainian families at <a href="https://www.facebook.com/llanellyhouse" target="_blank"> Llanelli House</a>.
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> were kindly invited by <a href="https://www.facebook.com/LlanelliRotaryClub" target="_blank" rel="noopener noreferrer">Llanelli Rotary Club</a> to New Year’s lunch for Ukrainian families at <a href="https://www.facebook.com/llanellyhouse" target="_blank" rel="noopener noreferrer"> Llanelli House</a>.
 
 In addition to delicious food, we had a wonderful tour of the House! It was so great to learn about the history of the House and Llanelli and see the authentic items from the past.
 

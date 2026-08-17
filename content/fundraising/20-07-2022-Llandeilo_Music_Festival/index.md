@@ -1,13 +1,13 @@
 ---
 title: Fundraising at the Evening Concert of the Llandeilo Music Festival 2022
 date: 2022-07-20
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 ---
 
-Wednesday <a href="http://www.llandeilomusicfestival.org.uk/programme/programme/wednesday20.html" target="_blank">Evening Concert</a> of the Llandeilo Music Festival 2022 was dedicated to the victims of the terrible Ukraine War. 
+Wednesday <a href="http://www.llandeilomusicfestival.org.uk/programme/programme/wednesday20.html" target="_blank" rel="noopener noreferrer">Evening Concert</a> of the Llandeilo Music Festival 2022 was dedicated to the victims of the terrible Ukraine War. 
 
 <!--more-->
 

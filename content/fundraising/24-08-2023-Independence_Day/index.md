@@ -1,14 +1,13 @@
 ---
 title: Independence Day of Ukraine on Swansea Castle Square
 date: 2023-08-24
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
 
 tags:
     - dance
-    
 ---
 
 Our celebration of the Independence Day of Ukraine in Swanseа was just amazing! 
@@ -26,23 +25,23 @@ Our yellow-blue balloon arch was a popular spot for photography.
 We created a massive Chain of Unity, becoming part of a global Ukrainian flash mob.
 And, of course, the weather was enchanting, as if the Sun came to greet its Sunflowers! 
 
-Many thanks to <a href="https://austinbaileyfoundation.charity/" target="_blank">Austin Bailey Foundation Swansea</a>, <a href="https://localgiving.org/" target="_blank">Localgiving</a>, and <a href="https://www.swansea.gov.uk/" target="_blank">Swansea Council</a> for financial support to organise this wonderful event! 
+Many thanks to <a href="https://austinbaileyfoundation.charity/" target="_blank" rel="noopener noreferrer">Austin Bailey Foundation Swansea</a>, <a href="https://localgiving.org/" target="_blank" rel="noopener noreferrer">Localgiving</a>, and <a href="https://www.swansea.gov.uk/" target="_blank" rel="noopener noreferrer">Swansea Council</a> for financial support to organise this wonderful event! 
 
-Thank you to the Leader of Swansea Council <a href="https://www.facebook.com/profile.php?id=100070379936760" target="_blank">Rob Stewart</a>, the Mayor of Llandeilo <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>, and the Swansea Council Cabinet member <a href="https://www.facebook.com/alyson.pugh" target="_blank">Alyson Pugh</a> for coming and for the touching speeches!
+Thank you to the Leader of Swansea Council <a href="https://www.facebook.com/profile.php?id=100070379936760" target="_blank" rel="noopener noreferrer">Rob Stewart</a>, the Mayor of Llandeilo <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>, and the Swansea Council Cabinet member <a href="https://www.facebook.com/alyson.pugh" target="_blank" rel="noopener noreferrer">Alyson Pugh</a> for coming and for the touching speeches!
 
 Many thanks to Helen Clancy, Emily Bollington, Lara Rowlands, and Sali Thomas from Swansea Council for supporting the logistics of this event!
 
-Many thanks to <a href="https://www.facebook.com/tmarshtupa" target="_blank">Tatyana  Marshtupa</a> and <a href="https://www.facebook.com/sofiya.abramchukhussey" target="_blank">Sofiya Abramchuk-Hussey</a> for running the event! Thank you to all our dancers for rousing performances, and especially to <a href="https://www.facebook.com/lyudmyla.kazmiruk" target="_blank">Lyudmyla  Kazmiruk</a> for the amazing dancing flash mob with children! 
+Many thanks to <a href="https://www.facebook.com/tmarshtupa" target="_blank" rel="noopener noreferrer">Tatyana  Marshtupa</a> and <a href="https://www.facebook.com/sofiya.abramchukhussey" target="_blank" rel="noopener noreferrer">Sofiya Abramchuk-Hussey</a> for running the event! Thank you to all our dancers for rousing performances, and especially to <a href="https://www.facebook.com/lyudmyla.kazmiruk" target="_blank" rel="noopener noreferrer">Lyudmyla  Kazmiruk</a> for the amazing dancing flash mob with children! 
 
-Thank you <a href="https://www.facebook.com/kate.kalyanova.1" target="_blank">Kate Kalianova</a> and Liz and Matviy for the wonderful bandura playing and singing (and sincere apologies for the issues with mics!)
+Thank you <a href="https://www.facebook.com/kate.kalyanova.1" target="_blank" rel="noopener noreferrer">Kate Kalianova</a> and Liz and Matviy for the wonderful bandura playing and singing (and sincere apologies for the issues with mics!)
 
-Many thanks to <a href="https://www.facebook.com/roger.l.henderson" target="_blank">Roger Llywelyn Henderson</a> and <a href="https://www.facebook.com/VikaDzhons" target="_blank">Victoria Jones</a> for your professional and encouraging performances!
+Many thanks to <a href="https://www.facebook.com/roger.l.henderson" target="_blank" rel="noopener noreferrer">Roger Llywelyn Henderson</a> and <a href="https://www.facebook.com/VikaDzhons" target="_blank" rel="noopener noreferrer">Victoria Jones</a> for your professional and encouraging performances!
 
-Thank you to <a href="https://www.facebook.com/profile.php?id=100006634713284" target="_blank">Nataliia Mikulska</a>'s family for touching singing and music! 
+Thank you to <a href="https://www.facebook.com/profile.php?id=100006634713284" target="_blank" rel="noopener noreferrer">Nataliia Mikulska</a>'s family for touching singing and music! 
 
 Many thanks to Makar and Zakhar Pokotylo for the nice music! 
 
-Thank you to <a href="https://www.facebook.com/profile.php?id=100008376737931" target="_blank">Lisa S Ray</a> for the amazing face painting and to <a href="https://www.facebook.com/natka.balandyak" target="_blank">Natalia Balangyak</a> for the wonderful braided hair, the children were so happy!
+Thank you to <a href="https://www.facebook.com/profile.php?id=100008376737931" target="_blank" rel="noopener noreferrer">Lisa S Ray</a> for the amazing face painting and to <a href="https://www.facebook.com/natka.balandyak" target="_blank" rel="noopener noreferrer">Natalia Balangyak</a> for the wonderful braided hair, the children were so happy!
 
 Thank you to everyone who cooked the delicious Ukrainian food and who donated souvenirs and paintings for our stalls, this means a lot!
 

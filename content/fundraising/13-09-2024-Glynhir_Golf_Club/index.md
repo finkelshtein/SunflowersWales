@@ -1,8 +1,8 @@
 ---
 title: Ukrainian Charity Golf Day at Glynhir Golf Club Ammanford
 date: 2024-09-13
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 tags:
@@ -13,7 +13,7 @@ It was not an ordinary day for Sunflowers Wales – we’ve  raised over **4800 
 
 <!--more-->
 
-It was the third time <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank">Glynhir Golf Club</a> kindly opened for us their door!
+It was the third time <a href="https://www.facebook.com/GlynhirGolfClub/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club</a> kindly opened for us their door!
 
 Almost 80 players took part in Ukrainian golf day!
 
@@ -29,13 +29,13 @@ And we had table full of donated raffle prices!!!
 
 Our special Dyakuyu goes to local businesses who sponsored Tees:
 
-<a href="https://www.llandeilodentists.co.uk/en/" target="_blank">Llandeilo Dental Practice</a>, <a href="https://llwynhendyhealthcentre.wales.nhs.uk/" target="_blank">Llynhendy health centre</a>, <a href="https://csarecruitment.co.uk/" target="_blank">CSA Recruitment</a>, <a href="http://www.tadbuilders.co.uk/" target="_blank">TAD builders</a>, <a href="https://www.morganhemp.co.uk/" target="_blank">Morgan Hemp accounts</a>, <a href="https://www.arcarpentryandinstallations.co.uk/" target="_blank">A.R. Carpentry</a>
+<a href="https://www.llandeilodentists.co.uk/en/" target="_blank" rel="noopener noreferrer">Llandeilo Dental Practice</a>, <a href="https://llwynhendyhealthcentre.wales.nhs.uk/" target="_blank" rel="noopener noreferrer">Llynhendy health centre</a>, <a href="https://csarecruitment.co.uk/" target="_blank" rel="noopener noreferrer">CSA Recruitment</a>, <a href="http://www.tadbuilders.co.uk/" target="_blank" rel="noopener noreferrer">TAD builders</a>, <a href="https://www.morganhemp.co.uk/" target="_blank" rel="noopener noreferrer">Morgan Hemp accounts</a>, <a href="https://www.arcarpentryandinstallations.co.uk/" target="_blank" rel="noopener noreferrer">A.R. Carpentry</a>
 
-Thank you to <a href="https://www.breconwater.co.uk/" target="_blank">Brecon Water</a> for supplying players with bottles of water.
+Thank you to <a href="https://www.breconwater.co.uk/" target="_blank" rel="noopener noreferrer">Brecon Water</a> for supplying players with bottles of water.
 
 And thank you to our friends and families for sponsoring and donating!
 
-<a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>, <a href="https://www.facebook.com/ceri.brueton" target="_blank">Ceri Brueton</a>, <a href="https://www.facebook.com/rhodri.morris.52" target="_blank">Rhodri Morris</a>, <a href="https://www.facebook.com/jimmy.smacks" target="_blank">Jimmy Smacks</a>, Danielle McInerney, <a href="https://www.facebook.com/roman.solyanyk" target="_blank">Roman Solyanyk</a>, Bohdan Solyanyk, Nicole Adriana Murphy, Andrew Carlson, Marion Murphy, <a href="https://www.facebook.com/profile.php?id=61557339797792" target="_blank">Nadia Furgalo</a>
+<a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>, <a href="https://www.facebook.com/ceri.brueton" target="_blank" rel="noopener noreferrer">Ceri Brueton</a>, <a href="https://www.facebook.com/rhodri.morris.52" target="_blank" rel="noopener noreferrer">Rhodri Morris</a>, <a href="https://www.facebook.com/jimmy.smacks" target="_blank" rel="noopener noreferrer">Jimmy Smacks</a>, Danielle McInerney, <a href="https://www.facebook.com/roman.solyanyk" target="_blank" rel="noopener noreferrer">Roman Solyanyk</a>, Bohdan Solyanyk, Nicole Adriana Murphy, Andrew Carlson, Marion Murphy, <a href="https://www.facebook.com/profile.php?id=61557339797792" target="_blank" rel="noopener noreferrer">Nadia Furgalo</a>
 
 It was another successful day!
 

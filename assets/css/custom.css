@@ -1,0 +1,337 @@
+/* Sunflowers Wales — small targeted overrides for things that aren't
+   exposed as `design` options on the upstream blocks. Auto-loaded by
+   layouts/_partials/site_head.html (any assets/css/custom.css is
+   included after the Tailwind build). */
+
+/* Reports: each reporting period is <h4>, its Total income/spending
+   subsections are <h5> — the only page on the site using either
+   (confirmed: content/reports/_index.md is the sole match for <h4>/<h5>
+   in content/), so this is safe as a plain global rule rather than
+   needing to be scoped. Upstream's prose plugin renders both at the
+   exact same size/weight (20px/600), so periods didn't stand out from
+   their own subsections at all. H4 now reads as a real section break
+   (bigger, coloured, a rule above it); H5 stays subordinate to it. */
+.prose h4 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-primary-700, #9a3412);
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid var(--color-primary-200, #fed7aa);
+}
+.prose h4:first-child {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+.prose h5 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--hb-color-foreground, #2b2015);
+  margin-top: 1.5rem;
+}
+.dark .prose h4 {
+  color: var(--color-primary-400, #fb923c);
+  border-top-color: rgb(255 255 255 / 0.15);
+}
+
+/* ── Navbar ─────────────────────────────────────────────────────────────
+   The theme's own .navbar class (assets/css/components/navbar.css)
+   applies `justify-content: space-between` via @apply — same
+   specificity as the template's inline `justify-start` utility class,
+   so as a *later* rule in the compiled stylesheet it was winning,
+   spreading the logo/menu/icon groups apart with a large gap instead of
+   packing them together at the start. That's what was leaving a gap
+   where "Home" used to sit even after removing it — shrinking the menu
+   couldn't close a gap that was never really about the menu's own
+   width. The icon group (search/theme toggle) already carries its own
+   ml-auto, so it stays pinned right regardless. */
+.navbar {
+  justify-content: flex-start !important;
+}
+
+/* Logo: matches the hover affordance of the menu items beside it (a
+   rounded pill that lights up on hover) so it reads as part of the same
+   row of controls — "like a menu item, but logo" — rather than a
+   separate brand element that happens to sit near them. */
+.navbar-brand {
+  border-radius: 9999px;
+  padding: 0.375rem 0.875rem;
+  transition: background-color 0.2s ease;
+}
+.navbar-brand:hover {
+  background: var(--color-primary-50, #fff7ed);
+}
+/* Neither the logo nor the menu had any margin of their own separating
+   them — nor did the menu from the search/theme icons after it (which
+   pins right via margin-left:auto, so it can't be given a matching gap
+   the same way) — both sat flush with 0px gap, unlike the equal gaps
+   between menu items themselves. Same values as the inter-item gaps at
+   each breakpoint (#nav-menu's own lg:space-x-2 / xl:space-x-8). */
+@media (min-width: 1024px) {
+  .navbar-brand {
+    margin-right: 0.5rem;
+  }
+  #nav-menu {
+    margin-right: 0.5rem;
+  }
+}
+@media (min-width: 1280px) {
+  .navbar-brand {
+    margin-right: 2rem;
+  }
+  #nav-menu {
+    margin-right: 2rem;
+  }
+}
+
+/* Top-level menu items: rounded pills instead of plain text, using the
+   site's existing primary colour rather than introducing a new accent.
+   Hover = light tint; the current page = the same solid primary-
+   >secondary gradient used on buttons/icon badges elsewhere, so the
+   "you are here" state doesn't look like a new, unrelated colour. */
+.navbar-nav .nav-link {
+  border-radius: 9999px;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease;
+}
+.navbar-nav .nav-link:hover {
+  background: var(--color-primary-50, #fff7ed);
+}
+.navbar-nav .nav-link.active {
+  background: linear-gradient(135deg, var(--color-primary-600, #c2410c), var(--color-secondary-500, #f2b705));
+  color: #fff !important;
+}
+.dark .navbar-nav .nav-link:hover {
+  background: rgb(255 255 255 / 0.08);
+}
+
+/* The theme's own .nav-dropdown class carries `mr-0` (navbar.css),
+   which overrides the menu's own space-x-2/space-x-8-generated gap —
+   but only for dropdown items ("Events", "About us"), not plain links.
+   That's what made the horizontal gaps look uneven: full gap after
+   "Donate"/"Shipments", none after a dropdown item. Restores the same
+   gap values #nav-menu's own lg:space-x-2 / xl:space-x-8 already use at
+   each breakpoint, so every gap in the row is equal again. */
+@media (min-width: 1024px) {
+  .navbar-nav .nav-dropdown {
+    margin-right: 0.5rem !important;
+  }
+}
+@media (min-width: 1280px) {
+  .navbar-nav .nav-dropdown {
+    margin-right: 2rem !important;
+  }
+}
+
+/* Dropdown submenus ("Events" / "About us"): same rounded-pill item
+   language as the top-level menu (was plain text with no shape at all,
+   inconsistent with everything else), and the same card treatment
+   (rounded-2xl, soft shadow, thin border) used throughout the rest of
+   the site rather than the theme's plain `rounded shadow` default.
+   Restrained on purpose per feedback — a light hover tint, not the full
+   gradient treatment — this is a persistent nav element, not a card
+   meant to invite a click on sight. */
+.nav-dropdown-list {
+  border-radius: 1rem;
+  box-shadow: 0 12px 28px rgb(0 0 0 / 0.15);
+  border: 1px solid rgb(0 0 0 / 0.06);
+  background: var(--hb-color-background, #fdf6ec);
+}
+.nav-dropdown-item {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+.nav-dropdown-link {
+  border-radius: 0.75rem;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  transition: background-color 0.2s ease;
+}
+.nav-dropdown-link:hover {
+  background: var(--color-primary-50, #fff7ed);
+}
+/* Upstream default is dark:bg-slate-900 — a cool blue-grey that clashed
+   against this site's warm dark palette (see the dark-mode surfaces
+   override above); matches it instead. */
+.dark .nav-dropdown-list {
+  background: var(--hb-color-header-bg, #2b2015);
+}
+.dark .nav-dropdown-link:hover {
+  background: rgb(255 255 255 / 0.08);
+}
+
+/* Children classes / Family activities / Day trips read as part of
+   Social events (a connecting line + indent + slightly smaller, lighter
+   text), without actually nesting them in a sub-submenu — see the
+   comment on their menu.yaml entries for why not. */
+.nav-dropdown-item-nested {
+  margin-left: 0.75rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--color-primary-200, #fed7aa);
+}
+.nav-dropdown-link-nested {
+  font-size: 0.875rem;
+  color: var(--hb-color-header-fg, #2b2015);
+  opacity: 0.75;
+}
+.dark .nav-dropdown-item-nested {
+  border-left-color: rgb(255 255 255 / 0.15);
+}
+
+/* Home page hero: the split-left layout preset's container is baked
+   into the hero component as max-w-7xl (see the LAYOUTS constant in
+   the vendored hero component.jsx — not shadowed here, just narrowed
+   via this scoped override), wider than every other block stacked
+   below it on the home page. Matches the teaser row and the Latest
+   News / Fundraising / Shipments etc. alternating-view cards (both
+   max-w-6xl) instead, so the page reads as one consistent width.
+
+   Two overrides, not one: the hero's padding and max-width live on two
+   *different* nested divs (padding on the outer one, max-w-7xl on an
+   inner mx-auto one), where the teaser row / alternating view put both
+   on the same div. That mismatch is invisible at very wide viewports
+   (both simply hit their cap) and on phones/tablets (max-width never
+   binds at all, padding dominates either way) — it only shows up in
+   between, roughly 1152–1216px wide, where the hero's separate fixed
+   padding made it shrink at a different rate than the single-div
+   max-width+padding combo. Moving the max-width to the outer div (and
+   neutralising the inner one) makes the hero use the exact same
+   box model as the blocks below it, at every width. */
+#section-hero .hero-block-container > div {
+  max-width: 72rem; /* Tailwind's max-w-6xl value */
+  margin-left: auto;
+  margin-right: auto;
+}
+#section-hero .max-w-7xl {
+  max-width: none;
+}
+
+/* Mobile hamburger: it was the same bare-icon treatment as the search
+   and theme-toggle icons beside it, easy to miss as *the* button that
+   opens navigation rather than just another icon. A persistent pill
+   background (not only on hover, since tapping is the only way to
+   discover the nav on mobile) sets it apart, plus a bit of separation
+   from the utility icons before it. */
+label[for="nav-toggle"] {
+  background: var(--color-primary-50, #fff7ed);
+  border-radius: 9999px;
+  padding: 0.5rem 0.75rem;
+  margin-left: 0.5rem;
+}
+.dark label[for="nav-toggle"] {
+  background: rgb(255 255 255 / 0.1);
+}
+
+/* ── Dark mode surfaces ─────────────────────────────────────────────────
+   config/_default/params.yaml's theme.surfaces (our warm cream/brown
+   "Community Warmth" palette) is the *only* surfaces config this version
+   of the HugoBlox theme engine has — there's no surfaces_light/
+   surfaces_dark split like there is for colors_light/colors_dark
+   (layouts/_partials/functions/theme_generator.html applies the same
+   `surfaces` override to both the light *and* dark theme pack, clobbering
+   the dark pack's own good defaults). The result: switching to dark mode
+   kept our light cream background while text correctly went near-white
+   (Tailwind's built-in `dark:` variants), which is why headings and body
+   text read as "almost invisible" — light text on a light background.
+   Overridden here instead, since custom.css loads after the theme
+   engine's generated <style> block and wins for equal-specificity `.dark`
+   custom-property declarations. Same warm family as the light palette,
+   just inverted, rather than the theme engine's generic slate default. */
+.dark {
+  --hb-color-background: #211a13;
+  --hb-color-foreground: #f3e7d3;
+  --hb-color-header-bg: #2b2015;
+  --hb-color-header-fg: #f3e7d3;
+  --hb-color-footer-bg: #2b2015;
+  --hb-color-footer-fg: #f3e7d3;
+}
+
+/* ── Stats block ("Our Impact" rows) ──────────────────────────────────
+   The Preact `stats` component bakes its own vertical padding/margins
+   into the JSX (py-8 sm:py-12 lg:py-16 on the outer wrapper, mb-12
+   lg:mb-16 between the header text and the card grid) — independent of
+   the block's `design.spacing.padding` wrapper override, which only
+   controls the *outer* .hbb-section padding. That's what produced the
+   large gaps between "Our Impact" / the connecting sentences / each
+   row of cards. Tightened here so the two rows read as one compact,
+   connected unit. */
+.stats-block-container > div {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+.stats-block-container .text-center.mb-12 {
+  margin-bottom: 0.75rem;
+}
+
+/* Icon badges: upstream default is a pale tint box (bg-primary-100)
+   with a thin-stroke outline icon, which read as faded against our
+   warm cream background. Solid gradient badge + white icon instead. */
+.stats-block-container .stats-item .bg-primary-100 {
+  background: linear-gradient(135deg, var(--color-primary-600, #c2410c), var(--color-secondary-500, #f2b705));
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.15);
+  /* The icon's own JSX wrapper sizes it via `height:1em` (see shared
+     Icon.jsx) rather than the w-6/h-6 classes on its wrapping <span> —
+     those only size the (invisible) span, not the glyph. Bumping this
+     badge's font-size scales the 1em glyph up with it, so the icon
+     fills more of the box while staying centred by the badge's own
+     flex centring — no need to touch the badge's own w-12/h-12 size. */
+  font-size: 2rem;
+}
+.stats-block-container .stats-item .bg-primary-100 svg {
+  color: #fff;
+}
+
+/* ── Home page section anchors ────────────────────────────────────────
+   "What we do" / "Our impact" / "Latest News" used to live behind a
+   modal three large teaser cards opened; per a later design review
+   they're now always-visible, normal sections in the page's own scroll
+   order (a slim jump-nav row briefly replaced the cards, then was
+   dropped too — a page this short doesn't need a second way to
+   navigate it beside scrolling). scroll-margin-top just keeps the
+   sticky navbar from covering the top of a section for any in-page
+   anchor link that ends up pointing at one of these ids. */
+html {
+  scroll-behavior: smooth;
+}
+#what-we-do,
+#impact,
+#latest-news {
+  scroll-margin-top: 6rem;
+}
+
+/* ── Home hero: flush bottom, no dead band above "What we do" ──────────
+   The hero block's `size: compact` preset (component.jsx SIZE_CLASSES)
+   bakes in its own "py-16 sm:py-20 lg:py-24" wrapper *inside* the
+   section, on top of whatever design.spacing.padding sets on the
+   section itself — the two stack. That's fine symmetrically, but once
+   the split-layout's text column grew taller than the image (adding
+   the impact-stats grid under the Donate button), it meant ~96px of
+   fixed internal bottom padding plus the next section's own top
+   padding compounded into a much bigger gap than any other section
+   transition on the page. Zeroing just the internal wrapper's
+   padding-bottom here (design.spacing.padding.bottom is already 0)
+   brings the gap before "What we do" back in line with the rest. */
+.hero-tight-bottom [data-block-type] > div > div {
+  padding-bottom: 0 !important;
+}
+
+/* ── "Ways to donate" cards ────────────────────────────────────────────
+   Same vivid gradient-badge treatment as the "Our Impact" icons, so the
+   donate panel reads as part of the same energetic, clickable language
+   rather than the flat grey rows the generic cta-button-list block gives
+   (this uses a dedicated donate-options block instead, which supports
+   the inline bank-details card too). Unlike the stats icons, get_icon
+   here (the Go-template variant, not Icon.jsx) doesn't inline a
+   height:1em style on the <svg> — sizing it directly is enough, no
+   font-size trick needed. */
+.donate-option-icon {
+  background: linear-gradient(135deg, var(--color-primary-600, #c2410c), var(--color-secondary-500, #f2b705));
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.15);
+}
+.donate-option-icon svg {
+  width: 1.75rem;
+  height: 1.75rem;
+  color: #fff;
+}

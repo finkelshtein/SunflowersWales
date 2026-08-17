@@ -5,16 +5,18 @@ summary:  Svitlana Kravchenko ran a unique art therapy session
 
 share: false
 
-date: '2024-08-07' 
+date: '2024-08-07'
 
 authors: [oksana]
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655/" target="_blank">Sunflowers Wales (Соняшники)</a> are very grateful to the wonderful <a href="https://www.facebook.com/svetlana.lanovenko/" target="_blank">Svitlana Kravchenko</a> for the unique bubble art therapy for our children! 
+<a href="https://www.facebook.com/groups/601579067497655/" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> are very grateful to the wonderful <a href="https://www.facebook.com/svetlana.lanovenko/" target="_blank" rel="noopener noreferrer">Svitlana Kravchenko</a> for the unique bubble art therapy for our children! 
 
 The kids relaxed in a fun and carefree atmosphere, received positive emotions, gained new experiences, brought home their own artworks, and even received certificates! 
 

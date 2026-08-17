@@ -1,45 +1,75 @@
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+#   `parent: <name>` nests an entry under the top-level entry with that
+#   name, rendering it as a dropdown (see layouts/_partials/components/
+#   headers/navbar.html's `.HasChildren` branch).
+#
+#   "Home" was dropped as its own entry — the navbar logo already links
+#   to the home page (see navbar.html), so it was a redundant second link
+#   to the same place.
 
 main:
-  - name: Home
-    url: .
-    weight: 1
   - name: Donate
-    url: donate
+    url: donate/
     weight: 10
   - name: Shipments
-    url: shipments
+    url: shipments/
     weight: 20
-  - name: Fundraising events
-    url: fundraising
+
+  - name: Events
     weight: 30
+  - name: Fundraising events
+    url: fundraising/
+    parent: Events
+    weight: 31
   - name: Social events
-    url: events
-    weight: 40  
+    url: events/
+    parent: Events
+    weight: 32
+  # These three are all subsets of Social events (filtered by tag, not
+  # a separate folder — see layouts/_partials/tag-collection-list.html)
+  # — `params.nested: true` gets them a visual indent/connector under
+  # it in the dropdown (navbar.html), without an actual sub-submenu:
+  # there are Social events outside all three, so nesting them for real
+  # would misrepresent Social events as just a container for these.
+  - name: Children's classes
+    url: classes/
+    parent: Events
+    weight: 33
+    params:
+      nested: true
+  - name: Family activities
+    url: family-activities/
+    parent: Events
+    weight: 34
+    params:
+      nested: true
+  - name: Day trips
+    url: day-trips/
+    parent: Events
+    weight: 35
+    params:
+      nested: true
+
+  - name: About us
+    weight: 40
+  - name: Who we are
+    url: about/
+    parent: About us
+    weight: 41
   - name: Dancing group
-    url: dancing
-    weight: 45
-  - name: Children classes 
-    url: classes
-    weight: 47
-  - name: Our team
-    url: about
-    weight: 50
-  - name: Reports
-    url: reports
-    weight: 60
+    url: dancing/
+    parent: About us
+    weight: 43
   - name: Funding
-    url: funding
-    weight: 70
+    url: funding/
+    parent: About us
+    weight: 44
+  - name: Reports
+    url: reports/
+    parent: About us
+    weight: 45
+
   - name: Gallery
-    url: gallery
-    weight: 80
-  # - name: Contact
-  #   url: contact
-  #   weight: 70
-  # - name: Calendar
-  #   url: calendar
-  #   weight: 80
+    url: gallery/
+    weight: 50

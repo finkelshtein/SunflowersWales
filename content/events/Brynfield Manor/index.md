@@ -1,18 +1,18 @@
 ---
 title: Performance at Brynfield Care Home
 
-event: Performance at Brynfield Care Home
-
 summary: Sunflowers dancing group opened the Christmas season
 
 share: false
 
-date: '2023-12-03' 
+date: '2023-12-03'
 
 authors: [oksana]
 
 tags:
     - dance
+cover:
+  image: featured.jpg
 ---
 
 It was a very warm and moving atmosphere in Brynfield Manor, Langland. By our performance, we opened the Christmas season. 

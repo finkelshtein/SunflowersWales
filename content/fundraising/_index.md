@@ -1,14 +1,5 @@
 ---
-title: Fundraising Events
-
-# Listing view
-view: community/datedshowcase
-header.on_scroll: fixed
-
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+title: Fundraising events
+view: alternating
+show_date: true
 ---
-

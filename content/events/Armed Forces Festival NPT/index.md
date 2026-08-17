@@ -3,13 +3,15 @@ title: Armed Forces Festival in Port Talbot
 
 share: false
 
-date: '2025-10-25' 
+date: '2025-10-25'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 An amazing day in the warm atmosphere of the Armed Forces Festival in Port Talbot. 

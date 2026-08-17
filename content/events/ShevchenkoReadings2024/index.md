@@ -5,9 +5,11 @@ summary: Sunflowers Wales again organized Taras Shevchenko Readings at Swansea M
 
 share: false
 
-date: '2024-03-09' 
+date: '2024-03-09'
 
 authors: [oksana]
+cover:
+  image: featured.jpg
 ---
 
 Like last year, we organised Taras Shevchenko readings on the poet's birthday. Ukrainians and admirers of Shevchenko's work gathered from various corners of South Wales. The evening was filled with the words of the Poet, his poems, and songs. Once again, we recalled his challenging life journey. We reaffirmed that Shevchenko is not just the past, he is the present. 

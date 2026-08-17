@@ -5,20 +5,22 @@ summary: We again had a great day in Pant Glass organised for us by Llandeilo Ro
 
 share: false
 
-date: '2024-05-18' 
+date: '2024-05-18'
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
 Today Sunflowers Wales members were lucky to celebrate Vyshyvanka day in Pantglas. And it was a bit sad as it was our last time in this beautiful place.
 
 For two years Llandeilo Rotary Club was looking after us and gave us chance to get together, to go  through tough time, to make friends and to make nice memories!
 
-Nigel Haines, <a href="https://www.facebook.com/groups/601579067497655/user/100007948383956/" target="_blank">Richard Hughes</a>, Sean Cannon, Brian Carroll became a part of Sunflowers family. They made a lovely gifts: bouquet of beautiful sunflowers and young sunflowers shoots that each of us took home to plant! What a kind and special gesture!! 
+Nigel Haines, <a href="https://www.facebook.com/groups/601579067497655/user/100007948383956/" target="_blank" rel="noopener noreferrer">Richard Hughes</a>, Sean Cannon, Brian Carroll became a part of Sunflowers family. They made a lovely gifts: bouquet of beautiful sunflowers and young sunflowers shoots that each of us took home to plant! What a kind and special gesture!! 
 
-Today we were honoured by presence of District Governor <a href="https://www.facebook.com/groups/601579067497655/user/100000489784850/" target="_blank">Mary Adams</a> and Mark Stephens.
+Today we were honoured by presence of District Governor <a href="https://www.facebook.com/groups/601579067497655/user/100000489784850/" target="_blank" rel="noopener noreferrer">Mary Adams</a> and Mark Stephens.
 
-It looked like they all enjoyed our singing, our girls <a href="https://www.facebook.com/groups/601579067497655/user/100012841634455/" target="_blank">Alena Bykovchenko</a> and her sister  Julia playing piano, our little kids running around and showing off their Ukrainian outfits:)!!!
+It looked like they all enjoyed our singing, our girls <a href="https://www.facebook.com/groups/601579067497655/user/100012841634455/" target="_blank" rel="noopener noreferrer">Alena Bykovchenko</a> and her sister  Julia playing piano, our little kids running around and showing off their Ukrainian outfits:)!!!
 
 We definitely enjoyed our time in swimming pool and tasty traditional  roasted dinner. Many thanks to restaurant staff, Jen especially. 
 

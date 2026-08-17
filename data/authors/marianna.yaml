@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: marianna
+name:
+  display: Marianna Horokhivska-John
+role: Llanelli area
+links:
+- icon: envelope
+  url: mailto:mariannajohn@yahoo.co.uk
+- icon: brands/facebook
+  url: https://www.facebook.com/marianna.horokhivskajohn
+user_groups:
+- Members

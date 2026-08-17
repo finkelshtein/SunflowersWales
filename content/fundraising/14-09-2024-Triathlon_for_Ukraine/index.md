@@ -1,19 +1,19 @@
 ---
 title: Ironman Triathlon for Ukraine
 date: 2024-09-14
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
-tags: 
+tags:
   - sport
 ---
 
-The success of a remarkable fundraising effort organized by <a href="https://www.facebook.com/anna.farrell.50" target="_blank">Anna Farrell</a> and <a href="https://www.facebook.com/profile.php?id=100011238180945" target="_blank">Serg Nilov</a>! 
+The success of a remarkable fundraising effort organized by <a href="https://www.facebook.com/anna.farrell.50" target="_blank" rel="noopener noreferrer">Anna Farrell</a> and <a href="https://www.facebook.com/profile.php?id=100011238180945" target="_blank" rel="noopener noreferrer">Serg Nilov</a>! 
 
 <!--more-->
 
-They participation in the demanding <a href="https://www.ironman.com/5150-erkner" target="_blank">Ironman Triathlon in Germany</a>, which included a 1.5 km swim, a 40 km bike ride, and a 10 km run.
+They participation in the demanding <a href="https://www.ironman.com/5150-erkner" target="_blank" rel="noopener noreferrer">Ironman Triathlon in Germany</a>, which included a 1.5 km swim, a 40 km bike ride, and a 10 km run.
  
 Anna and Sergii’s dedication to this cause was nothing short of amazing. Thanks to their hard work and the incredible support from all of you, they managed to raise about £1000. They showed real grit and passion, proving just how much they care about helping others. The energy on the day of the triathlon was unforgettable, with everyone’s encouragement making a huge difference.
 

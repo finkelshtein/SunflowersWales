@@ -1,8 +1,6 @@
 ---
 title: Sunflowers Wales are preparing to take part in Llandeilo Festival of Senses
 
-event: Sunflowers Wales are preparing to take part in Llandeilo Festival of Senses
-
 location: Wool&silk Art studio
 
 address:
@@ -14,18 +12,20 @@ summary: We spent very busy day with Svetlana Lilley in Wool&silk Art Studio.
 
 share: false
 
-date: '2023-10-29' 
+date: '2023-10-29'
 
 authors: [bohdana]
 
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> are preparing to take part in <a href="https://fos.wales/" target="_blank">Llandeilo Festival of Senses</a>.
-So today we spent very busy day with <a href="https://www.facebook.com/svetlana.lilley" target="_blank">Svetlana Lilley</a> in <a href="https://www.woolsilk.co.uk/" target="_blank">Wool&Silk Art Studio</a>.
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> are preparing to take part in <a href="https://fos.wales/" target="_blank" rel="noopener noreferrer">Llandeilo Festival of Senses</a>.
+So today we spent very busy day with <a href="https://www.facebook.com/svetlana.lilley" target="_blank" rel="noopener noreferrer">Svetlana Lilley</a> in <a href="https://www.woolsilk.co.uk/" target="_blank" rel="noopener noreferrer">Wool&Silk Art Studio</a>.
 
 We made 63 gonks and 10 angels!!!
 

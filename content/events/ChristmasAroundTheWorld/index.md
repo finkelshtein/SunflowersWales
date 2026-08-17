@@ -1,13 +1,17 @@
 ---
 title: Christmas around the World
 
-summary: Lovely Christmas around the world celebration in Llanelli enjoyed by many members of Sunflowers Wales (Соняшники). 
+summary: Lovely Christmas around the world celebration in Llanelli enjoyed by many members of Sunflowers Wales (Соняшники).
 
 share: false
 
-date: '2022-12-03' 
+date: '2022-12-03'
 
 authors: [oksanaharries]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 Lovely Christmas around the world celebration in Llanelli enjoyed by many members of Sunflowers Wales (Соняшники). 

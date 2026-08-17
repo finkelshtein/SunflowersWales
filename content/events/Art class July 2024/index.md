@@ -5,16 +5,18 @@ summary: Svetlana Lilley ran an art class of felting
 
 share: false
 
-date: '2024-07-24' 
+date: '2024-07-24'
 
 authors: [admin]
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
-We have a fantastic felting class today in Swansea for Ukrainian ladies and children ran by the incredible <a href="https://www.facebook.com/svetlana.lilley" target="_blank">Svetlana Lilley</a>.
+We have a fantastic felting class today in Swansea for Ukrainian ladies and children ran by the incredible <a href="https://www.facebook.com/svetlana.lilley" target="_blank" rel="noopener noreferrer">Svetlana Lilley</a>.
 
 Children were excited and very satisfied with their success!
 

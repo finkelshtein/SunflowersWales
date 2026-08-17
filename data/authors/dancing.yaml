@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: dancing
+name:
+  display: Sunflowers Wales
+role: Dancing group
+user_groups:
+- separate

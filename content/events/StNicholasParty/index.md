@@ -5,20 +5,24 @@ summary: Sunflowers Wales (Соняшники) had an excellent party for Ukrain
 
 share: false
 
-date: '2022-12-10' 
+date: '2022-12-10'
 
 authors: [admin]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> had an excellent party for Ukrainian kids in Wales, celebrating St. Nicholas Day!
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> had an excellent party for Ukrainian kids in Wales, celebrating St. Nicholas Day!
 
 Many thanks to everyone who helped to have this event successful!
 
-Thank you <a href="https://www.facebook.com/groups/SwanseaUkuleleClub/" target="_blank">Swansea Ukulele Club</a> and <a href="https://www.facebook.com/groups/httpsjohnfryphoto.wixsite.comswanseaukuleleclu/" target="_blank">Rockerleles Band</a> for your generous donation and the excellent musical atmosphere you provided for us all!
+Thank you <a href="https://www.facebook.com/groups/SwanseaUkuleleClub/" target="_blank" rel="noopener noreferrer">Swansea Ukulele Club</a> and <a href="https://www.facebook.com/groups/httpsjohnfryphoto.wixsite.comswanseaukuleleclu/" target="_blank" rel="noopener noreferrer">Rockerleles Band</a> for your generous donation and the excellent musical atmosphere you provided for us all!
 
-We were proudly supported by <a href="https://www.facebook.com/MADLcharity/" target="_blank">Making A Difference Locally</a> and <a href="https://www.austinbaileyfoundation.charity/" target="_blank">Austin Bailey Foundation</a>!
+We were proudly supported by <a href="https://www.facebook.com/MADLcharity/" target="_blank" rel="noopener noreferrer">Making A Difference Locally</a> and <a href="https://www.austinbaileyfoundation.charity/" target="_blank" rel="noopener noreferrer">Austin Bailey Foundation</a>!
 
-Thank you, <a href="https://www.new-directions.co.uk/education/" target="_blank">New Directions Educations</a> for the help and support!
+Thank you, <a href="https://www.new-directions.co.uk/education/" target="_blank" rel="noopener noreferrer">New Directions Educations</a> for the help and support!
 
 Simone Bevan many thanks for your face painting! Olga Koshchiienko for an incredible disco! Svetlana Lilley, Елена Самотой, Julia Ponomareva, Елена Креминская for kraft. Tatyana Marshtupa for being a perfect Elf!
 

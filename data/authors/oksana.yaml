@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: oksana
+name:
+  display: Oksana Shapovalova
+role: Swansea & NPT area
+links:
+- icon: envelope
+  url: mailto:shapovalova.uk@gmail.com
+- icon: brands/facebook
+  url: https://www.facebook.com/oksana.shapovalova.104/
+user_groups:
+- Committee members

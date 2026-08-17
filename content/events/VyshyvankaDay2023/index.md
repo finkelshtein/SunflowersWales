@@ -1,26 +1,26 @@
 ---
 title: Vyshyvanka Day 2023
 
-event: Vyshyvanka Day 2023
-
 summary: Sunflowers Wales celebrated Vyshyvanka Day 2023 in Cardiff
 
 share: false
 
-date: '2023-05-20' 
+date: '2023-05-20'
 
 authors: [admin]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
-On Saturday 20 May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> together with a href="https://www.facebook.com/standwithukraine.cardiff" target="_blank"> Stand With Ukraine Cardiff</a> celebrated Vyshyvanka Day 2023 in Cardiff near the stature of John Batchelor who was called *Friend of Freedom*.
+On Saturday 20 May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> together with a href="https://www.facebook.com/standwithukraine.cardiff" target="_blank" rel="noopener noreferrer"> Stand With Ukraine Cardiff</a> celebrated Vyshyvanka Day 2023 in Cardiff near the stature of John Batchelor who was called *Friend of Freedom*.
 
 Many thanks to everyone who joined us!
 
-Many thanks to the incredible dancers from our dancing group <a href="https://localgiving.org/charity/sunflowers-wales/project/dancing/" target="_blank">Sunflowers</a>, whose “Kolomyika” encircled many people, to sisters Kalyanovy with their touching and powerful bandura, to our friendly and active Sunflowers-support group, to our tireless children who collected donates - and to all others who made this day so remarkable!
+Many thanks to the incredible dancers from our dancing group <a href="https://localgiving.org/charity/sunflowers-wales/project/dancing/" target="_blank" rel="noopener noreferrer">Sunflowers</a>, whose “Kolomyika” encircled many people, to sisters Kalyanovy with their touching and powerful bandura, to our friendly and active Sunflowers-support group, to our tireless children who collected donates - and to all others who made this day so remarkable!
 
 Sunflowers Wales - Standing Strong Together!
 

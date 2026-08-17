@@ -5,18 +5,22 @@ summary: Sunflowers Wales were happy to organise the Christmas Party for Ukraini
 
 share: false
 
-date: '2023-12-16' 
+date: '2023-12-16'
 
 authors: [admin]
+tags:
+    - family
+cover:
+  image: featured.jpg
 ---
 
 Sunflowers Wales were happy to organise the Christmas Party for Ukrainian kids! 
 
-Over 60 children jumped on two bouncy castles, made crafts, enjoyed a charming bubble show by <a href="https://www.facebook.com/profile.php?id=100083537371935" target="_blank">Events_Mikhno_Projekt</a>, and got a sweet Santa at the end. 
+Over 60 children jumped on two bouncy castles, made crafts, enjoyed a charming bubble show by <a href="https://www.facebook.com/profile.php?id=100083537371935" target="_blank" rel="noopener noreferrer">Events_Mikhno_Projekt</a>, and got a sweet Santa at the end. 
 
 Many thanks to everyone who came along and, of course, to all volunteers who helped with the organisation of the party!
 
-We are also grateful to <a href="https://www.facebook.com/pages/LC2%20waterpark%20swansea/192826050760979/" target="_blank"> LC2 Waterpark Swansea</a> for the kind hospitality and to Western Bay Community Cohesion team for the support!
+We are also grateful to <a href="https://www.facebook.com/pages/LC2%20waterpark%20swansea/192826050760979/" target="_blank" rel="noopener noreferrer"> LC2 Waterpark Swansea</a> for the kind hospitality and to Western Bay Community Cohesion team for the support!
 
 
 <div style="margin-top: 0; text-align: center;"><img src="CP-1.jpg" alt="Christmas party" width="50%" style="display: inline; margin-top: 0;"/><img src="CP-2.jpg" alt="Christmas party" width="50%" style="display: inline; margin-top: 0;"/></div>

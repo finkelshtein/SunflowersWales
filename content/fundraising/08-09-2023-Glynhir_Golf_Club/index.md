@@ -1,15 +1,15 @@
 ---
 title: Ukrainian Charity Golf Day at Glynhir Golf Club Ammanford
 date: 2023-09-08
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 tags:
   - sport
 ---
 
-Today in <a href="https://www.glynhirgolfclub.co.uk/" target="_blank">Glynhir Golf Club</a>  was a great day – Ukrainian Charity Golf Day – all proceeds from which will go to Sunflowers Wales!!! 
+Today in <a href="https://www.glynhirgolfclub.co.uk/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club</a>  was a great day – Ukrainian Charity Golf Day – all proceeds from which will go to Sunflowers Wales!!! 
 
 <!--more-->
 

@@ -1,20 +1,22 @@
 ---
-title: Greetings from the Refugee Week! 
+title: Greetings from the Refugee Week!
 
-summary: Two amazing events in Cardiff celebrating the Refugee Week 
+summary: Two amazing events in Cardiff celebrating the Refugee Week
 
 share: false
 
-date: '2023-06-22' 
+date: '2023-06-22'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
-For <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a>, it was a great opportunity to participate in the <a href="https://www.shermantheatre.co.uk/festival-of-sanctuary/" target="_blank">Festival of Sanctuary</a> at <a href="https://www.shermantheatre.co.uk/" target="_blank">Sherman Theatre</a> and in the <a href="https://cardiffhubs.co.uk/event/compassion-a-refugee-week-celebration/" target="_blank">Compassion event</a> by <a href="https://wrc.wales/" target="_blank">Welsh Refugee Council</a> at <a href="https://cardiffhubs.co.uk" target="_blank">Cardiff Central Library Hub</a>.
+For <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a>, it was a great opportunity to participate in the <a href="https://www.shermantheatre.co.uk/festival-of-sanctuary/" target="_blank" rel="noopener noreferrer">Festival of Sanctuary</a> at <a href="https://www.shermantheatre.co.uk/" target="_blank" rel="noopener noreferrer">Sherman Theatre</a> and in the <a href="https://cardiffhubs.co.uk/event/compassion-a-refugee-week-celebration/" target="_blank" rel="noopener noreferrer">Compassion event</a> by <a href="https://wrc.wales/" target="_blank" rel="noopener noreferrer">Welsh Refugee Council</a> at <a href="https://cardiffhubs.co.uk" target="_blank" rel="noopener noreferrer">Cardiff Central Library Hub</a>.
 
 We presented our Ukrainian dances, music, and songs, we found new friends from others refugee communities, we could express once again huge thanks to Wales for the generosity and support.
 
@@ -36,4 +38,4 @@ Please support us with our cause! <a href="/donate/">How to donate</a>.
 
 <div style="margin-top: 0; text-align: center;"><img src="rw-5.jpg" alt="rw-5" width="50%" style="display: inline; margin-top: 0;"/><img src="rw-2.jpg" alt="rw-2" width="50%" style="display: inline; margin-top: 0;"/></div>
 
-Selected photos credit to <a href="https://www.instagram.com/noah.bakour" target="_blank">Noah Bakour</a>.
+Selected photos credit to <a href="https://www.instagram.com/noah.bakour" target="_blank" rel="noopener noreferrer">Noah Bakour</a>.

@@ -1,15 +1,15 @@
 ---
 title: Charity golf day for Ukraine at Glynhir Golf Club Ammanford
 date: 2022-08-12
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 tags:
   - sport
 ---
 
-<a href="https://www.glynhirgolfclub.co.uk/" target="_blank">Glynhir Golf Club Ammanford</a> was dressed in  Ukrainian blue and yellow colours!!! 
+<a href="https://www.glynhirgolfclub.co.uk/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club Ammanford</a> was dressed in  Ukrainian blue and yellow colours!!! 
 
 <!--more-->
 
@@ -27,7 +27,7 @@ And Special Thank  you goes to the organisers, who made this day happen: Tom Ask
 
 Very kind touch was added to the day: every tee was named after Ukrainian city and presentation was displayed  all day on TV screen.
 All raised money will be used to help Ukrainians who suffered from ruSSian invasion. We will keep you all updated and report as always.
-Thank you very much again, <a href="https://www.glynhirgolfclub.co.uk/" target="_blank">Glynhir Golf Club</a>, for standing with Ukraine!
+Thank you very much again, <a href="https://www.glynhirgolfclub.co.uk/" target="_blank" rel="noopener noreferrer">Glynhir Golf Club</a>, for standing with Ukraine!
 
 Together we stronger!
  

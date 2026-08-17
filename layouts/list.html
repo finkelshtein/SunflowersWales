@@ -1,0 +1,64 @@
+{{/* Sunflowers Wales: local override of the vendored generic list.html.
+     Used by fundraising/events/shipments (real folder sections). Two
+     fixes over upstream:
+     - The title used the Tailwind Typography plugin's own default H1
+       styling (from being inside a `prose` block) rather than matching
+       the home hero's title — different font-weight (800 vs 700) and
+       letter-spacing, which is what looked inconsistent site-wide.
+       Now uses the exact same classes as the hero's <h1> (see
+       assets/js/hbx/blocks/hero/component.jsx upstream, unmodified).
+     - The wrapper was max-w-prose (65ch, ~660px) — comfortable for body
+       text but narrow enough that a 60px title like "Shipments to
+       Ukraine" wrapped onto two lines. Widened just enough to keep
+       titles on one line; these pages rarely have more than a
+       sentence of intro text below the title anyway.
+     - prose-slate (cool blue-grey) -> prose-stone (warm grey), matching
+       every other prose block on the site.
+     - Added px-6 lg:px-8 to the wrapper: nothing above it (baseof.html's
+       `.page-body`) supplies horizontal padding, so on mobile the title
+       and intro text ran flush to the screen edges. */}}
+{{ define "main" }}
+
+<div class="max-w-4xl mx-auto flex justify-center px-6 lg:px-8">
+  <article class="prose prose-stone lg:prose-xl dark:prose-invert">
+    <h1 class="not-prose text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-6xl">{{ .Title }}</h1>
+    {{ .Content }}
+  </article>
+</div>
+
+{{ $view := .Params.view | default "card" }}
+{{ $block := . }}
+
+{{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+{{ $config := dict
+  "columns" (.Params.columns | default 2)
+  "len" (len $paginator.Pages)
+  "fill_image" (.Params.fill_image | default true)
+  "show_date" (.Params.show_date | default true)
+  "show_read_time" (.Params.show_read_time | default true)
+  "show_read_more" (.Params.show_read_more | default true)
+}}
+
+{{/* Check if any pages have author_notes to enable Alpine.js */}}
+{{ range .Pages }}
+  {{ if isset .Params "author_notes" }}
+    {{ $.Store.Set "has_alpine" true }}
+    {{ break }}
+  {{ end }}
+{{ end }}
+
+<div class="flex flex-col items-center">
+
+  {{ partial "functions/render_view" (dict "fragment" "start" "page" $block "item" . "view" $view "config" $config) }}
+
+  {{ range $index, $item := $paginator.Pages }}
+  {{ partial "functions/render_view" (dict "page" . "item" . "view" $view "index" $index "config" $config) }}
+  {{end}}
+
+  {{ partial "functions/render_view" (dict "fragment" "end" "page" $block "item" . "view" $view) }}
+
+  {{ partial "components/paginator" . }}
+
+</div>
+
+{{ end }}

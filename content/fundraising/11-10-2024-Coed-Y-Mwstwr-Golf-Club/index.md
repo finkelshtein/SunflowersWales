@@ -1,21 +1,21 @@
 ---
 title: Golf fundraiser for Ukraine at Coed-Y-Mwstwr Golf Club Bridgend
 date: 2024-10-11
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksanaharries]
 tags:
   - sport
 ---
 
-The golf fundraiser for Ukraine, held at <a href="https://www.facebook.com/bridgendgolfing" target="_blank">Coed-Y-Mwstwr Golf Club Bridgend</a> fundraised £1775!!!
+The golf fundraiser for Ukraine, held at <a href="https://www.facebook.com/bridgendgolfing" target="_blank" rel="noopener noreferrer">Coed-Y-Mwstwr Golf Club Bridgend</a> fundraised £1775!!!
 
 <!--more-->
 
 It was a resounding success, bringing together golf enthusiasts and supporters for a meaningful cause.
 
-Sunflowers Wales would like to say a Big thanks to <a href="https://www.facebook.com/mike.paddick" target="_blank">Mike</a> and <a href="https://www.facebook.com/mich.paddick" target="_blank">Michelle Paddick</a> for their hard work organising the event and also to the club manager Gareth Summerton for his help and support!
+Sunflowers Wales would like to say a Big thanks to <a href="https://www.facebook.com/mike.paddick" target="_blank" rel="noopener noreferrer">Mike</a> and <a href="https://www.facebook.com/mich.paddick" target="_blank" rel="noopener noreferrer">Michelle Paddick</a> for their hard work organising the event and also to the club manager Gareth Summerton for his help and support!
 
 Special taste of Ukrainian cuisine was offered on the day by amazing club’s chef Carla who made delicious borscht and stuffed peppers followed by shot of Ukrainian vodka. We would also like to mention the bar staff of the club who were very nice and helpful.
 

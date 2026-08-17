@@ -5,6 +5,10 @@ image:
   focal_point: 'top'
 share: false
 authors: [oksana]
+tags:
+    - trip
+cover:
+  image: featured.jpg
 ---
 
 
@@ -15,7 +19,7 @@ Another wonderful day trip from Sunflowers Wales for 60 Ukrainian children and t
 WWT Llanelli Wetland Centre is a vast place full of joy, nature, new experiences, peace, and energy! Birds, paths, canoes – everything was just incredible!
 
 Many thanks to the Centre team for accommodating us so efficiently!
-We are also truly grateful to Neath Port Talbot Council and the Lotto Abertawe Grant Scheme (The Alun Evans Fund) through <a href="http://scvs.org.uk/" target="_blank">SCVS</a> for the financial support that made this amazing day possible.
+We are also truly grateful to Neath Port Talbot Council and the Lotto Abertawe Grant Scheme (The Alun Evans Fund) through <a href="http://scvs.org.uk/" target="_blank" rel="noopener noreferrer">SCVS</a> for the financial support that made this amazing day possible.
 And, as always, many thanks to Neil Keogh for arranging the transport logistics!
 
 Until next time, friends!

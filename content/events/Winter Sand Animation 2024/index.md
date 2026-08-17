@@ -5,14 +5,16 @@ image:
   focal_point: 'top'
 share: false
 authors: [admin]
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Touching, incredible, warm and joyful evening!
 
 <!--more-->
 
-<a href="https://www.facebook.com/oksana.ladyko" target="_blank">Oksana Merhut</a> brought magic to us and shared the Christmas spirit! Many thanks to everyone who came along and supported the great fundraising!
+<a href="https://www.facebook.com/oksana.ladyko" target="_blank" rel="noopener noreferrer">Oksana Merhut</a> brought magic to us and shared the Christmas spirit! Many thanks to everyone who came along and supported the great fundraising!
 
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200%; width: 100%;">

@@ -1,8 +1,8 @@
 ---
 title: Jazz music and singing at Llanelli Diplomat Hotel
 date: 2023-10-09
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [marianna]
 ---
@@ -12,9 +12,9 @@ We had a lovely evening of jazz music and singing!
 <!--more-->
 
 Massive Thank You to 
-<a href="https://www.facebook.com/p/Morriston-Big-Band-100070396623340/ " target="_blank">
+<a href="https://www.facebook.com/p/Morriston-Big-Band-100070396623340/ " target="_blank" rel="noopener noreferrer">
 Morriston Big Band</a> and 
-<a href="https://www.facebook.com/diplomathotelwales" target="_blank"> Diplomat Hotel & Spa</a> for giving us this opportunity and for their continuing support! 💙💛
+<a href="https://www.facebook.com/diplomathotelwales" target="_blank" rel="noopener noreferrer"> Diplomat Hotel & Spa</a> for giving us this opportunity and for their continuing support! 💙💛
 
 We fundraised £260!
 

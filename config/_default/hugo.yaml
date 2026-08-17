@@ -1,0 +1,119 @@
+# Configuration of Hugo
+# Guide: https://docs.hugoblox.com/
+# Hugo Documentation: https://gohugo.io/getting-started/configuration/
+
+title: 'Sunflowers Wales'
+baseURL: 'https://sunflowerswales.org.uk/'
+
+############################
+## LANGUAGE
+############################
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Events (social events)
+  - target:
+      path: /events/**
+      kind: page
+    show_date: true
+    share: true
+    pager: true
+
+  # Fundraising events
+  - target:
+      path: /fundraising/**
+      kind: page
+    show_date: true
+    share: true
+    pager: true
+
+  # Aid shipments
+  - target:
+      path: /shipments/**
+      kind: page
+    show_date: true
+    share: true
+    pager: true
+
+  # Tags exist only to power classes/family-activities/day-trips/dancing/
+  # sport, each of which pulls its own posts by tag directly (see
+  # layouts/_partials/tag-collection-list.html) — no public /tags/
+  # archive needed on top of that. `render: never` stops Hugo writing
+  # the /tags/<tag>/ pages at all; the tags and their post collections
+  # stay fully usable internally (site.GetPage, .GetTerms, etc.) either
+  # way — this only affects publishing, not the taxonomy data itself.
+  - target:
+      kind: taxonomy
+    build:
+      render: never
+      list: never
+  - target:
+      kind: term
+    build:
+      render: never
+      list: never
+
+############################
+## OUTPUTS
+############################
+
+outputs:
+  home: [HTML, RSS, backlinks]
+  section: [HTML, RSS]
+
+############################
+## ADVANCED
+############################
+
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+pagination:
+  pagerSize: 10
+enableEmoji: true
+enableRobotsTXT: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+disableAliases: true
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+timeout: 600000
+taxonomies:
+  author: authors
+  tag: tags
+  category: categories
+markup:
+  _merge: deep
+related:
+  threshold: 80
+  includeNewer: true
+  toLower: true
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 70
+security:
+  _merge: deep
+  exec:
+    allow: ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+  node:
+    permissions:
+      allowAddons: ['tailwindcss']
+      allowChildProcess: ['tailwindcss']
+      allowRead: ['.']
+      allowWrite: []
+sitemap:
+  _merge: deep

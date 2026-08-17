@@ -1,7 +1,6 @@
 ---
-title: Litters picking at Llanelli beach 
+title: Litters picking at Llanelli beach
 
-event: Litters picking at Llanelli beach
 # event_url: https://www.altlc.co.uk/news-1/over-600-people-attend-international-family-celebration-of-food-to-mark-the-platinum-jubilee
 
 location: Llanelli beach
@@ -15,9 +14,11 @@ summary: Litters picking together with Rotary club Llanelli
 
 share: false
 
-date: '2022-06-11' 
+date: '2022-06-11'
 
 authors: [oksanaharries]
+cover:
+  image: featured.jpg
 ---
 
-Litters picking at Llanelli beach together with <a href="https://www.facebook.com/LlanelliRotaryClub/" target="_blank">Rotary club Llanelli</a>. 
+Litters picking at Llanelli beach together with <a href="https://www.facebook.com/LlanelliRotaryClub/" target="_blank" rel="noopener noreferrer">Rotary club Llanelli</a>. 

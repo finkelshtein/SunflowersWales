@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: volodya
+name:
+  display: Volodymyr Pavliichuk
+role: Treasurer
+links:
+- icon: envelope
+  url: mailto:pavliichukvladimir@gmail.com
+- icon: brands/facebook
+  url: https://www.facebook.com/vladimir.pavliichuk
+user_groups:
+- Officers

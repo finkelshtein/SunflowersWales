@@ -1,14 +1,13 @@
 ---
 title: St David's Day at Croeso Festival
 date: 2025-03-01
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
 
 tags:
     - dance
-    
 ---
 
 On March 1st, Sunflowers Wales celebrated St David's Day at the Croeso 2025 Festival in Swansea.

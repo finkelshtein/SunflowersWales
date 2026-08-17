@@ -1,0 +1,7 @@
+build:
+  hugo_version: '0.165.0'
+deploy:
+  host: 'netlify'
+template:
+  id: "sunflowers-wales"
+  name: "Sunflowers Wales"

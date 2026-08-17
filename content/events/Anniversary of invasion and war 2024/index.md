@@ -5,9 +5,11 @@ summary: Commemorative meeting in Swansea
 
 share: false
 
-date: '2024-02-24' 
+date: '2024-02-24'
 
 authors: [admin]
+cover:
+  image: featured.jpg
 ---
 
 Today, at St David's Place in Swansea, dozens of Ukrainians and Welsh people gathered on the 2nd anniversary of the full-scale invasion and on the coming  10th anniversary of the beginning of the war. 

@@ -1,8 +1,6 @@
 ---
 title: Nice day in Wool&silk Art studio in Briton Ferry
 
-event: Art class at Wool&silk Art studio in Briton Ferry
-
 location: Wool&silk Art studio
 
 address:
@@ -14,17 +12,19 @@ summary: Art class in Wool&silk Art studio in Briton Ferry with Svetlana Lilley
 
 share: false
 
-date: '2022-07-30' 
+date: '2022-07-30'
 
 authors: [bohdana]
 
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
-Members of <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> Facebook group had a nice day in <a href="https://www.woolsilk.co.uk/" target="_blank">Wool and Silk Art Studio</a> with <a href="https://www.facebook.com/svetlana.lilley" target="_blank">Svetlana Lilley</a>. 
+Members of <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> Facebook group had a nice day in <a href="https://www.woolsilk.co.uk/" target="_blank" rel="noopener noreferrer">Wool and Silk Art Studio</a> with <a href="https://www.facebook.com/svetlana.lilley" target="_blank" rel="noopener noreferrer">Svetlana Lilley</a>. 
 
 What we made? Sunflowers! :-) And Welsh daffodils of course :-) 
 Thank you, Svetlana, for welcoming us!

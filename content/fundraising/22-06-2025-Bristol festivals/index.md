@@ -1,12 +1,12 @@
 ---
 title: Two festivals in Bristol in one day
 date: 2025-06-22
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [oksana]
 
-tags: 
+tags:
   - dance
 ---
 
@@ -14,13 +14,13 @@ It was a long, eventful, and wonderful day! New acquaintances, hugs, conversatio
 
 <!--more-->
 
-We <a href="../../dancing" target="_blank">danced</a> and sang at two festivals — <a href="https://www.facebook.com/groups/601579067497655/user/100064573517372/" target="_blank">South Gloucestershire Armed Forces Day</a> and Yate Rocks.
+We <a href="../../dancing" target="_blank" rel="noopener noreferrer">danced</a> and sang at two festivals — <a href="https://www.facebook.com/groups/601579067497655/user/100064573517372/" target="_blank" rel="noopener noreferrer">South Gloucestershire Armed Forces Day</a> and Yate Rocks.
 
 Huge thanks to the organisers for the invitation and financial support!
 
-Thank you to <a href="https://www.facebook.com/groups/601579067497655/user/100021561261219/" target="_blank">Neil Keogh</a> for arranging the transport and for the excellent driving!
+Thank you to <a href="https://www.facebook.com/groups/601579067497655/user/100021561261219/" target="_blank" rel="noopener noreferrer">Neil Keogh</a> for arranging the transport and for the excellent driving!
 
-Thanks to <a href="https://www.facebook.com/galina.cuhno/" target="_blank">Halyna Chukhno</a> and <a href="https://www.facebook.com/solomiya.tykha/" target="_blank">Solomiya Tykha</a> for the lovingly made sunflowers, which flew off in an instant!
+Thanks to <a href="https://www.facebook.com/galina.cuhno/" target="_blank" rel="noopener noreferrer">Halyna Chukhno</a> and <a href="https://www.facebook.com/solomiya.tykha/" target="_blank" rel="noopener noreferrer">Solomiya Tykha</a> for the lovingly made sunflowers, which flew off in an instant!
 
 This day brought us £960 — we’re preparing another shipment to Ukraine.
 

@@ -1,108 +1,106 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# ══════════════════════════════════════════════════════════════════════════════
+# HUGOBLOX CONFIGURATION
+# Schema: hugoblox.com/schema/v2
+# Documentation: https://docs.hugoblox.com/
+# ══════════════════════════════════════════════════════════════════════════════
+hugoblox:
+  schema: "2.0"
 
-# Appearance
+  # ────────────────────────────────────────────────────────────────────────────
+  # IDENTITY
+  # ────────────────────────────────────────────────────────────────────────────
+  identity:
+    name: "Sunflowers Wales"
+    organization: "Sunflowers Wales"
+    type: organization # person | organization | local_business
+    tagline: "Sending aid to Ukraine and strengthening Ukrainian community and culture in Wales"
+    description: "A non-profit community group founded by Ukrainian volunteers in Wales to support Ukrainians affected by Russia's invasion of Ukraine."
+    social:
+      twitter: "sunflowerswales"
 
-appearance:
-  theme_day: minimal
-  theme_night:
-  font: my_font_set
-  font_size: S
+  # ────────────────────────────────────────────────────────────────────────────
+  # THEME — "Community Warmth": warm terracotta + sunflower gold, not a
+  # literal flag palette — chosen from the three redesign previews
+  # ────────────────────────────────────────────────────────────────────────────
+  theme:
+    mode: light # light | dark | system
+    pack: "default"
+    colors:
+      primary: "#c2410c"   # Warm terracotta
+      secondary: "#f2b705" # Sunflower gold
+      neutral: "#78716c"   # Warm gray (ramp seed for borders/muted text — NOT the page background)
+    # `colors.neutral` seeds a gray-tone ramp, it does not set the page background.
+    # The actual page background/text colors are `surfaces` — a near-white seed there
+    # produced a broken, washed-out ramp with illegible headings (fixed here).
+    surfaces:
+      background: "#fdf6ec" # Warm cream (the actual page background)
+      foreground: "#2b2015" # Dark warm brown-black (body/heading text)
+      header:
+        background: "#faf0dc"
+        foreground: "#2b2015"
+      footer:
+        background: "#f3e6d0"
+        foreground: "#2b2015"
 
-# SEO
+  # ────────────────────────────────────────────────────────────────────────────
+  # TYPOGRAPHY — System: zero external font requests, fastest load, crisp
+  # ────────────────────────────────────────────────────────────────────────────
+  typography:
+    pack: "system"
 
-marketing:
-  seo:
-    site_type: Community group
-    local_business_type: ''
-    org_name: 'Sunflowers Wales'
-    description: "A nonprofit Community Group organized by Ukrainian volunteers in Wales to support Ukrainians affected by Russia's invasion."
-    twitter: 'sunflowerswales'
-  verification:
-    google: ''
-    baidu: ''
+  # ────────────────────────────────────────────────────────────────────────────
+  # LAYOUT
+  # ────────────────────────────────────────────────────────────────────────────
+  layout:
+    radius: "sm" # none | sm | md | lg | full
+    spacing: "compact" # compact | comfortable | spacious
+    avatar_shape: circle # circle | square | rounded
 
-# Site header
-
-header:
-  navbar:
+  # ────────────────────────────────────────────────────────────────────────────
+  # HEADER
+  # ────────────────────────────────────────────────────────────────────────────
+  header:
     enable: true
-    align: c
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
     show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: false 
+    show_title: false # logo image (assets/media/logo.png) replaces the "Sunflowers Wales" text
 
-# Site footer
+  # ────────────────────────────────────────────────────────────────────────────
+  # FOOTER
+  # ────────────────────────────────────────────────────────────────────────────
+  footer:
+    style: minimal
 
-footer:
+  # ────────────────────────────────────────────────────────────────────────────
+  # COPYRIGHT
+  # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    notice: '© {year} Dmitri Finkelshtein. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: "© {year} Sunflowers Wales"
 
-# Localization
+  # ────────────────────────────────────────────────────────────────────────────
+  # CONTENT
+  # ────────────────────────────────────────────────────────────────────────────
+  content:
+    math:
+      enable: false
+    toc:
+      enable: false
+    reading_time:
+      enable: false
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    enable: false
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
+  # ────────────────────────────────────────────────────────────────────────────
+  # SEARCH
+  # ────────────────────────────────────────────────────────────────────────────
   search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
     enable: true
 
-# Citation style
-
-publications:
-  date_format: January 2006
-  citation_style: apa
+  # ────────────────────────────────────────────────────────────────────────────
+  # LOCALE
+  # ────────────────────────────────────────────────────────────────────────────
+  locale:
+    date_format: "Jan 2, 2006"
+    time_format: "3:04 PM"

@@ -1,0 +1,35 @@
+{{/* Hugo Blox: Markdown (Sunflowers Wales override)
+     Same as upstream, but the fixed `max-w-prose` (~65ch/700px) left huge empty
+     margins on wide screens for our image/embed-heavy sections (donate buttons,
+     funding logos, welcome page). Adds a `design.width` option:
+       narrow (default upstream feel) | normal (default here) | wide  */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $content := $block.content }}
+{{ if not (reflect.IsMap $content) }}{{ $content = dict }}{{ end }}
+{{ $design := $block.design }}
+{{ if not (reflect.IsMap $design) }}{{ $design = dict }}{{ end }}
+
+{{ $title := "" }}
+{{ with index $content "title" }}{{ $title = printf "%v" . | emojify | $page.RenderString }}{{ end }}
+{{ $text := "" }}
+{{ with index $content "text" }}{{ $text = printf "%v" . | emojify | $page.RenderString | safeHTML }}{{ end }}
+
+{{ $width := $design.width | default "normal" }}
+{{ $max_w := "max-w-prose" }}
+{{ if eq $width "normal" }}{{ $max_w = "max-w-4xl" }}{{ end }}
+{{ if eq $width "wide" }}{{ $max_w = "max-w-6xl" }}{{ end }}
+
+<div class="flex flex-col items-center {{ $max_w }} mx-auto gap-3 justify-center px-6">
+
+  {{ with $title }}
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{/* prose-stone (warm-toned gray), not upstream's prose-slate (cool blue-gray) —
+       slate visually clashed against the site's warm terracotta/cream palette. */}}
+  {{ with $text }}<div class="prose prose-stone lg:prose-xl dark:prose-invert max-w-none">{{ . }}</div>{{ end }}
+</div>

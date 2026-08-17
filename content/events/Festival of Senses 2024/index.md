@@ -1,5 +1,5 @@
 ---
-title: Llandeilo Festival of Senses 
+title: Llandeilo Festival of Senses
 date: 2024-11-20
 image:
   focal_point: 'top'
@@ -8,7 +8,9 @@ authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 For the third year in a row, Sunflowers Wales is proudly participating in the wonderful Llandeilo Festival of Senses! 

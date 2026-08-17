@@ -1,8 +1,8 @@
-module github.com/wowchemy/starter-hugo-research-group
+module github.com/finkelshtein/SunflowersWales
 
-go 1.14
+go 1.19
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220423180919-17d5d3f0ca43 // indirect
+	github.com/HugoBlox/kit/modules/blox v0.12.1-0.20260527025414-68cbf3353012 // indirect
+	github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0 // indirect
 )

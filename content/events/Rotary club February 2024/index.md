@@ -1,13 +1,15 @@
 ---
-title: Sunflowers Wales in Pantglas Hall 
+title: Sunflowers Wales in Pantglas Hall
 
 summary: Our members had fun at Pantglas Hall - Holiday Lodges & Leisure Club
 
 share: false
 
-date: '2024-02-11' 
+date: '2024-02-11'
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
 Gloomy weather last Saturday did not stop our members to have fun. 

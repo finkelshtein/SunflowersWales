@@ -1,8 +1,8 @@
 ---
 title: Another fundraising dinner at Gwili Kitchen Cafe, Llandeilo
 date: 2022-11-12
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 ---
@@ -17,7 +17,7 @@ In Llandeilo Gwili kitchen cafe. Again! 😃
 
 It felt like a family gathering!
 
-Thank you to everyone who came to help us! Special thank you to <a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>, <a href="https://www.facebook.com/williambryan.jones.3" target="_blank">Bryan Jones</a>, Claudine Barr, kitchen staff (Lizzy is our hero)!
+Thank you to everyone who came to help us! Special thank you to <a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>, <a href="https://www.facebook.com/williambryan.jones.3" target="_blank" rel="noopener noreferrer">Bryan Jones</a>, Claudine Barr, kitchen staff (Lizzy is our hero)!
 
 And of cause to our Ukrainian cook Anna Lytvynenko and patisserie maker Olga Boiko
 

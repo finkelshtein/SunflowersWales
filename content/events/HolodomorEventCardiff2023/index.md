@@ -1,13 +1,15 @@
 ---
-title: Holodomor Anniversary event at Senedd 
+title: Holodomor Anniversary event at Senedd
 
 summary: We commemorated the millions of Ukrainians who died from the Holodomor—Stalin's genocide of Ukrainian nation.
 
 share: false
 
-date: '2023-11-25' 
+date: '2023-11-25'
 
 authors: [admin]
+cover:
+  image: featured.jpg
 ---
 
 A very touching event from the Welsh Government and Senedd, much appreciated!

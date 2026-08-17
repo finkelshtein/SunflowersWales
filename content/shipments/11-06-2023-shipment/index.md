@@ -1,11 +1,10 @@
 ---
 title: A big and valuable shipment in June
 date: 2023-06-19
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
-cathegory: 'latest'
 ---
 
 Another 5.5 square meters of parcels (worth over £2500) were sent on 11 June to Ukraine from three our collecting points in Swansea and Llanelli. 
@@ -22,15 +21,15 @@ The war is a marathon and your constant support is vital!
 
 Many thanks to the volunteers in UKraine who promptly delivered this to the destination points to hospitals and military paramedics:
 
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0HFSR3cRs3btxdN1EJzuYujzTHoRHkMGJANpFM8pQ9nSnxPh94dNpVT68hXzAQMeDl" target="_blank">Link 1</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02Y7ekpTAP6Q5bkwAVZ6LxUgKBzEj5tdeHrwASDmj2UWdN35PjjnabcMSSRY8bNmf5l" target="_blank">Link 2</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/groups/601579067497655/posts/834798987508994" target="_blank">Link 3</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/oleksandr.korkoil/posts/pfbid02C8w3G9Rb6MvGHSnhCDkeBnaoQKGnKyqkZEtG4Q9UPkoGjyy3bLBACaqzPDYQYjByl" target="_blank">Link 4</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid0HFSR3cRs3btxdN1EJzuYujzTHoRHkMGJANpFM8pQ9nSnxPh94dNpVT68hXzAQMeDl" target="_blank" rel="noopener noreferrer">Link 1</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/luda.barsyk/posts/pfbid02Y7ekpTAP6Q5bkwAVZ6LxUgKBzEj5tdeHrwASDmj2UWdN35PjjnabcMSSRY8bNmf5l" target="_blank" rel="noopener noreferrer">Link 2</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/groups/601579067497655/posts/834798987508994" target="_blank" rel="noopener noreferrer">Link 3</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/oleksandr.korkoil/posts/pfbid02C8w3G9Rb6MvGHSnhCDkeBnaoQKGnKyqkZEtG4Q9UPkoGjyy3bLBACaqzPDYQYjByl" target="_blank" rel="noopener noreferrer">Link 4</a>&nbsp;&nbsp;
 
  
 We will not stop, we continue to help Ukrainians! Our effective work is impossible without you, your help, and your generosity! 
 
-Every hemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank">Amazon list</a> we sent may save a life. 
+Every hemostatic dressing from our <a href="https://amzn.to/3DeSWrn" target="_blank" rel="noopener noreferrer">Amazon list</a> we sent may save a life. 
 
 It's worth all the effort!
 

@@ -1,0 +1,38 @@
+{{/* Sunflowers Wales: shared by the local layouts/<section>/list.html
+     overrides for classes / family-activities / day-trips / sport —
+     these sections have no content of their own (their _index.md
+     carries no sub-pages); the actual posts live tagged in content/
+     events/ and content/fundraising/. Paginates *all* posts carrying
+     the section's tag using the exact same alternating-view + paginator
+     partials the plain folder sections (fundraising/events/shipments)
+     use via layouts/list.html, so a tag-based "section" and a real
+     folder-based one look and behave identically: fixed count per page,
+     Next >> at the bottom — one page, not a small preview plus a
+     separate /tags/<tag>/ archive to click through to.
+
+     Title styling matches the home hero exactly (assets/js/hbx/blocks/
+     hero/component.jsx) and layouts/list.html's own override, rather
+     than the Tailwind Typography plugin's default H1 (from being inside
+     a `prose` block) — one consistent title style site-wide.
+
+     Dancing group uses its own bespoke intro (layouts/dancing/list.html)
+     instead of this generic one, pairing it with tag-collection-items
+     directly — see that file for why.
+
+     px-6 lg:px-8 on the wrapper: baseof.html's `.page-body` carries no
+     horizontal padding of its own (every HugoBlox block supplies its
+     own px-*), and this title+intro block previously had none either
+     — fine above the sm breakpoint where mx-auto's centering leaves
+     visible margin regardless, but on mobile the title and intro text
+     ran flush to the screen edges. */}}
+
+{{ $page := . }}
+
+<div class="max-w-4xl mx-auto flex justify-center px-6 lg:px-8">
+  <article class="prose prose-stone lg:prose-xl dark:prose-invert">
+    <h1 class="not-prose text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:text-6xl">{{ $page.Title }}</h1>
+    {{ $page.Content }}
+  </article>
+</div>
+
+{{ partial "tag-collection-items" $page }}

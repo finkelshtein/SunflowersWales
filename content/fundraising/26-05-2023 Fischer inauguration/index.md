@@ -1,21 +1,20 @@
 ---
 title: Mayor’s inauguration ceremony in Llandeilo
 date: 2023-06-27
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [bohdana]
 
 tags:
     - dance
-    
 ---
 
-On the 26th of May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> were honoured to take a part in Mayor making ceremony.
+On the 26th of May, <a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> were honoured to take a part in Mayor making ceremony.
 
 <!--more-->
 
-<a href="https://www.facebook.com/christophffischer" target="_blank">Christoph Fischer</a>, our good friend with whose help we have raised almost £6000, became a Mayor of Llandeilo and he’s chosen us to be a Mayor’s charity!!!
+<a href="https://www.facebook.com/christophffischer" target="_blank" rel="noopener noreferrer">Christoph Fischer</a>, our good friend with whose help we have raised almost £6000, became a Mayor of Llandeilo and he’s chosen us to be a Mayor’s charity!!!
 
 It was a great night!
 
@@ -36,9 +35,9 @@ Together we strong!
 
 Diolch o’r galon!
 
-PS Thank you <a href="https://www.facebook.com/groups/601579067497655/user/100001259015536" target="_blank">Mark Revitt</a> for beautiful pictures.
+PS Thank you <a href="https://www.facebook.com/groups/601579067497655/user/100001259015536" target="_blank" rel="noopener noreferrer">Mark Revitt</a> for beautiful pictures.
 
-And thank you to Ukrainian artist <a href="https://www.facebook.com/groups/601579067497655/user/100006019834030" target="_blank">Mila Kuzmenko</a> for a beautiful painting we’ve presented to Christoph
+And thank you to Ukrainian artist <a href="https://www.facebook.com/groups/601579067497655/user/100006019834030" target="_blank" rel="noopener noreferrer">Mila Kuzmenko</a> for a beautiful painting we’ve presented to Christoph
 
 
 

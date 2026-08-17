@@ -1,14 +1,13 @@
 ---
 title: Celebration of the Independence Day of Ukraine
 date: 2024-08-24
-image:
-  focal_point: 'top'
+cover:
+  image: featured.jpg
 share: false
 authors: [admin]
 
 tags:
     - dance
-    
 ---
 
 A great day at St David's Pl in Swansea City Centre!
@@ -23,7 +22,7 @@ Our Welsh friends gifted us with their professional performances, and we were pr
 
 It was a great event created by the efforts of the Sunflowers Wales team together with dozens of our Ukrainian and Welsh friends!
 
-Thank you <a href="https://www.swansea.gov.uk/" target="_blank">Swansea Council</a> and <a href="https://wrc.wales/" target="_blank">Welsh Refugee Council</a> for the provided funding! And thank you <a href="https://www.urbanfoundry.co.uk/" target="_blank">Urban Foundry</a> for the kind hospitality!
+Thank you <a href="https://www.swansea.gov.uk/" target="_blank" rel="noopener noreferrer">Swansea Council</a> and <a href="https://wrc.wales/" target="_blank" rel="noopener noreferrer">Welsh Refugee Council</a> for the provided funding! And thank you <a href="https://www.urbanfoundry.co.uk/" target="_blank" rel="noopener noreferrer">Urban Foundry</a> for the kind hospitality!
 
 Thank you all!
 

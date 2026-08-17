@@ -5,19 +5,21 @@ summary: Incredible cooking class for Ukrainian children
 
 share: false
 
-date: '2024-08-21' 
+date: '2024-08-21'
 
 authors: [oksana]
 
 
 tags:
     - class
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Today was an unforgettable day filled with laughter, learning, and lots of pizza-making magic as we hosted an incredible cooking class for Ukrainian children! 
 
-These little chefs transformed into pizzaiolos, diving into every step of the pizza-making process with enthusiasm and joy. Guided by the wonderful <a href="https://www.facebook.com/profile.php?id=100065221683874" target="_blank">Tetyana Efimova</a>, the kids followed instructions like pros, mastering every cooking step.
+These little chefs transformed into pizzaiolos, diving into every step of the pizza-making process with enthusiasm and joy. Guided by the wonderful <a href="https://www.facebook.com/profile.php?id=100065221683874" target="_blank" rel="noopener noreferrer">Tetyana Efimova</a>, the kids followed instructions like pros, mastering every cooking step.
 
 While the dough was rising and the pizzas were baking, the excitement didn't stop! The children were bursting with energy, enjoying a whirlwind of activities, challenges, dancing, and playtime. The atmosphere was electric, with smiles and giggles echoing everywhere.
 

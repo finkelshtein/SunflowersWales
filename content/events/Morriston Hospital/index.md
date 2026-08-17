@@ -1,18 +1,18 @@
 ---
-title: Cleaning at a Morriston hospital's courtyard 
-
-event: Cleaning at a Morriston hospital's courtyard 
+title: Cleaning at a Morriston hospital's courtyard
 
 summary: We cleaned up little courtyard next to burns and plastic ward at Morriston hospital, Swansea.
 
 share: false
 
-date: '2022-08-31' 
+date: '2022-08-31'
 
 authors: [bohdana]
+cover:
+  image: featured.jpg
 ---
 
-<a href="https://www.facebook.com/groups/601579067497655" target="_blank">Sunflowers Wales (Соняшники)</a> worked hard today in Morriston hospital, Swansea. We cleaned up little courtyard next to burns and plastic ward.
+<a href="https://www.facebook.com/groups/601579067497655" target="_blank" rel="noopener noreferrer">Sunflowers Wales (Соняшники)</a> worked hard today in Morriston hospital, Swansea. We cleaned up little courtyard next to burns and plastic ward.
 
 So patients who are unwell can be taken outside to enjoy sunshine, sky, trees and plants and get better through the medium of nature.
 

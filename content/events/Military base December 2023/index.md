@@ -5,13 +5,15 @@ summary: Sunflowers Wales were invited to visit Ukrainian militaries who train i
 
 share: false
 
-date: '2024-03-04' 
+date: '2024-03-04'
 
 authors: [oksana]
 
 tags:
     - dance
-    
+
+cover:
+  image: featured.jpg
 ---
 
 Is it difficult to be a volunteer? No!
@@ -32,7 +34,7 @@ So, is it possible not to help after seeing those grateful eyes? Impossible!
 
 Is it possible not to help, knowing that all the warriors need our help? Various help depending on the circumstances. Impossible!
 
-Thank you, <a href="https://www.facebook.com/irina.creeger/" target="_blank">Irina Garmash-Creeger</a> and Ukraine UK Unity, for involving us in this project, and we look forward to new meetings!
+Thank you, <a href="https://www.facebook.com/irina.creeger/" target="_blank" rel="noopener noreferrer">Irina Garmash-Creeger</a> and Ukraine UK Unity, for involving us in this project, and we look forward to new meetings!
 
 So, let's not stop!
 
