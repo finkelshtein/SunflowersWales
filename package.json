@@ -4,8 +4,9 @@
   "private": true,
   "description": "Sunflowers Wales — HugoBlox site",
   "scripts": {
-    "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify"
+    "dev": "hugo && npm run index && hugo server --disableFastRender",
+    "build": "hugo --minify && npm run index",
+    "index": "pagefind --site public"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
@@ -15,5 +16,8 @@
   },
   "allowScripts": {
     "@parcel/watcher@2.5.1": true
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }
